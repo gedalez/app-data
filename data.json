@@ -1,0 +1,71 @@
+{
+  "pages": [
+    {
+      "name": "Modern Furniture for Survival Mode",
+      "previewImg": "https://raw.githubusercontent.com/AdmobLOH/apps-data/main/mcpe/01/pages/preview.jpg",
+      "likes": 2.1,
+      "downloads": 1.3,
+      "content": [
+        {
+          "title": "Описание"
+        },
+        {
+          "body": "Если ты любишь собак \nи котов, то наверняка хочешь сделать их жизнь лучше. Именно для таких случаев разработан мод Pet Furniture в Майнкрафт. Дополнение вводит 40 новых видов мебели, которые используются для питомцев. Например, ты сможешь поставить красивую будку для своей собаки или когтеточку для своего кота. Тебе достаточно расположить блок глины в камнерез и выбрать желаемый блок из появившегося списка элементов."
+        },
+        {
+          "title": "Обновление"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/AdmobLOH/apps-data/main/mcpe/01/pages/01.jpg"
+        },
+        {
+          "title": "Все виды блоков"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/AdmobLOH/apps-data/main/mcpe/01/pages/02.jpg"
+        },
+        {
+          "body": "Для получения введи команду /das @p pf: (название блока) в чат или используй камнерез."
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754063_pet-furniture-2.jpg"
+        },
+        {
+          "title": "Будки"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754072_pet-furniture-3.jpg"
+        },
+        {
+          "title": "Дверь"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649753978_pet-furniture-4.jpg"
+        },
+        {
+          "title": "Постройка"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754069_pet-furniture-5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mod 2",
+      "previewImg": "https://mcpehub.org/uploads/posts/2022-04/1649754007_pet-furniture-7.jpg",
+      "likes": 3.5,
+      "downloads": 1.8,
+      "content": [
+        {
+          "title": "it's my title!2"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754007_pet-furniture-7.jpg"
+        },
+        {
+          "body": "it's some body2"
+        }
+      ]
+    }
+  ]
+}
