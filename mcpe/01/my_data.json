@@ -382,7 +382,7 @@
         {
           "url": "https://mcpehub.org/engine/getfile.php?id=23143",
           "name": "remon_furniture03.mcpack"
-        }
+      }
       ],
       "likes": 0.8,
       "downloads": 1.1,
@@ -653,6 +653,18 @@
       "content": [
         {
           "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "We hope that you did not have time to get tired of assembling with furniture. We will give you another chance to equip any of your Minecraft rooms with beautiful and modern furniture with the Kraftoid’s Modern Furniture mod. The assembly includes a huge variety of elements: from sofas to tables. In addition, gaming computers, TVs and gadgets have been added, without which it is impossible to imagine any home in the current realities.\n\nMore than 20 new elements.",
+            "ru": "Мод MeoWhy Furniture добавляет большое количество мебели в игру. При этом автор не соблюдал никакого стиля: одни предметы получились лучше, а другие чуть хуже. Используй мебель для оформления своих комнат в блочной вселенной. Среди предметов мебели: шкафы, столы, большие грибы, камни на земле, туалеты, пикники, окна, ворота и многое другое. При этом вещи можно получить даже в режиме выживания."
+          }
+        },
+        {
+          "title": {
             "en": "Shield and trident",
             "ru": "Щит и трезубец"
           }
@@ -662,12 +674,6 @@
         },
         {
           "image": "https://mcpehub.org/uploads/posts/2022-05/1653381566_meowhy-furniture-16.gif"
-        },
-        {
-          "body": {
-            "en": "We hope that you did not have time to get tired of assembling with furniture. We will give you another chance to equip any of your Minecraft rooms with beautiful and modern furniture with the Kraftoid’s Modern Furniture mod. The assembly includes a huge variety of elements: from sofas to tables. In addition, gaming computers, TVs and gadgets have been added, without which it is impossible to imagine any home in the current realities.\n\nMore than 20 new elements.",
-            "ru": "Мод MeoWhy Furniture добавляет большое количество мебели в игру. При этом автор не соблюдал никакого стиля: одни предметы получились лучше, а другие чуть хуже. Используй мебель для оформления своих комнат в блочной вселенной. Среди предметов мебели: шкафы, столы, большие грибы, камни на земле, туалеты, пикники, окна, ворота и многое другое. При этом вещи можно получить даже в режиме выживания."
-          }
         },
         {
           "title": {
