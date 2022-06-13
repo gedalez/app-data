@@ -786,10 +786,5 @@
       ]
     }
   ],
-  "posters": [
-    {
-      "img": "https://play-lh.googleusercontent.com/qzlQ-n7KjWhap_nJ9iD80XpAUj8vtjB2IGMmya8yfcGGNiBcXCW23HJIOneL8Gz8nA=w2560-h1440-rw",
-      "packageName": "com.ultimategamestudio.mcpecenter.mods"
-    }
-  ]
+  "posters": []
 }
