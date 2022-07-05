@@ -1,0 +1,796 @@
+{
+  "mimeType": "application/octet-stream",
+  "pages": [
+    {
+      "name": "Pet Furniture",
+      "previewImg": "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/carousel/01.jpg",
+      "files": [
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22973",
+          "name": "pet_furniture01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22974",
+          "name": "pet_furniture02.mcaddon"
+        }
+      ],
+      "likes": 1.1,
+      "downloads": 1.6,
+      "size": 0.9,
+      "carouselImages": [
+        "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/carousel/01.jpg",
+        "https://mcpehub.org/uploads/posts/2022-04/1649754007_pet-furniture-7.jpg",
+        "https://mcpehub.org/uploads/posts/2022-04/1649754007_pet-furniture-8.jpg",
+        "https://mcpehub.org/uploads/posts/2022-04/1649754015_pet-furniture-9.jpg",
+        "https://mcpehub.org/uploads/posts/2022-04/1649754027_pet-furniture-10.jpg",
+        "https://mcpehub.org/uploads/posts/2022-05/1652345941_pet-furniture-12.jpg"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "If you love dogs and cats, then you probably want to make their life better. It is for such cases that the Pet Furniture mod for Minecraft was developed. The add-on introduces 40 new types of furniture that are used for pets. For example, you can put up a beautiful booth for your dog or a scratching post for your cat. You just need to place a block of clay in the stone cutter and select the desired block from the list of elements that appears.",
+            "ru": "Если ты любишь собак и котов, то наверняка хочешь сделать их жизнь лучше. Именно для таких случаев разработан мод Pet Furniture в Майнкрафт. Дополнение вводит 40 новых видов мебели, которые используются для питомцев. Например, ты сможешь поставить красивую будку для своей собаки или когтеточку для своего кота. Тебе достаточно расположить блок глины в камнерез и выбрать желаемый блок из появившегося списка элементов."
+          }
+        },
+        {
+          "title": {
+            "en": "Update",
+            "ru": "Обновление"
+          }
+        },
+        {
+          "image": "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/01.jpg"
+        },
+        {
+          "title": {
+            "en": "All kinds of blocks",
+            "ru": "Все виды блоков"
+          }
+        },
+        {
+          "image": "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/02.jpg"
+        },
+        {
+          "body": {
+            "en": "To get it type /das @p pf: (block name) in chat or use a rock cutter.",
+            "ru": "Для получения введи команду /das @p pf: (название блока) в чат или используй камнерез."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754063_pet-furniture-2.jpg"
+        },
+        {
+          "title": {
+            "en": "Booths",
+            "ru": "Будки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754072_pet-furniture-3.jpg"
+        },
+        {
+          "title": {
+            "en": "Door",
+            "ru": "Дверь"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649753978_pet-furniture-4.jpg"
+        },
+        {
+          "title": {
+            "en": "Construction",
+            "ru": "Постройка"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754069_pet-furniture-5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Modern Furniture",
+      "files": [
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23196",
+          "name": "modern_furniture01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23197",
+          "name": "moder_furniture02.mcaddon"
+        }
+      ],
+      "likes": 0.9,
+      "downloads": 1.3,
+      "size": 3.1,
+      "previewImg": "https://mcpehub.org/uploads/posts/2022-01/1641046638_modern-furniture-survival-6.jpg",
+      "carouselImages": [
+        "https://mcpehub.org/uploads/posts/2022-01/1641046638_modern-furniture-survival-6.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1645151074_modern-furniture-survival-3.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1645151077_modern-furniture-survival-4.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046729_modern-furniture-survival-4.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046658_modern-furniture-survival-5.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046718_modern-furniture-survival-7.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046654_modern-furniture-survival-8.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046728_modern-furniture-survival-9.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046705_modern-furniture-survival-11.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1643448398_modern-furniture-survival-14.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "Everything related to furniture is very popular among Minecraft users. Therefore, we offer you another option for fashion with furniture - Modern Furniture | survival. There are more than 150 types of decorations that you can use to decorate your own homes. The main feature of the assembly was the ability to obtain items even in survival mode. To do this, it is enough to use a stone cutter and clay.",
+            "ru": "Все что связано с мебелью пользуется большой популярностью среди пользователей Майнкрафт. Поэтому предлагаем тебе еще один вариант мода с мебелью — Modern Furniture | Survival. Здесь представлено больше 150 видов украшений, которые можно использовать для обустройства собственных домов. Основной особенностью сборки стала возможность получения предметов даже в режиме выживания. Для этого достаточно использовать камнерез и глину."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654510144_modern-furniture-1.jpg"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-03/1647023791_modern-furniture-survival-2.jpg"
+        },
+        {
+          "body": {
+            "en": "To get furniture, you can write the command /give @p f: or put clay in a stone cutter.",
+            "ru": "Для получения мебели можно прописать команду /give @p f: или положить глину в камнерез."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Medieval Furniture",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/0/uc?id=1ERfei5lDmmGWesdDNF01VooAY7tCa2-j&export=download",
+          "name": "medieval_furniture01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23170",
+          "name": "medieval_furniture02.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23169",
+          "name": "medieval_furniture03.mcpack"
+        }
+      ],
+      "likes": 0.7,
+      "downloads": 1.1,
+      "size": 5.3,
+      "previewImg": "https://mcpehub.org/uploads/posts/2021-12/1640681725_medieval-furniture-62.jpg",
+      "carouselImages": [
+        "https://mcpehub.org/uploads/posts/2021-12/1640681725_medieval-furniture-62.jpg",
+        "https://mcpehub.org/uploads/posts/2021-12/1640681798_medieval-furniture-63.jpg",
+        "https://mcpehub.org/uploads/posts/2021-12/1640681767_medieval-furniture-64.jpg",
+        "https://mcpehub.org/uploads/posts/2021-12/1640681756_medieval-furniture-65.jpg",
+        "https://mcpehub.org/uploads/posts/2021-12/1640681792_medieval-furniture-66.jpg",
+        "https://mcpehub.org/uploads/posts/2021-12/1640681713_medieval-furniture-67.jpg",
+        "https://mcpehub.org/uploads/posts/2021-12/1640681785_medieval-furniture-68.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1644570174_medieval-furniture-95.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1644570109_medieval-furniture-96.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046705_modern-furniture-survival-11.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1643448398_modern-furniture-survival-14.jpg",
+        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "To furnish your houses in a medieval style, you no longer need to use stairs and signs: just install the Medieval Furniture mod, which includes many new elements for decoration. With this assembly, you can beautifully equip any home as you wish. Naturally, everything will be designed in the style of the Middle Ages. All elements of the assembly are made in 3D format.\n\nIf you do not have the skills to stylize rooms or want a beautiful house in the right style, then the author has also added a map with a small house.",
+            "ru": "Для обустройства своих домов в средневековом стиле больше не нужно применять лестницы и таблички: достаточно установить мод Medieval Furniture, который включает множество новых элементов для декора. При помощи этой сборки можно красиво обустроить любой дом так, как Вы пожелаете. Естественно, все будет выдержано в стиле средневековья. Все элементы сборки выполнены в 3D формате.\n\nЕсли же Вы не обладаете навыками стилизации помещений или хотите красивый домик в нужном стиле, то автор добавил еще и карту с небольшим домиком."
+          }
+        },
+        {
+          "title": {
+            "en": "Preview",
+            "ru": "Превью"
+          }
+        },
+        {
+          "body": {
+            "en": "The add-on contains more than 160 blocks. Get them in creative mode and start furnishing your homes.",
+            "ru": "Дополнение содержит больше 160 блоков. Получите их в творческом режиме и начните обустраивать свои дома."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681731_medieval-furniture-1.jpg"
+        },
+        {
+          "title": {
+            "en": "Decorative sticks",
+            "ru": "Декоративные палочки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681703_medieval-furniture-2.jpg"
+        },
+        {
+          "title": {
+            "en": "Boxes",
+            "ru": "Коробки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570109_medieval-furniture-71.jpg"
+        },
+        {
+          "title": {
+            "en": "Decorative boxes",
+            "ru": "Декоративные коробки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681748_medieval-furniture-8.jpg"
+        },
+        {
+          "title": {
+            "en": "Decorative barrels",
+            "ru": "Декоративные бочки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681775_medieval-furniture-11.jpg"
+        },
+        {
+          "title": {
+            "en": "Bowls",
+            "ru": "Миски"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681719_medieval-furniture-14.jpg"
+        },
+        {
+          "title": {
+            "en": "Buckets",
+            "ru": "Ведра"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681758_medieval-furniture-17.jpg"
+        },
+        {
+          "title": {
+            "en": "Baskets",
+            "ru": "Корзины"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681741_medieval-furniture-20.jpg"
+        },
+        {
+          "title": {
+            "en": "Walls and roofs",
+            "ru": "Стены и крыши"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681741_medieval-furniture-23.jpg"
+        },
+        {
+          "title": {
+            "en": "Tables",
+            "ru": "Столы"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681773_medieval-furniture-29.jpg"
+        },
+        {
+          "title": {
+            "en": "Fence gate",
+            "ru": "Ворота для забора"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570130_medieval-furniture-74.jpg"
+        },
+        {
+          "title": {
+            "en": "Fence",
+            "ru": "Забор"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681788_medieval-furniture-36.jpg"
+        },
+        {
+          "title": {
+            "en": "Stools",
+            "ru": "Табуретки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681791_medieval-furniture-42.jpg"
+        },
+        {
+          "title": {
+            "en": "Urns",
+            "ru": "Урны"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681788_medieval-furniture-53.jpg"
+        },
+        {
+          "title": {
+            "en": "Books",
+            "ru": "Книги"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681743_medieval-furniture-57.jpg"
+        },
+        {
+          "title": {
+            "en": "Corners",
+            "ru": "Уголки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681745_medieval-furniture-59.jpg"
+        },
+        {
+          "title": {
+            "en": "Tables and shelves",
+            "ru": "Столы и полки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570087_medieval-furniture-82.jpg"
+        },
+        {
+          "title": {
+            "en": "New blocks",
+            "ru": "Новые блоки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570128_medieval-furniture-90.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Remon Furniture",
+      "files": [
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23141",
+          "name": "remon_furniture01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23142",
+          "name": "remon_furniture02.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23143",
+          "name": "remon_furniture03.mcpack"
+      }
+      ],
+      "likes": 0.8,
+      "downloads": 1.1,
+      "size": 5.9,
+      "previewImg": "https://mcpehub.org/uploads/posts/2022-06/1654337644_remon-furniture-18.jpg",
+      "carouselImages": [
+        "https://mcpehub.org/uploads/posts/2022-06/1654337644_remon-furniture-18.jpg",
+        "https://mcpehub.org/uploads/posts/2022-06/1654337635_remon-furniture-15.jpg",
+        "https://mcpehub.org/uploads/posts/2022-06/1654337633_remon-furniture-16.jpg",
+        "https://mcpehub.org/uploads/posts/2022-06/1654337654_remon-furniture-17.jpg"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "Another option for various furniture and decorations will provide the Remon Furniture mod. More than 25 types of furniture will appear in the game, each of which has several options. In total, more than 80 elements will be added to help you furnish any room in the blocky world.\n\nAs always, everything is mined in a stone cutter.",
+            "ru": "Еще один вариант различной мебели и декораций предоставит мод Remon Furniture. В игре появится больше 25 видов мебели, каждый из которых имеет несколько вариантов. В общей сложности, будет добавлено больше 80 элементов, которые помогут тебе обустроить любое помещение в блочном мире.\n\nКак и всегда, все добывается в камнерезе."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337667_remon-furniture-1.jpg"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337702_remon-furniture-2.jpg"
+        },
+        {
+          "title": {
+            "en": "Stacks of books",
+            "ru": "Стопки книг"
+          }
+        },
+        {
+          "body": {
+            "en": "Can stack books on top of each other",
+            "ru": "Можно ставить книги друг на друга"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337682_remon-furniture-3.jpg"
+        },
+        {
+          "title": {
+            "en": "Notebook",
+            "ru": "Ноутбук"
+          }
+        },
+        {
+          "body": {
+            "en": "Can be opened and turned on",
+            "ru": "Можно открывать и включать"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337642_remon-furniture-4.jpg"
+        },
+        {
+          "title": {
+            "en": "Air conditioner",
+            "ru": "Кондиционер"
+          }
+        },
+        {
+          "body": {
+            "en": "Can be included",
+            "ru": "Можно включать"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337651_remon-furniture-5.jpg"
+        },
+        {
+          "title": {
+            "en": "Digital clock",
+            "ru": "Цифровые часы"
+          }
+        },
+        {
+          "body": {
+            "en": "You can set a timer for 10, 20 and 30 seconds",
+            "ru": "Можно ставить таймер на 10, 20 и 30 секунд"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337610_remon-furniture-6.jpg"
+        },
+        {
+          "title": {
+            "en": "Ceiling fan",
+            "ru": "Потолочный вентилятор"
+          }
+        },
+        {
+          "body": {
+            "en": "2 speed",
+            "ru": "2 скорости"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337672_remon-furniture-7.jpg"
+        },
+        {
+          "title": {
+            "en": "Television",
+            "ru": "Телевизор"
+          }
+        },
+        {
+          "body": {
+            "en": "3 channels",
+            "ru": "3 канала"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337689_remon-furniture-8.jpg"
+        },
+        {
+          "title": {
+            "en": "Lighting",
+            "ru": "Освещение"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337670_remon-furniture-9.jpg"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337627_remon-furniture-10.jpg"
+        },
+        {
+          "title": {
+            "en": "Cupboard",
+            "ru": "Шкаф"
+          }
+        },
+        {
+          "body": {
+            "en": "Can be opened",
+            "ru": "Можно открывать"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337650_remon-furniture-11.jpg"
+        },
+        {
+          "title": {
+            "en": "Paintings",
+            "ru": "Картины"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337631_remon-furniture-12.jpg"
+        },
+        {
+          "title": {
+            "en": "Curtains",
+            "ru": "Шторы"
+          }
+        },
+        {
+          "body": {
+            "en": "16 colors",
+            "ru": "16 цветов"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337627_remon-furniture-13.jpg"
+        },
+        {
+          "title": {
+            "en": "Sofas and armchairs",
+            "ru": "Диваны и кресла"
+          }
+        },
+        {
+          "body": {
+            "en": "2 speed",
+            "ru": "2 скорости"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337623_remon-furniture-14.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Kraftoid’s Modern Furniture",
+      "files": [
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22956",
+          "name": "kraftoid_modern_furniture01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22955",
+          "name": "kraftoid_modern_furniture02.mcpack"
+        }
+      ],
+      "likes": 0.5,
+      "downloads": 0.8,
+      "size": 4.1,
+      "previewImg": "https://mcpehub.org/uploads/posts/2022-05/1653637143_kraftoids-modern-furniture-1.jpg",
+      "carouselImages": [
+        "https://mcpehub.org/uploads/posts/2022-05/1653637143_kraftoids-modern-furniture-1.jpg",
+        "https://mcpehub.org/uploads/posts/2022-05/1653637092_kraftoids-modern-furniture-2.jpg",
+        "https://mcpehub.org/uploads/posts/2022-05/1653637112_kraftoids-modern-furniture-3.jpg"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "We hope that you did not have time to get tired of assembling with furniture. We will give you another chance to equip any of your Minecraft rooms with beautiful and modern furniture with the Kraftoid’s Modern Furniture mod. The assembly includes a huge variety of elements: from sofas to tables. In addition, gaming computers, TVs and gadgets have been added, without which it is impossible to imagine any home in the current realities.\n\nMore than 20 new elements.",
+            "ru": "Надеемся, что ты не успел устать от сборок с мебелью. Подарим тебе еще один шанс обустроить любую из своих комнат в Майнкрафт красивой и современной мебелью с модом Kraftoid’s Modern Furniture. Сборка включает огромное разнообразие элементов: начиная с диванов и заканчивая столами. Кроме этого, добавлены игровые компьютеры, телевизоры и гаджеты, без которых невозможно представить любой дом в нынешних реалиях.\n\nБольше 20 новых элементов."
+          }
+        },
+        {
+          "title": {
+            "en": "Creation",
+            "ru": "Создание"
+          }
+        },
+        {
+          "body": {
+            "en": "Use the recipe below to create anything you like.",
+            "ru": "Используй рецепт ниже, чтобы создать все что угодно."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653637099_kraftoids-modern-furniture-4.jpg"
+        }
+      ]
+    },
+    {
+      "name": "MeoWhy Furniture",
+      "files": [
+        {
+          "url": "https://mcpehub.org/engine/dlfile.php?id=22886",
+          "name": "mw_furniture01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22885",
+          "name": "mw_furniture02.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22528",
+          "name": "mw_furniture03.mcpack"
+        }
+      ],
+      "likes": 0.6,
+      "downloads": 1.0,
+      "size": 1.2,
+      "previewImg": "https://mcpehub.org/uploads/posts/2022-02/1643710876_meowhy-furniture-5.jpg",
+      "carouselImages": [
+        "https://mcpehub.org/uploads/posts/2022-02/1643710876_meowhy-furniture-5.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1643710803_meowhy-furniture-6.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1643710823_meowhy-furniture-4.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1643710836_meowhy-furniture-3.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1643710791_meowhy-furniture-2.jpg",
+        "https://mcpehub.org/uploads/posts/2022-02/1643710833_meowhy-furniture-1.jpg"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "We hope that you did not have time to get tired of assembling with furniture. We will give you another chance to equip any of your Minecraft rooms with beautiful and modern furniture with the Kraftoid’s Modern Furniture mod. The assembly includes a huge variety of elements: from sofas to tables. In addition, gaming computers, TVs and gadgets have been added, without which it is impossible to imagine any home in the current realities.\n\nMore than 20 new elements.",
+            "ru": "Мод MeoWhy Furniture добавляет большое количество мебели в игру. При этом автор не соблюдал никакого стиля: одни предметы получились лучше, а другие чуть хуже. Используй мебель для оформления своих комнат в блочной вселенной. Среди предметов мебели: шкафы, столы, большие грибы, камни на земле, туалеты, пикники, окна, ворота и многое другое. При этом вещи можно получить даже в режиме выживания."
+          }
+        },
+        {
+          "title": {
+            "en": "Shield and trident",
+            "ru": "Щит и трезубец"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381594_meowhy-furniture-15.jpg"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381566_meowhy-furniture-16.gif"
+        },
+        {
+          "title": {
+            "en": "Salmon",
+            "ru": "Лосось"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381653_meowhy-furniture-17.jpg"
+        },
+        {
+          "title": {
+            "en": "Piece of roof",
+            "ru": "Кусок крыши"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381576_meowhy-furniture-18.jpg"
+        },
+        {
+          "title": {
+            "en": "Flags",
+            "ru": "Флаги"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381597_meowhy-furniture-19.jpg"
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1651998694_meowhy-furniture-13.jpg"
+        },
+        {
+          "body": {
+            "en": "To get furniture, you can use the command /give @s mw:meowhen",
+            "ru": "Для получения мебели можно использовать команду /give @s mw:meowhen"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-02/1643710880_meowhy-furniture-7.jpg"
+        },
+        {
+          "title": {
+            "en": "Blocks",
+            "ru": "Блоки"
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-02/1643710838_meowhy-furniture-10.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Musical Instruments",
+      "files": [
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23213",
+          "name": "music_instruments01.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=23212",
+          "name": "music_instruments02.mcpack"
+        },
+        {
+          "url": "https://mcpehub.org/engine/getfile.php?id=22528",
+          "name": "music_instruments02.mcpack"
+        }
+      ],
+      "likes": 0.4,
+      "downloads": 0.7,
+      "size": 6.8,
+      "previewImg": "https://mcpehub.org/uploads/posts/2020-08/1597056343_musical-instruments-1.png",
+      "carouselImages": [
+        "https://mcpehub.org/uploads/posts/2020-08/1597056343_musical-instruments-1.png",
+        "https://mcpehub.org/uploads/posts/2020-08/1597056327_musical-instruments-2.png",
+        "https://mcpehub.org/uploads/posts/2020-08/1597056348_musical-instruments-3.png",
+        "https://mcpehub.org/uploads/posts/2020-08/1597056308_musical-instruments-4.png",
+        "https://mcpehub.org/uploads/posts/2020-08/1597056347_musical-instruments-5.png"
+      ],
+      "content": [
+        {
+          "title": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "body": {
+            "en": "The Musical Instruments mod provides players with the opportunity to play musical instruments in Minecraft Bedrock. The assembly includes more than 15 types of instruments, including an amplifier, speaker and microphone. If you are tired of creating pianos from blocks of wool and fences, then be sure to use this add-on to improve the interiors of houses.\n\nMost of the elements are designed exclusively for decorating rooms in users' buildings. Some instruments have sounds. To play sounds, simply hit the instrument. Below is a list of them and screenshots.",
+            "ru": "Мод Musical Instruments предоставляет игрокам возможность сыграть на музыкальных инструментах в Майнкрафт Бедрок. Сборка включает больше 15 видов инструментов, включая усилитель, динамик и микрофон. Если тебе надоело создавать пианино из блоков шерсти и заборов, то обязательно используй это дополнение, чтобы улучшить интерьеры домов.\n\nБольшинство элементов созданы исключительно для декорирования комнат в сооружениях пользователей. Некоторые инструменты имеют звуки. Для проигрывания звуков просто ударь по инструменту. Ниже представлен их список и скриншоты."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653759959_musical-instruments-1.jpg"
+        },
+        {
+          "title": {
+            "en": "Creation",
+            "ru": "Создание"
+          }
+        },
+        {
+          "body": {
+            "en": "Use the recipe below to create anything you like.",
+            "ru": "Используй рецепт ниже, чтобы создать все что угодно."
+          }
+        },
+        {
+          "image": "https://mcpehub.org/uploads/posts/2022-05/1653637099_kraftoids-modern-furniture-4.jpg"
+        }
+      ]
+    }
+  ],
+  "posters": [
+    {
+      "img": "https://play-lh.googleusercontent.com/qzlQ-n7KjWhap_nJ9iD80XpAUj8vtjB2IGMmya8yfcGGNiBcXCW23HJIOneL8Gz8nA=w2560-h1440-rw",
+      "packageName": "com.ultimategamestudio.mcpecenter.mods"
+    }
+  ]
+}
