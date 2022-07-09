@@ -1,6 +1,6 @@
 {
   "mimeType": "application/octet-stream",
-  "testVar": 0,
+  "testVar": 1,
   "debug": false,
   "invalidAdLocales": [
     "ru",
