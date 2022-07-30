@@ -1,6 +1,5 @@
 {
   "mimeType": "minecraft",
-  "testVar": 2,
   "debug": false,
   "invalidAdLocales": [
     "ru",
@@ -8,787 +7,142 @@
   ],
   "pages": [
     {
-      "name": "Pet Furniture",
-      "previewImg": "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/carousel/01.jpg",
+      "name": "FOG Shader",
+      "versionTxt": "v1.14-1.18.3",
+      "previewImg": "https://lh3.googleusercontent.com/fife/AAWUweUKAP8nivh1eub7IHCoWASH64mFJYjq4N2_FpHAvyGQCEsSEwJ16wetGaz6fQ5pLZ9ss5z1EC3vRmctB2ZZZNAIJxm_dVO1heNCK06G8NF92cD-j9z4Jcgbr_QelHQYuCJwIom0ExO4YGeRHSf-AHPGngA_tzf3xaF3p2K0ktxnc65WUUmXMSOilVoeWKeWtSLde30tNQOKXQAhHGjO_xoQfafdt0QGPxjGLKn8xUmAhMLjHkVdBc83E6GXkAJAZADLukB5UHQ9ITrk7MQXx0uIWo4nDDunFBFoWG4q5s9vnb_g8bx_SUt-xXk-rh7NwqYVAJdhBiJ1wvuahmrJnQg58Y9BUUhwtFFmuXW8rrJufTfFrYtZzZrPrkNtaP5m9b7000SlFzp7JvbIXXgvY2A57Pc73Cqi54kogE9gb_RAt-KKw5fNPc6GMVKhvqSMD6vklmFrkUbQbEtK3BKJBhER0lJEytCD2IJC1U2fufeYWPihytXYxBCNh9ubokH5UqoYf34ieAYxmb6HVzjYX2KCLOO860objDCNQ6Aa0Bj0akroMyt2C-ry9enVb7XZhkLuJurSedtXOzidiSB1sMmt7cxdnNL5cBtes6tEmIl8qDsMQv7OuQ0rMu3Tz3fYTd43PCai7g_DalRpy8xz61qYmYMtb4rc0WyYbL0vZ0Z62yuTSn5HCc3zoTqM5a-gGOH3DcE2rhmB-nxSneT7wjLHz2tN-iEiy4tmC8PGW42s5_hPwfGl_8r7kevnlMxHT98TzX0k4tiKT-N2vr0lwWW1mBhdsBQvrkSEwELsTSMJrSRw7bN4ErEmB6paJTT_qB59nzmScuj_au8dYV3vtbmmB-Bnb9Np4IWAv0xDjk0WO_g72DqQ1jd4dzsesUjieXTfJB_Bi1Rgefk1JNlIox5eD0z5qBlQNCiP5pKdttyx_mWA5j_Yet-xbvOz3G--6qHRSjEXvKDmJ8MpYEZvitJuZ1vNj8n1hDIf3jFferwdKTskpMEcrLw8QiVYUQS8dMXZynVINZ7IAoHjaKCVqJLlkogMKSX4-cb0nf7NYHkgthXDXoahxG4Azhy7GRMq_q2eJoDjyNlR28GS0ufeDvFRPONK72eh9tRFIpD7cWJFZhHrfn6gsj0O0cUsEkxM6h3tRku3MTxMgyFsDiUcIdGr1kNs4PH1tO40t7KdEiFzC223uF9eDTug4ZxZ9xo3JXnm4N47SgFceQ8jrZgLDGnqn-kUWc263UFpJo8a2Ae-1pSZSEDeZfW9GPuet8VC7Py5OGnRZ9ZbJ4ZQlqfEyev16CeBgnCPV0KF1q-TvfPsRSbrqyQ_bwIAFiP5-p6ZtTPJ5XtayxxAODua9Hz15UYOyxmmzV7oc_ONwGtL4KVuxxPKt_G5Eql-YFlpyqBFh5WiebKFSW_9yjrI6t8TbZYtkkpGfkakNdS9lJ0CUglxH7J0ASsYdddWNJ2Z8J468lqrwSC949iSkJN4vInp-8eOaxnMHeZM2pTZjHnkEHyV-4rbkQ_evliitXfBOal42A49Gepryp8gmSz55Hvwizb4J3HZNLw-YOo=w1920-h1007",
       "files": [
         {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22973",
-          "name": "pet_furniture01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22974",
-          "name": "pet_furniture02.mcaddon"
+          "url": "https://drive.google.com/u/8/uc?id=12rjI1lRhYjcdRQS0VWvNi4xUBnNRzxTW&export=download",
+          "name": "fog01.mcpack"
         }
       ],
       "likes": 1.1,
       "downloads": 1.6,
       "size": 0.9,
       "carouselImages": [
-        "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/carousel/01.jpg",
-        "https://mcpehub.org/uploads/posts/2022-04/1649754007_pet-furniture-7.jpg",
-        "https://mcpehub.org/uploads/posts/2022-04/1649754007_pet-furniture-8.jpg",
-        "https://mcpehub.org/uploads/posts/2022-04/1649754015_pet-furniture-9.jpg",
-        "https://mcpehub.org/uploads/posts/2022-04/1649754027_pet-furniture-10.jpg",
-        "https://mcpehub.org/uploads/posts/2022-05/1652345941_pet-furniture-12.jpg"
+        "https://lh3.googleusercontent.com/fife/AAWUweUQDHWhke6KNLPvJ_xCB1t8YPptg8VdYkoui5Y78YkOZ4wDU9oOQ2MdU7CEHacsYZC2SLH_TJXrK_iw-zjmCTiEHhZwPx4pGNJ8qMiAR3o4a9NNwsBzRWyRtveUqGsD-P8Aa0rjYutskxlYPWc2gqcBDPVLBuaieuqzxMDVeEJBEALNp8Ykej0bXTguhVXGo7eJkql4jTVKKUcuLe5QlhHcQwaENWSTmMDoQYYoBlkmBE8scm5sgidI7qBnq7WLMoynrOh8TJsn7rNcb5rdIgY98HrK-7v7lx4udLrDmMLLPuFuRCS-qluQik-pPcfgPnENXejaqP4fNqWnja61ckdL2gE6xx6O9W5yShcQDE1QhhRVWQTaM_hcwoTxQuOhhoBqJUs9Ezpu1P2XyQi01sLIOSzuehl34k0WfGEI-_xQgxGWATaaOFhIdgVMKyaHgB92qfTWbCwBOCbXsHsekPUg7-ikrbcKc_Krd5lcQQ3Bf3U7IG3b4__FFLlDQOf4zBItiJqvIiyk54PSJATRdmFpqqRIOEU4N9cFlkF7kZh0BjzIO92qCtBtBKyZ7WsiMOzePA4xtt1WK5qc_ZVE1aC_V1KdDrQppskpIrvQW0YXFijKHQHXCVoucGIW4y4lcD7lM31JpNv5WUiBXjRiDDy08ZR0iGwtXhBZOFGRiYq_juvZf0M9pJKF9pmP8ZISiDvQTcAIqgd126wc8aVDbwaloFDWrG1Rf17mvhEFuav5QopRY_tOl956t7Qz-0PyxUcxGmNz94h9OZtwliOLOgsQLsKC1cGq8JAroRe5vWIhgS4jnQJO853w5gPF6gxrPZgkGHC3C2y6QzDzoNJCNH8_rr_d9RRjrLWfdgE1yZwuECNtWkMZW7hlQhSoGT9J8mO4I3JWacW0mSEIhVEcSQKlG4kYIC6uC5CwNC-kZ47fdtGyuNm11Aul2UvuNM3sKxx4dmhLzAOc0VSSlTR1CO7e9G2ftHsgFxZcms-67Zxop4N1aN_Z7OummeuQqaUr5A3sqjSllQ9OB3RmxzgMvj_A4o87DRwACnTaWIxggUdft0ITwJyFsZMojVunk-LxZXAZspbW7qWgUb2UMuVK88Wlf8JMnVSOJEPiNyOwN9IvXvl3Nn76vXTQBTPZxMB7kOw0L_AxzFSkb1bJPEsyOhPgtsaNWd_hIi2kxc-_ZQr05RGmu0K17DamdKpCPH7rC-zU4xCSykNje61ncj27ybOB_tSMkmvIiVndO7dWhBRGVtXcIL3JEzAvvK9A9qOon_GbMyC5Xe1a_EbFx8_PAJerh6H3W3d1Iixf2K9Nsl92sDGBuzAKtT90GiTExeyxNJv_K1g5hr-Vg8pu-C8ibWsP0J2B65_YFP0_bCTZ8SDley7LxaXUD-ZYSWIlL2RdVSx1kY8WymQTDcJyFb5IdYz8yTpkrTRVndWk_86GkSLwRH_CccN3Sgtmy4dfI-yDrzMmbLFp6f6lqzj3M6p4TgQOjIWk6ewr0rcPQI8YXKfP9OnIoOsciO_ocoxxUunSqBzy82JDMcvtADNmKrC6H_g5Ix-TZKEEk2U=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweW4VzRaWbPKw0GxheBKeBpDfV7wN71RaEYv7GJf0vv9h0wZiRyoKt18P-zK1wJ3Cfw8O9gu2GKnQo1hxOh_ijpcFzUGZMoTmpOLKEwE_-T-0odIwflGo9PpsnYbat_hcD-_OwGGDA8SWk4c4ghlcM7LMg561bMZgsJX4nNpUZm7FTW6Ac_5BSME7mX4b6pRTJBifEV3X70HAihbbs-BZssXqbjYumUtP9tJhZQgtyJ2vdwSRvnaf0ixgRxCnIYwF8JZ4MJ-v7_4HLh5i8jvlyW53nFwCwIjHStNJ8HO_CnUGx5v5S8GvGt0Kg0n1-1FswSSoURu2M2gtdiZDFHe7q-YUtWjlh_XuyD4SBE4M0F8n28ALdVEJZSU_L_l-6tk_ZcrjQBGZm58EiQO28gE9QEMMFbdmeHwbsnU0BK8sfVsljow-BFXPuEkvidr5BfXjejLNLIPY4maRYqXHs_o0Bkg3TkOSxro0dcNS_bzQkP7nv5Xv4lcaimmvlVx6AxhwczySdlTH37agacqU_mrz55KBz01nCJaI_8J2PQohKl9TPYA7hggNba39KHuxmI-P9uoIaUW2VrGDCAT_ZTYNRBIiLEX2v4CwE0o1k8cjLI1n0Gap3Z5CR-E3BhGQUxSA-746wbyfhMaB_tLL-UKbEdIul4KTU-p0B2rSvpFA0KhF6eQiEiwXfigS256BbFZKorBvCTft_9wikH0M-pDpcmeT31_fXmF230OIKsNCWqQP50Oke69yuiU96eifrpCb0066ePqlS25QSaEbZNQeu5jPKbONBlyJoTcPNFK4yfExoxuus3GT8aFCPOZG2eCwumo2RZpwwu-3XAV2XEaka-6ITqlbizXRxvM6nuN5zyjxGSTEVOqBPJd6KXMyw5x2SPdiC7k9YURI3vDFMEEVN7f9q7ZKVYg1WW7KwWgYjAzWW1CT2n5S12uYd-LNVa9f2MqVhfaHvWht6t_t7SW8Zx8Dyhvcvtj0_kzOvRdeB4Zvh_MY0FwdF5lytwmAuVHPTx5wFwWIT7ZUJ8AJ3uCizqdzBNqdm5v4u-ZZc4WuZFIH_48CoPm_Evall8LAARq9y65_aolvfDAtGkzlAoZu11fNtHmXj6gG81dULHM-tiXCK6PMsVf4aQHmLMyPFJ-fI66jIrVGmNyPb7ovyNYxsq0O3EOQiv7O6ZC9kVGq_yjfvgjV2KDeOL6NYk37ygUOexAJE1VervN1WAp7T3Rdl2P1nv4AF1sKzVIUoxxT1fIgdvah-yqPEHL114-Iq88s4OviZlvwwMzcnRvznyJuVHNVf4KCm5vIuy-25m75Eir1e1VdirN9e_gWYhP8_xFPxNQcj19Obz7Wr-EaZPYt_t5JY3hDoSQSbYxBCVk4Otha0ReF09srBEMI8Kle7MR1HwJvITLXXVmIkzqfKNwiHBGl8lCjPxDVF62sjZnaoPKQqKVYfZ8mjqIvmazucVeY3smOJb91BXMt2UvdRsR2umwJoggf-ofmC_RX2N24CGfETioC3Bndy9AszUnAtJ-7BXmsyQlZRB5_RE_4hZPZ2-5UDSkV9gnpcw=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweW6yo4-80-0MgHF1jY1qleQiG6Mit6P7Q25sxUnlclMxp8Sijqkqei863s8UDgBSBlHQ0jgfAhc-vVr3ZCrLMczPwU5nDy5jMi4vXNi_o0ynNTU5kfPEQJdt8EXRp-KgoO2XEipi5ksnmCwybyJZwloaYk6HE3iuessKBLSZ0Q9EFa1czh4alrDpuoMwKTKMSui_jcTr02xSWGg4JlQDGmvyl1E1zK4iVSh7wOQA4CGg7qz6GTfWBVsD2A6_FA-HckmN5ELwarmN55uD1TJ39FH8bzQ1pTJM1uxHcYPF-d8E2lHZajnKk_78O2S-Q_XTWIlz1Kl1Me6M7k60cf328P2_fGwUNqz0h7VyMG8ldMD-NSEaOpZ6KNBWVr3cNGqP_GZA8FjFEWGlbE8Lo28XIh5b7Y0h7vGyrL5URflyqLv4gOwevLik853qJX8ueHrJrMeb1eIeJVBusIblipW7eKuzw2uEt_whHjJEkyY3dz2KMECqYZeVVSrVON925w65hb4ToTJsJ9-oXiTwq_QYF0kW6CIw-UW-8C5tXid-MB1NwHQ_KpFkhimjktdpIa31JG7psnf1ITmZy6bnMyrHOteTWG8YCMSN_rjwjQZb5cJ6zgL_IoL4bZzEn5ToMrjGBGiPE8HY0X7hX0c94tQ5b8Z-CitbrIygBYAi2ZsPvfTsLpsVoRVUKcFgWc1x01LRFABiyW3MCvcfUSDFaxWvPY2i0MaHdwuyjQcfOKE4pKRLOB5QRyMfDTdxtugm-Okf3S22sVJmCrpOYGhE4HypRLw30jBpjrU3vCpOO-0SsBEJTlqcZHsNnr5HpoOso1kjRI00ZiPbyq7a5uWl_Ny6zPrjOUVmiAZzZtYYE0SzM_mqoGA2u7d_hjr-jRlaxmghjdzT41LoZjiRjBnmET5RnoyenCgQfEQ4_0dDanRwYxgcuQYZblNYu16-j07cPeW7ZLVoMrYoQ9PJSWUV5L60qjTY1ZjWJIjmiOofB6lOOB5mkdgupKSSrCsohnHpKWltH4jGdVc6YVQCHOaY2-Oc_3CUtqno0l-vdNSJwE0vgyZoS2R5NTNeDjg5IG4LJydw-zgIil57CU3c_wGs8JTGeJUfhQnDecnrDE3EySvTBMS6nlUHNvU70fM5JIaEg0k3Y5SGSApQumblL3Bfs4KcuoiYkTBCa7G7LpGHzUtU6R5yDrYN1B7ISDSCfz9Mq32NNp6BgR-MUeP6fAz5btcfhksva8KjOzUIbtqYlaIodivxvT99fZRwTqxePt2dLA2XRgRzfR6ksql5ubl-YEGlvdtoUliyPOfAJ2WMtjBv74dJ6G3xD4rLq8-yHu3G8mqzHCOR17h5SZFnH1f8XVGca8e3a_2YqdwjLJKoEPCI5fNHVMKxkXXbjdMU4VnWRrHxhcQuIRTAByrPa5Gv2CBp5uBsvMrAn1sXmIVXztOxUSi9F6CTY95Ru83doC-8aWUcFLw-ExQdEe8CwsrRSwqcV7oifL_WuQuj0EwwqSxpYFber3eWvxX-uXs3OyT7ptn-pLhFJo3DehNN3sLUSwz2dtWkqW74l0eK18=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweU48Zxhg6ywFjtkZA1Wsrltz--0tAqD3rKf_PKCm4utL-2EPf7cxLBMEIOiRD6OQSVHwi2fdxUNfSD97pDbp6XOscgeOEVYGXyvDMEEIJqyOI2D7M0FWhbf2OINHXDfG6Q-iM_Xf02og1X3SrHmRyevZhpNNn3BwFRHvfuwIKVWm9EWTPh2kz-l9NkPVNsw-8Hnx0xMhwNavGfaEbEAHe-VsCYdonO5l3pK0NnG02J3PB8P1KcCpIKg7yii_R7QK6n2VXlptJcsiA2NCXBv4NLns4U-N_F_p2vGJPGOoAaEQHK7wsx5irC2eqLpB05voBxh2EpiY2mOKrFIRdCmwwlRoTJVkfKLSXGkcIc33sS9OBYvL__WSaJ-BVXTPjcvlTRPLj3D77f302N0wb8i5a55oafNMSTvwwhFsD_I8nqvJtFUeYaTvDGS4GIhXGlR40BugtBqEH88b-8dNPzdBLEyWBcEbB9-AEFHjic04Ff61HPtR04xaWe9EWFSK_uf-Z_HzwqaNBw8VS_0FX5lKsImfX5fcS4xA_YlzVwV9W4boogf0OXhGqAr8nqWsCaKUYD8oE5pcHNgirmaAs-X4mMbYa_ut5jREKNllW09Q4sgZv1beXDAWIeM4RDCu3Z8NeXUBl1ABMpLxuKrUwsyYB_zSIqff4grPgpWMp7kRsryvtsD0XyZBMD4rm3QJifXJs4pCJw6G4jHRisPR9wGpd2qDrtxafvRRdu35MnkH7wxqSQyEW97DfMAGk5q94b4rKgiOIstgrSYRTr9D45S3VaL7m1zreA4pjayxkI7ye8kXnnEG-uszSQV-EC0GZByC1uJCumdAIWnOj4pCdlbLdRaon-dQtU_pxdf3MWlAWolZ0ic0HcLwEFGl78Shz2ADcwaBm_s0VaeJqES3Am3rWYosENTivOLO8smJrD1ob_cF1hV3NwUgyErvdAsn4MCbqWKnPJQWTBoKph9Uqd-DNoS0lerLvK94BXThUOeBGG82TmVVr7aAUINXgACISS1Uenx1rkR-cHVkSDanDFdSjIDQqaP_x59vCebOEG5jgnNLpQ71zsqZgMldIsoUNbVPB0HsIg0PnrakaahhU2mP9N0JeX8xNKKhLa2NdDR7AqY1AC8rDVvvEZ03OrZ9cSw274BHX8jbV9_txrahzbI4hkkJ-zd1PbgYrBm9FEsx2-JmT1w_HI4gm2f-pjmoUPE_ukRs1OIZyXLwqUCMxCjAUppdX9Ps3DekhfTLUEgS_nB_s245NdxnPlKf0wa4j1-NI4A6Ye1bOP1hTSbrS0IGyIbzqeZFo_e5JGtz6DhjoHk54VZ0pWKMfwXredIeRnF9pWz2sJAz-imXFPNjFjobQkeTPgAPj0u1jNeQwQoOAfArvav991DZ0_JMC9CaktmHzv-IPxAFN-K3iGhaSHa6I9ewwC8WmuUeQMjpjcY5wpGukOHUK-gYMDvh6egLkSzZIhukNxj_H2INyDc9HI6nYJPMpOKUNNXWO1PYO-tI1pirTLXX3G2oVooF99tL1_ykRCKNR5tCT4DFybIk5NAotfpI0Fukq20QXM=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweVy3q-5VwibcClgl6SICZITgaE1tIRtVVTN_7UcWiH1J3CRlxYkFfiC44af70wYHvxN_fPJtTKIM092UZ-_7DCaSjYNRZvvoJVXziMw9TsFra-uXTpMhO3sxYIlJr8S9Bzfb3Dbv0vpZDBgDPXShCr7wZUQNWwV1lLcTPgtZvL0Oh3eFAS7tO0nWCMeD__4k_Zd_mRlkePiMRgKjNIof-DvcMRQMo1hqdoZ0F3PDdXR_YVXFKvexGx78qQwlL3rcZqY97R0Gqw7wdhRbtdKAAIO7bwsD_jnLEsTLXkZKWFJWCH8zyLr5WNFgMfYdUabf8QgZFEUxr7J3_1NqHZ0hp4GIVuc9WvKcVJHorQ8cpiof9v3HfvEbYR0l1ryrseUDyULxPOsgz82cmeA_YF9qZg19izpBDaULKAjrgfZq5jsWGx4rb0i_XAV8EnIbzTwmsZ_BqbWQcPMEeOvRvjQrwZKo2JpR1tDxe5ezTnpt8j6iw7haNS5tZy834AzccPIZ44ueDW6nWRZurp4V8wfa2OCcljhEU6vaPIX76h2PbqfxGrs1HK2bNfdO9tyz7EUgIjZnaEiheZgsfajT4KyMjGxS3W6VxXLxTA1xQ6SRBbM-WRuQeuZSH94AppIYDUk35ILlhInXMX7UKBTYSGD_UcGox6oJkvsGwUcw841XfXdzlGVsQvGTktPMeSK6UhoHDrFKuD1BvdCTG-I_HaigHAJw1pDZUqWb5gJ9O1abLrwRye-z6BTz1mp9EsF7NwA5bMhF7fnJMFB9CVlUQJmMAYX1pD8_o9lB-HRqZ_RkkiKcdSXoaitLyLTZVgz4ICm2PO_elbyN8siFPUw7ypWBKkvz5gG6loyISbJ44nzDViMgQ0XGDvLNK-Vdc8EbAFKh6SKyJhIlJ0-5zLC5jQGLDt6zBn6-UELp_0VtGUpnRP-uYCGLC-rL5myl1AZuu4XfWhJkobaYqNWDoEapoEjPMsEtg3R1QqpLHCMoQ18T1Ib962Vra6vevvvlZMmHGZGeiY9TvEaMevXpevUZTbGMQfkj5qAfct4llaioYxjwyZWHuFnx1OAKWemlPJDEGSyb5cKfzl4NZA9Yu4_N5cIMkosPSodf2eMoxx2-agzrDvi6dZQE4aXtgRB73-2-n7abgGi8RTnQpynoGkilyagPkCKVc5K9hn1-41OGyGK-mPQrtV0N6LAM5nuz6eCyGHaXtklDO2a_Exk8tS2FttzlmwW7UNrSMuhcIu37czQ0-Dsr5dpAAFGpHwzt-jRfbPLJqMqsWSH7L9lP8S9ieuUvICikmjruEjgW_xL31WXLDvraNJm6rYiUbUy7dAIOPh_Vdxw9UtvYwwsyjffZ-sieKW_fIlTHqH06-BBhZkK02e2lm10R7VYTwYkQ0GGNL2IJUix95trySfuYJHYJ4bfbPef85CpFulzb9k9NqtJCdCBHV0aw-wcQMXOIbu5qQHnxOY7mMO7WmZFXmEFXZ4Dl6T7WATCYs6zmx--9DODxxQZzS9lH-M4Xrcac7Wuu_sC3o4qF4sHBR06aKg30O5p8bVlphdEn9aTdMk=w1920-h1007"
       ],
       "content": [
         {
-          "title": {
+          "h": {
             "en": "Description",
             "ru": "Описание"
           }
         },
         {
-          "body": {
-            "en": "If you love dogs and cats, then you probably want to make their life better. It is for such cases that the Pet Furniture mod for Minecraft was developed. The add-on introduces 40 new types of furniture that are used for pets. For example, you can put up a beautiful booth for your dog or a scratching post for your cat. You just need to place a block of clay in the stone cutter and select the desired block from the list of elements that appears.",
-            "ru": "Если ты любишь собак и котов, то наверняка хочешь сделать их жизнь лучше. Именно для таких случаев разработан мод Pet Furniture в Майнкрафт. Дополнение вводит 40 новых видов мебели, которые используются для питомцев. Например, ты сможешь поставить красивую будку для своей собаки или когтеточку для своего кота. Тебе достаточно расположить блок глины в камнерез и выбрать желаемый блок из появившегося списка элементов."
-          }
-        },
-        {
-          "title": {
-            "en": "Update",
-            "ru": "Обновление"
-          }
-        },
-        {
-          "image": "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/01.jpg"
-        },
-        {
-          "title": {
-            "en": "All kinds of blocks",
-            "ru": "Все виды блоков"
-          }
-        },
-        {
-          "image": "https://raw.githubusercontent.com/gedalez/app-data/main/mcpe/01/pages/01/02.jpg"
-        },
-        {
-          "body": {
-            "en": "To get it type /das @p pf: (block name) in chat or use a rock cutter.",
-            "ru": "Для получения введи команду /das @p pf: (название блока) в чат или используй камнерез."
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754063_pet-furniture-2.jpg"
-        },
-        {
-          "title": {
-            "en": "Booths",
-            "ru": "Будки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754072_pet-furniture-3.jpg"
-        },
-        {
-          "title": {
-            "en": "Door",
-            "ru": "Дверь"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-04/1649753978_pet-furniture-4.jpg"
-        },
-        {
-          "title": {
-            "en": "Construction",
-            "ru": "Постройка"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-04/1649754069_pet-furniture-5.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Modern Furniture",
-      "files": [
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23196",
-          "name": "modern_furniture01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23197",
-          "name": "moder_furniture02.mcaddon"
-        }
-      ],
-      "likes": 0.9,
-      "downloads": 1.3,
-      "size": 3.1,
-      "previewImg": "https://mcpehub.org/uploads/posts/2022-01/1641046638_modern-furniture-survival-6.jpg",
-      "carouselImages": [
-        "https://mcpehub.org/uploads/posts/2022-01/1641046638_modern-furniture-survival-6.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1645151074_modern-furniture-survival-3.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1645151077_modern-furniture-survival-4.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046729_modern-furniture-survival-4.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046658_modern-furniture-survival-5.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046718_modern-furniture-survival-7.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046654_modern-furniture-survival-8.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046728_modern-furniture-survival-9.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046705_modern-furniture-survival-11.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1643448398_modern-furniture-survival-14.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg"
-      ],
-      "content": [
-        {
-          "title": {
-            "en": "Description",
-            "ru": "Описание"
-          }
-        },
-        {
-          "body": {
-            "en": "Everything related to furniture is very popular among Minecraft users. Therefore, we offer you another option for fashion with furniture - Modern Furniture | survival. There are more than 150 types of decorations that you can use to decorate your own homes. The main feature of the assembly was the ability to obtain items even in survival mode. To do this, it is enough to use a stone cutter and clay.",
-            "ru": "Все что связано с мебелью пользуется большой популярностью среди пользователей Майнкрафт. Поэтому предлагаем тебе еще один вариант мода с мебелью — Modern Furniture | Survival. Здесь представлено больше 150 видов украшений, которые можно использовать для обустройства собственных домов. Основной особенностью сборки стала возможность получения предметов даже в режиме выживания. Для этого достаточно использовать камнерез и глину."
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654510144_modern-furniture-1.jpg"
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-03/1647023791_modern-furniture-survival-2.jpg"
-        },
-        {
-          "body": {
-            "en": "To get furniture, you can write the command /give @p f: or put clay in a stone cutter.",
-            "ru": "Для получения мебели можно прописать команду /give @p f: или положить глину в камнерез."
+          "p": {
+            "en": "Are you looking for a way to improve the fog in Minecraft? Then you've come to the right address. F.O.G shaders will not just make the fog better and richer. Now the fog will truly terrify and frighten users. The fog itself will be dense, thick, as if a creeper is hiding there, ready to blow up the player.",
+            "ru": "Ищешь способ улучшения тумана в Майнкрафт? Тогда ты попал по нужному адресу. Шейдеры F.O.G не просто сделают туман лучше и насыщеннее. Теперь туман будет по-настоящему наводить ужас и пугать пользователей. Сам по себе туман будет плотным, густым, будто там точно скрывается крипер, готовый взорвать игрока."
           }
         }
       ]
     },
     {
-      "name": "Medieval Furniture",
+      "name": "CSBE Shader",
+      "versionTxt": "v1.18.1",
+      "previewImg": "https://lh3.googleusercontent.com/fife/AAWUweUVFGsyuSNNYcn94ppEpGlrr09khGZVCWiVlKlYS_AL-98cg4RLQKLyZgJDeFGClVYlSz20BnpSuka7CRIf04LpBPKXckYHnJSj3NA2XAy7jnilvzoRxBQMeF7HnKFfHiL_EMKW27hiR4WkrCovajacKPCKojxk1YNAPwTX4SXdvoLlAei4O4mBDMSbW2gXhM9DnL9YsWJvbs2Dq5w5uk8ZCBforZFwInsdg4pdQyegRLgyaxfvs7mIUVXwY5HLk7cM8aKTED9FVhiaKBOw0HPv3yFTOXgZ1T1_JMY58GnE6sb5H1Z69266U83yCSWGIrSsq035J5oFQ_mCDDtN8d9H_NMCuHixIqlz2s6zeyLuFrMiOoLmjBfmDORubwFcvgiS33mLO8EI9LHMdIALuay6IlOrFDwPUIqmDzP8PE8oJgRACtH3hk2Y7tAfA3aKDdQQ1k4Dh4ragXvK-nzwD1Lg-RgJZAKJ-8qJfbf6AbI6KERIlxKqURsWGQVONdifUPyrbOuqIo4mHYzZCE0lk0Q8CiD273HA9Yx9XsbSlVOlI72WGkqpmeelmtdAGOVkm7NpR-Ta3oQ7f-dNHaBfl4Rhj3XvXwBOP1ZClPl1i8qp96p_ApU1VuRdQTT1cUMvsoee0d1ZZXQOl2LE8Nqm6jm_hfwJYzdMxsstJzlIqowgr68q7IkAMykh3_9oLxen856b2yp4aGGtpJMNID2GXXIYoFrIVhlRJ0cra3z6vg4xd8mDw3fNnbCyR5OnvYo0l3Ca8lfxtwcD4kmZPcLoCWiw_mAwM_u4Sgw3P9ue4ZI8cXNLcysMdUx4EqNlp9H08iyI5buWtUQk9Ld8K3jl17i0-WYRwwAl6PhDsibfdT0ZOcOeTXtWTsBQNAyTwXrej5UhwtZ5rgv4XdxZsYAl6jNLwrK2FkkCk2ew4wBBYBMqRAy6lFkqgf1pRE1JYZI2yMcIT_mgPFKReCVgnCHqnxu60y41WSJZ9lEDGhHiXpntvRZyCm6Hr04vPNEKGygIyVNC-SbFngp8vBnluwvh-SJ5YjWT0JZBOxJc-dVrCqIyPUiQmfhVmjNdomWUNs-lMeZVFGX6n7SMgnUjY2aBQVRaSRaNGIx2LW2B-PUnXz8lLVMv9WAKcCprWzVLH9K_OXWRchmureYWmbTTCK8eoDUyPJjxc4AV04ljdXeAeVso6C6Aqn888hlFj6AJIPSoTDjF60ozy6Z_BEEs6LCdkx4yCHfcpghz4du_vYtXKHW7ijOYZBktaq6yPDjCmRlXsW5hMkFk57QKX2j23p2TCEawzyKQUa2pTuKYq_R9xWiCJA7BcGaHfcGIO6lyMVgFTp2H-x0n8lq2EPYF04yglRoNfvPjLzEqBtBxW_UVHaZ763AIOffZX_Lhsx2J9iwjqfq-840HXDEC_vFu8PCDk5IVPAbU0NwSxhNW9wLhaWCSdWCn4hJwxKH7oE-AGrhxg51LVftzYiQn7a6VT-XUIWwCMAR97DeF2yFbixg4VP5IIWFjv58bTN-rzZPqsq3lpwVpmX4E7EJkNrp9RPBpVc1eOA8A-6s5GWA=w1920-h1007",
       "files": [
         {
-          "url": "https://drive.google.com/u/0/uc?id=1ERfei5lDmmGWesdDNF01VooAY7tCa2-j&export=download",
-          "name": "medieval_furniture01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23170",
-          "name": "medieval_furniture02.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23169",
-          "name": "medieval_furniture03.mcpack"
+          "url": "https://drive.google.com/u/8/uc?id=13_SnQUv_x2IIMgtk7eEPsU8VhP8bfVaV&export=download",
+          "name": "csbe01.mcpack"
         }
       ],
-      "likes": 0.7,
-      "downloads": 1.1,
-      "size": 5.3,
-      "previewImg": "https://mcpehub.org/uploads/posts/2021-12/1640681725_medieval-furniture-62.jpg",
+      "likes": 1.1,
+      "downloads": 1.6,
+      "size": 0.9,
       "carouselImages": [
-        "https://mcpehub.org/uploads/posts/2021-12/1640681725_medieval-furniture-62.jpg",
-        "https://mcpehub.org/uploads/posts/2021-12/1640681798_medieval-furniture-63.jpg",
-        "https://mcpehub.org/uploads/posts/2021-12/1640681767_medieval-furniture-64.jpg",
-        "https://mcpehub.org/uploads/posts/2021-12/1640681756_medieval-furniture-65.jpg",
-        "https://mcpehub.org/uploads/posts/2021-12/1640681792_medieval-furniture-66.jpg",
-        "https://mcpehub.org/uploads/posts/2021-12/1640681713_medieval-furniture-67.jpg",
-        "https://mcpehub.org/uploads/posts/2021-12/1640681785_medieval-furniture-68.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1644570174_medieval-furniture-95.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1644570109_medieval-furniture-96.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046705_modern-furniture-survival-11.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1643448398_modern-furniture-survival-14.jpg",
-        "https://mcpehub.org/uploads/posts/2022-01/1641046690_modern-furniture-survival-10.jpg"
+        "https://lh3.googleusercontent.com/fife/AAWUweUVFGsyuSNNYcn94ppEpGlrr09khGZVCWiVlKlYS_AL-98cg4RLQKLyZgJDeFGClVYlSz20BnpSuka7CRIf04LpBPKXckYHnJSj3NA2XAy7jnilvzoRxBQMeF7HnKFfHiL_EMKW27hiR4WkrCovajacKPCKojxk1YNAPwTX4SXdvoLlAei4O4mBDMSbW2gXhM9DnL9YsWJvbs2Dq5w5uk8ZCBforZFwInsdg4pdQyegRLgyaxfvs7mIUVXwY5HLk7cM8aKTED9FVhiaKBOw0HPv3yFTOXgZ1T1_JMY58GnE6sb5H1Z69266U83yCSWGIrSsq035J5oFQ_mCDDtN8d9H_NMCuHixIqlz2s6zeyLuFrMiOoLmjBfmDORubwFcvgiS33mLO8EI9LHMdIALuay6IlOrFDwPUIqmDzP8PE8oJgRACtH3hk2Y7tAfA3aKDdQQ1k4Dh4ragXvK-nzwD1Lg-RgJZAKJ-8qJfbf6AbI6KERIlxKqURsWGQVONdifUPyrbOuqIo4mHYzZCE0lk0Q8CiD273HA9Yx9XsbSlVOlI72WGkqpmeelmtdAGOVkm7NpR-Ta3oQ7f-dNHaBfl4Rhj3XvXwBOP1ZClPl1i8qp96p_ApU1VuRdQTT1cUMvsoee0d1ZZXQOl2LE8Nqm6jm_hfwJYzdMxsstJzlIqowgr68q7IkAMykh3_9oLxen856b2yp4aGGtpJMNID2GXXIYoFrIVhlRJ0cra3z6vg4xd8mDw3fNnbCyR5OnvYo0l3Ca8lfxtwcD4kmZPcLoCWiw_mAwM_u4Sgw3P9ue4ZI8cXNLcysMdUx4EqNlp9H08iyI5buWtUQk9Ld8K3jl17i0-WYRwwAl6PhDsibfdT0ZOcOeTXtWTsBQNAyTwXrej5UhwtZ5rgv4XdxZsYAl6jNLwrK2FkkCk2ew4wBBYBMqRAy6lFkqgf1pRE1JYZI2yMcIT_mgPFKReCVgnCHqnxu60y41WSJZ9lEDGhHiXpntvRZyCm6Hr04vPNEKGygIyVNC-SbFngp8vBnluwvh-SJ5YjWT0JZBOxJc-dVrCqIyPUiQmfhVmjNdomWUNs-lMeZVFGX6n7SMgnUjY2aBQVRaSRaNGIx2LW2B-PUnXz8lLVMv9WAKcCprWzVLH9K_OXWRchmureYWmbTTCK8eoDUyPJjxc4AV04ljdXeAeVso6C6Aqn888hlFj6AJIPSoTDjF60ozy6Z_BEEs6LCdkx4yCHfcpghz4du_vYtXKHW7ijOYZBktaq6yPDjCmRlXsW5hMkFk57QKX2j23p2TCEawzyKQUa2pTuKYq_R9xWiCJA7BcGaHfcGIO6lyMVgFTp2H-x0n8lq2EPYF04yglRoNfvPjLzEqBtBxW_UVHaZ763AIOffZX_Lhsx2J9iwjqfq-840HXDEC_vFu8PCDk5IVPAbU0NwSxhNW9wLhaWCSdWCn4hJwxKH7oE-AGrhxg51LVftzYiQn7a6VT-XUIWwCMAR97DeF2yFbixg4VP5IIWFjv58bTN-rzZPqsq3lpwVpmX4E7EJkNrp9RPBpVc1eOA8A-6s5GWA=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweWia7DSnIEXDPSQRTeMZwdzylmHnxM0ZN_Fg8lBNF8JLe8s3HaNQ14C3P0gB3LAboOj2kbKbFKMamitFxDV-PExDLXUJNaNLOHGsZvoHYrTdyW59bhg5mwF_KlVDIiWtkgsEBmTOtsj-nBBd5nJEWxCvci5sG8ijZscOt7AXTrqM1W9ZtY3bbioQ2gjYSYNxfzmamQVlT1pFSwlzdTBNemcM-ze945lsf5vcLRpeoAm763CEndcimNU9KsXDybPEx2W1EvqpttXAKEVMeAr8iXXTWFY20BKVg2PPVD1_2lkY7kyKlWBu1PAOIE6HPznmg_HjThM5sEm2ypcqsmHI3-g8p1pcr7lj0M-ccx7nwbz40JUEiULv2YH2geEiJScTIqVWN4lOQAcqSn4_tHiUjtt9o_-0yobCwAusY8TbDwevCZJQRyN1HTUKl3S0zAJnpEFfx_d66_S7BQfsHs2RJYe2ht52xaTcYh6Vir7lfdsgklFRSEZlpNiA3DpeI4t2wmgNe8G4ZJaTIgimoa0fDKd1DAZlCZRNgxnwnHq2yCnlm1TJHuIQRa_EhWxNHSxz3ENytserdju06Gc_M_roxbPXgCZ-CWJSboi1BOi602s3W64QfiltQmPFRNf-aIRKtCHBjp4y2VKmGPK5NQqTDeqssNPTDRMcDowt2XFDZHbQIpyNKsacuDhKPCWIXiw8ny_bU4J-zW9zMv0eK0PMdGTPmwFKddQNp-wE59zv2n9OllLqjMjf1NQ9XrbCR4k7gueQEabVOOJcg274M-vue8Adwizp259jA-NySJNthu9Ner4M2J7MqOaMZ9XWulqT0p6NqLS-ztnJT6xeUmUHsukhujeYTjkekp86DZEGKHMN3YNKAZpuxmO-WTuZom2xw38HtImjYOXuwkkvTvqMHUWatT1QxFOe-YKvNS1xtmCgT3drzD_j1YwR6agfVwGhLIHbXErVbWGarJDcBQ1nnRpQJGaDbo6MMM5Up2xP5V6FG0sqOrxvRAp6vxXUbSjEjR3Gd3TlFdmXKg5f3YIdrpcUzuxt5QDGc-bSVy81pDbMuwLiZ6TOiWLrdaV9TJKZfnerDNfKtiQd0Jt0il4ns3yHmYaeSOO2HkabHITqy30QDu19c2-TAgL1B2WRb2HATzYs_ebyRg6jPlkPdcUQG_cjZJpqw3Egmqf2d7zePle9ZMZfApITzVxFChTKS35WB4fXSr0Q4vhk6asCIl3FXEJy567iXWBNMtgkrhKQM8a0OeIcv8cFyaD9HBM2ru46L2LAiK5IpoAM9U7chVvGCdguTTgUNQGlwfntG8BEVbhdl3dcl3aOBDsQdJhYLCQGJgjb7w0CwukgGyHJX-jBbwo1o9oC0WWnhSWxHJpGR-p8uPu7COSB7XYaEHaZHz8h2ki-_iW250PztrKzpCo6iOcR4AURbx9gSCZ9tm6MTEeMe7hP2phCZiaXm7c_6O36L4zR0lI-bRccCUuEQlGeQUYFIlsrl5xryzGwmxo_V8Ysv8iyjKYEF75phF2W7aEO_Y5p-8R4AXxiKCQhmIVDQJj4MrDFdgD6WA=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweWAkpp1aFiC5nBQWnu-cKp8Ec20J8164OMIV2DcEksGRXtvalbybN1fP2Zj2Fq7jE_ZJ4svQJ3I95z32C-w0zVGADPmHHcbN_GZ3hK9I8sd5gtXqdO7ujfqS9cJ7VdCUkc5dJ6uAWYN5hnQ2wZqEjFeyRFRz_hiRQFOiL7a7LzMABNhecEDBgSWtH_2OBS8gPpLP3zwHCOFBhB2CAq4hRQLtfuSoHHSfT61qgH7cFdd5kmhXtyaGBDJUrE3ju__4n-yVHaXBOUr832oIu8cEfGpXzf-qp9DqBF1BMIwk7IeSloV1NQAtyz81m_A6aKuuqjEFpQbqLk2gnwUMP9lVs995VBTl51KgIkH1LBZWqWZiQd_Vljxtmn6uvhqOQBew6mydSxw-gYUh2lwswkGTqgFT35UzC5MwFv9AG2kOiS0a2mD9fMFxkqcqZY-wNq2ps7ynW5N0y7x-GMLD7FPoRalKNOLMtEPtvQzaYhNTOyeBephj1jfQszPCqtCsBqLt82yDaxGfxwhQFes5pzfyDyUUG3Yc2_N_8LaBBkvsYVvz2Ca_9WeNZK-PJ50bPICQTSy4QSPobw_kiemdL9sn8mRa9_bs9t2k8QyDw0bTS7M6bTuuTRCg_-wAr4EY_8Igvfzz94Uo0qLLtR6Hh6CJq5BCtE13oYIiZEWs9ePOg_IX22fHfq9FNPOvivjWfo-O13ZoCAkPBcYKob5qFwMgfUyGphN1PixOksvBv9xCh18rPzVromHchpTGRYzr75gOIC4ewtXR1xd6aHOYic43HLjfdHy-EK1m5sFDQLD-xCL9qk0nezE0ncm-7MuXf2Ev3_vNvnfNvqr1zUA64w5-cK5LN2yQ_ZK9OY10fdHptnqjhCMd6alqEr4XJnsItDBVkdn9DwpDzsLPs71PkFNDyotJH_YT1YBRrhzFIs3LsDc5GVD9WAHpQdJEFujYRQjg8CreAgl10vYjpyw0SEoOLyKL6c8eAlR5ojlGwu2ePwBQ-xupWoqv883S-3aQ5ypJFbj0XXLjhftmL-vaQBZkoY7eTIkTQ-ehD_D7wnyDSU9UXBZ_YurBu_irCysKWSpiWTiRdvHlI_BneDmsbYlei0fwKmDphqVqMRMAOeSQOAxMEYx2isWMZpWbwx8dcGDZ-EAfayBRyM_Cx6yn6lAIOnNOGLG-mv_rYiDGV4yjIGDQ8_cH20r8Qr4o8JAE1NKI9q1xeR7VILXcML7fEjVbuuhwBW7VjwcMZAQYOxfpjCAU2XCav4W6stW0Zqt2triyDein3rMOdLLrDoNnN9xnloCEI60gXGaTW-I5XFNZyu73tORXS_Zfe8eFafpYlkmjeFbFLvDhgxrZYp2p7ryktiY4Hh7HoQesf1k_QJsQm7PCdLxsUUhHi65-GqdZWs7yxv9JbrCyRFpAvm2k2657WtQZo2YLzh1f3G6zzupdgsdyx7E6xcXmBrfiC8NF_hI6RBN_pPNdnFO3Z98ocPms51C-3QC8kdAcJGr_3iQf1K1-OOfQdtpO94iF3fbhY75fxI7YKsg4G8J7OupR4_sXCaENk_TpW70sXg=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweU5Eg5QFd5OMDkIPgllzpzbFYP5UjzuoR0tW37KhmN8SmsuO1vKWbEPUMHmrLjh9dP1XPMv1oPjAKRSrVgAap5rh6TtAB5Gxlsu9a0SOiF-gerKxcDgrLYC_z_Qf8qsDrUq-kZfZriAQKljWjQSUEuR3jG-h5ZAg2_Ac1dt7e1NBLuUoZ-VcxH6U4s0pEtMSmZb6yiNSy2diIt2H1ck4pOQ5xfRGqZaFBjWkeZKi7Q1W5QUQG7gVxd710JqHjQvQkpKOypjY4VXHvVD_IVlWQOd3tB8u-t8dqurcKuCRuZBH_zw85PWxzA0V2ympWdHCInI1yJyAzcVMcAUjy3oo8RqrVtpAAZk49-MHZJ-xstHE2hqKmxPLPrGBYpF95MSyLFw2SSxWyH8ZoG5An5Gf3m4XxwraIqpDR1dPmRr9D16DfUEKJzHWEhLjzUN-CNa0W2-D6CzW2zPb5lpshhlXxqUQz-bd5guI2gRpjD0Er6cUxO6wMje990yg4Y3DmXkDx6Zl08grv46Dpf9MQkzs7t7qxXVwHaPzeL6DzhkozodMzMvI8czN6hohIytJ_IY9OZL58F8UH5OmRwSUl9LSR0iBER0U34NIZxJw2RVIYyRGzP8LvqFvvmHW07EJ2NhYQlTpcF_aBUXHrq8U6M6Pmoz6vKyl5ZsPcK4roNXZu1ygkJEXoFVP7KGpt8GFQdJT5vuWvhXSgm5HMTeBtQ4DJQT0NJ1NBUHv8I7dYruD_g1jNFdk5WqFPgGdWpvR9k4Ez5JzNplOMagBHBkKHuRGCkjsxdm9g7B2dKLguDtu0MIsgJ7dtMBIK644Qzol5BkXpAu0fb5PJm69u3iQQVv6POWh6cVMtY9mN58OnHUyRPRe_yZy788ZJVA_HL-TGkeVfskBFmhLKhSBQKgJGHp2WaDmlTIQpssSkdjfNbzxKJFGA5LXDM__POZvmb5kfCNJqtkMEMMl8P-A0QOTRnIVM_VWst650f4CgpCo-4vumHtQlCw2piMJcyQPv-Iur0FaMLbtauPTz3M5obLu_wxbzH54nzQ5RmRCiYvSO87l8gBNQk5WkbJBV_mUlQJdx7N2lx3lFrYkZ9PfgxSm3jD6kqsRO659WVB3ascllNoBhc_I1czhvgZIPHmduetgDN9cCb3tW5KYKLRoX4YMkX5rF13INeb9CTQ9EOhY5r7KfNOyqHtsRM4pxgKTzkzHY2PTxRE7nnd88x72Asg3EgNGWwxVy42oo3cxCXzLQMlnSQP2Qb5f84uPv-rgwX_-8Tje04DsVjx6LsH3r-fVLtoNgoZID9kY9H08zY6ObMlnfNdf3ovT2Yj811gwGG_LUVMQZCsAAsK4rTbLCVZfOILWUqYWgRyrrSGTJzDMF9RwsA7GfJfgdXD2YjS8rRvTfVRdVKXrTDB-DM28NRQu6s2B6OAJuMQoRs6cUUjSgmrx5BEfuai4u7m5Y1VdWUDMhzktFQTDxElAqBnwfFDJFC6e-htRik4_KtKICKoC6YvboKqprqL-vOzPnHQY5Y7ZRD8ZTnaPk6nowgIwc39vjtlcrVKuxXoa_fLrWE=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweXAq2aGDlQeGMWVKqzUuhg29M1eTijRpk0vbastxCAULv2F2-7deVpZuOtXUqnjN9mH4ZBZUAC5PRqmeuw4jxQf9l97ShrOCzejzkYIlk3b544DebhzQV3U5YHWxnKBNw5POscscQbPCCJx4IjD_ynPVMT0_Xy5IZG53wCSiNZ2SVsWomtQeUhmva1Xx52g0N9jjwAR0ys8prk9LEu4PSayQh-8acqIrcvn4pca1jRIrZw7Cb33tyVOGyg9Ho943jE3Tyk42sZwaUKXDC35rc0Emcl5jBhJkl4eRuwVn-OP-48Kwt0orgaCdfNMzulxwUIt9woYvjU6vqZOhY7JP_j8Fab9OYPnIwf8L7cMfdQ8rL2yci68cImzm5sLjL9qo5GuudTNxyvIHQpq00epohfe_lkRI7dxcWH2cdFBvTZ3Ha3PJzTTCHa_oXb7fbvKc5rrKqjZk1BE-XdrFqi51tdLr5sV3orgX7l24UCJnMko98S0OHn8RPANBJnY6n1SZaa-H7nWBGZLpWZIKRc4wfW_B4kWMENcJ6RE_u6imnXzXrNSfWo1OU95kyrPeLuBXp6i7XFCAC0YESOjtfNjf-cHIzpu0AictFY0u2lSIY8P-bPOMtLMgbGJmiFElxgyThYMDDxBO__d66QBclUEm3N1thpAZUysc5OIKtKcH7JOEILYk4MVBcnqvssWNoIJ3Ln9bDO0DxzZTXvMyh2OdAO2yvhzuqchv_0a5zBdRz6VyXwLdZBhX9T98vOjTc-AH78jiiWxB4NUViK8IjmZFbd-Fei1depujdxdzo99bFwCK1i9w3THOo9YGgdG33sxVmcfL_kYiRuFGJrGWHT6R7O3vkI3EC2HjhvmVIidK2zG5eVXuZf4Lz48TK0oek8zfpBwO3KXW2EM-ngfCH7EA2msogs0OD-gPqyxzRHxd_dQrqmYCiqiMoCEXdGs7OSo_FzEyy4E8DrUdVVW3h9fIphnqQS3Ck8GBt3AjMW18-Nbk_4jxmIispCs7k1NxOmRuiD1Dp3RO8wwjn5kH01uYIYqicZrghicrXc5DKTJ3u_q97140l4IPupO5EL1oLXk97JJg7N_wAu4Mn0hAYdRE-P87b87KNBkYZsJU43c2uvelOaxoTUrRNM_3FcQ7ON9yaqxYWtzkMpovchZFGtgNKU7Dk5m8y_-hQFtH_ol-1llycdEakNA2oRdBMiiVHl9s2UWqpfYE7-0WLvJY1GAlApw_te6_CLtAmTqxU7nmjvesvTli-cphBk26JXPPON2H91LuP17em3_Z2ANODeGx_VR7MTbe5liEAvQbWsyfDqLXhtcgcb5PpmA72xGiQlGZifCWjXjCYbZQ1gen6eDa6Lp-aN2GVn588HhYKB7Jdl7jjb71a_kpOAmgrGHKk7k-2OcdPU0D6ZO-ZD5JZ_gJsZKmhRuWtEq2m_tBGvjPkLsuIuXtVxAQaoUV0Fpeau67FUJE-1na-FFEkRQMAQ8_KXbF96VVxU6avQ8ijfxyjr8HbBR6H-yo77bWz8GTP4BGBEhwaapbbuqldNsAnE3vZZDnchPtKX-mng=w1920-h1007"
       ],
       "content": [
         {
-          "title": {
+          "h": {
             "en": "Description",
             "ru": "Описание"
           }
         },
         {
-          "body": {
-            "en": "To furnish your houses in a medieval style, you no longer need to use stairs and signs: just install the Medieval Furniture mod, which includes many new elements for decoration. With this assembly, you can beautifully equip any home as you wish. Naturally, everything will be designed in the style of the Middle Ages. All elements of the assembly are made in 3D format.\n\nIf you do not have the skills to stylize rooms or want a beautiful house in the right style, then the author has also added a map with a small house.",
-            "ru": "Для обустройства своих домов в средневековом стиле больше не нужно применять лестницы и таблички: достаточно установить мод Medieval Furniture, который включает множество новых элементов для декора. При помощи этой сборки можно красиво обустроить любой дом так, как Вы пожелаете. Естественно, все будет выдержано в стиле средневековья. Все элементы сборки выполнены в 3D формате.\n\nЕсли же Вы не обладаете навыками стилизации помещений или хотите красивый домик в нужном стиле, то автор добавил еще и карту с небольшим домиком."
+          "p": {
+            "en": "Shader writer EVO Classic tried to recreate an old type of add-on that was less taxing on the gameplay and gave the player more options to improve the game without hurting performance. That's what this add-on is for: improving the game without sacrificing quality.",
+            "ru": "Автор шейдеров EVO Classic попытался воссоздавать старый тип дополнений, которые не сильно нагружали игровой процесс и давали игроку больше возможностей улучшить игру без вреда производительности. Именно для этого существует это дополнение: улучшение игры без снижения качества."
           }
-        },
-        {
-          "title": {
-            "en": "Preview",
-            "ru": "Превью"
-          }
-        },
-        {
-          "body": {
-            "en": "The add-on contains more than 160 blocks. Get them in creative mode and start furnishing your homes.",
-            "ru": "Дополнение содержит больше 160 блоков. Получите их в творческом режиме и начните обустраивать свои дома."
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681731_medieval-furniture-1.jpg"
-        },
-        {
-          "title": {
-            "en": "Decorative sticks",
-            "ru": "Декоративные палочки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681703_medieval-furniture-2.jpg"
-        },
-        {
-          "title": {
-            "en": "Boxes",
-            "ru": "Коробки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570109_medieval-furniture-71.jpg"
-        },
-        {
-          "title": {
-            "en": "Decorative boxes",
-            "ru": "Декоративные коробки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681748_medieval-furniture-8.jpg"
-        },
-        {
-          "title": {
-            "en": "Decorative barrels",
-            "ru": "Декоративные бочки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681775_medieval-furniture-11.jpg"
-        },
-        {
-          "title": {
-            "en": "Bowls",
-            "ru": "Миски"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681719_medieval-furniture-14.jpg"
-        },
-        {
-          "title": {
-            "en": "Buckets",
-            "ru": "Ведра"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681758_medieval-furniture-17.jpg"
-        },
-        {
-          "title": {
-            "en": "Baskets",
-            "ru": "Корзины"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681741_medieval-furniture-20.jpg"
-        },
-        {
-          "title": {
-            "en": "Walls and roofs",
-            "ru": "Стены и крыши"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681741_medieval-furniture-23.jpg"
-        },
-        {
-          "title": {
-            "en": "Tables",
-            "ru": "Столы"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681773_medieval-furniture-29.jpg"
-        },
-        {
-          "title": {
-            "en": "Fence gate",
-            "ru": "Ворота для забора"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570130_medieval-furniture-74.jpg"
-        },
-        {
-          "title": {
-            "en": "Fence",
-            "ru": "Забор"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681788_medieval-furniture-36.jpg"
-        },
-        {
-          "title": {
-            "en": "Stools",
-            "ru": "Табуретки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681791_medieval-furniture-42.jpg"
-        },
-        {
-          "title": {
-            "en": "Urns",
-            "ru": "Урны"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681788_medieval-furniture-53.jpg"
-        },
-        {
-          "title": {
-            "en": "Books",
-            "ru": "Книги"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681743_medieval-furniture-57.jpg"
-        },
-        {
-          "title": {
-            "en": "Corners",
-            "ru": "Уголки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2021-12/1640681745_medieval-furniture-59.jpg"
-        },
-        {
-          "title": {
-            "en": "Tables and shelves",
-            "ru": "Столы и полки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570087_medieval-furniture-82.jpg"
-        },
-        {
-          "title": {
-            "en": "New blocks",
-            "ru": "Новые блоки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-02/1644570128_medieval-furniture-90.jpg"
         }
       ]
     },
     {
-      "name": "Remon Furniture",
+      "name": "Spectrum Shader",
+      "versionTxt": "v1.14-1.18.2",
+      "previewImg": "https://lh3.googleusercontent.com/fife/AAWUweVsHVFFvfFMx1Oh_6O1vDyi8PvyYwbGdk9PebImeMQ4fTX2yQJbm_gq-UStl-xFWHbk7UYw-Nl3wPM6K5yrGD-mf5_dxF4JR_T6x69aj14Ckk8WY9YAuamdor0hSCpjeKMoXKGGW-Wk-nmK3udTjG8hBsjCwMom23HrWahVIRXsqpFUy7eMhr3SiBs9q2BFcv1SHa_5b_ewGDiGET8LqhJYbAPHmqw5wrJvHoZ26WEuUMWMz35GUugLxiyVxANJQein9htzXz81euN4wlA3jheP04XeDrCy775NkWq727gbWPEBQEEEd9ZBoTQXtr5A9sW9Baoba8dg2duLK3neOniP61wyZNVYrtVw3_PFGQVHnrB-0KJcFq8HLMaQz9nge_WrXIeM9SjkeEe5Ppcxly5VrDYWqjJYwJRWQF9PSAfI1P7mSxFw0UKwHZIGNWoM5ZCLqn7651oT2YK3nsACJiniMafMphhyMs1lmg2H4D4EcZaxBa-_NJeAlEUIDvGeJOi0wpd7FHIcJVlJNBMD793cTZUx2Cfk5os3jVFJVpYv_lPLsKYckX-RR62wBCTVRjjMigl_A_fSlocHMLvu0Ly2W9wWHDM_dxt-Kf8rueSMNmGkDrEybsYVt3BKM8ozsvQmMdGTaBvfZ33yRlBvD0XkC2EmGJuTNelvQx8yaO6D9cqd_NrEq_K9fCWYjfngz0amWXm6HgDl7cwUwIXaxXg0YL9-K8Mw1QfOT3f9qP3tmSnPRztoQwWkUqR-Z3S1_axtNre6FrMAZhy_k8lkRcBVNnI2seZ6WAa-3yUyBpFBtOk7eEZpdDHTc4RCttVjBw0SyYhsnXUn_u-e4xPgDlJcm_j9bDsxy1duZYx14wVrJt_LnWZ-y5gSZEV3jxow0cR1kRtNg7vtLdGuQb6uK_48zv17iU8F38Q89LLzEC08qkm-Td-fAh7iP5FRIMwUsCqjk8W3m7ZNE_GsmvAHEUQaDUgeOrY-ieQyGkDcqhfHQqQzDORp2vpMAizA5ludrTBCyuuka5Eklou7MXTa3L75ynHmCf818mXDWRj7V3zjpJh7GVFK_CLbTsqiE0yKQnf3wwjfA7q7xjOGebETgCwqDeOwC4vvWFEnvu76dp-oZDzsL_WfjqB889ar_gpn_0l_pgRMyyvIgAkCXRMsA6rsHvURcA1CRb4wr5E-NbWuLAsViT51IszYAqQTGokR3l9lfipx8A3m2QmmIh291anSXRUyh48Gtej76Xdgt_euOJnbUpeY4mP9y6BqtHSKC2WzdUm99MWgzQcHVoy7qqjsqHXY7z2JfEaM5Z6kpUuF9PKBRjUvW79sEBlCl8uGMX7UChLMRAaPWc2toGKRspF1I-7byIXuRUUF2HOnp-wR4ShXn1y9pJ2d5GVR-YI2YXFnsme8_dclDNOc0C2jYHA8P26ac4K4zauMBkNMEMS5mGyHJr9IXSz7cmZR3QCKzaBBDDRz2hypJSUk29dgWvDVVNLTvlcWXogjxlp3nTGGLcygKVOrwKhFplP-GOridHkm41akWNkRklgJ-DNMfML3Y1yBrPdaz0o=w1920-h1007",
       "files": [
         {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23141",
-          "name": "remon_furniture01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23142",
-          "name": "remon_furniture02.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23143",
-          "name": "remon_furniture03.mcpack"
-      }
+          "url": "https://drive.google.com/u/8/uc?id=1sF7T_aGh8UqdqTTlFlilKhHOYEl26EdO&export=download",
+          "name": "spectrum01.mcpack"
+        }
       ],
-      "likes": 0.8,
-      "downloads": 1.1,
-      "size": 5.9,
-      "previewImg": "https://mcpehub.org/uploads/posts/2022-06/1654337644_remon-furniture-18.jpg",
+      "likes": 1.1,
+      "downloads": 1.6,
+      "size": 0.9,
       "carouselImages": [
-        "https://mcpehub.org/uploads/posts/2022-06/1654337644_remon-furniture-18.jpg",
-        "https://mcpehub.org/uploads/posts/2022-06/1654337635_remon-furniture-15.jpg",
-        "https://mcpehub.org/uploads/posts/2022-06/1654337633_remon-furniture-16.jpg",
-        "https://mcpehub.org/uploads/posts/2022-06/1654337654_remon-furniture-17.jpg"
+        "https://lh3.googleusercontent.com/fife/AAWUweVsHVFFvfFMx1Oh_6O1vDyi8PvyYwbGdk9PebImeMQ4fTX2yQJbm_gq-UStl-xFWHbk7UYw-Nl3wPM6K5yrGD-mf5_dxF4JR_T6x69aj14Ckk8WY9YAuamdor0hSCpjeKMoXKGGW-Wk-nmK3udTjG8hBsjCwMom23HrWahVIRXsqpFUy7eMhr3SiBs9q2BFcv1SHa_5b_ewGDiGET8LqhJYbAPHmqw5wrJvHoZ26WEuUMWMz35GUugLxiyVxANJQein9htzXz81euN4wlA3jheP04XeDrCy775NkWq727gbWPEBQEEEd9ZBoTQXtr5A9sW9Baoba8dg2duLK3neOniP61wyZNVYrtVw3_PFGQVHnrB-0KJcFq8HLMaQz9nge_WrXIeM9SjkeEe5Ppcxly5VrDYWqjJYwJRWQF9PSAfI1P7mSxFw0UKwHZIGNWoM5ZCLqn7651oT2YK3nsACJiniMafMphhyMs1lmg2H4D4EcZaxBa-_NJeAlEUIDvGeJOi0wpd7FHIcJVlJNBMD793cTZUx2Cfk5os3jVFJVpYv_lPLsKYckX-RR62wBCTVRjjMigl_A_fSlocHMLvu0Ly2W9wWHDM_dxt-Kf8rueSMNmGkDrEybsYVt3BKM8ozsvQmMdGTaBvfZ33yRlBvD0XkC2EmGJuTNelvQx8yaO6D9cqd_NrEq_K9fCWYjfngz0amWXm6HgDl7cwUwIXaxXg0YL9-K8Mw1QfOT3f9qP3tmSnPRztoQwWkUqR-Z3S1_axtNre6FrMAZhy_k8lkRcBVNnI2seZ6WAa-3yUyBpFBtOk7eEZpdDHTc4RCttVjBw0SyYhsnXUn_u-e4xPgDlJcm_j9bDsxy1duZYx14wVrJt_LnWZ-y5gSZEV3jxow0cR1kRtNg7vtLdGuQb6uK_48zv17iU8F38Q89LLzEC08qkm-Td-fAh7iP5FRIMwUsCqjk8W3m7ZNE_GsmvAHEUQaDUgeOrY-ieQyGkDcqhfHQqQzDORp2vpMAizA5ludrTBCyuuka5Eklou7MXTa3L75ynHmCf818mXDWRj7V3zjpJh7GVFK_CLbTsqiE0yKQnf3wwjfA7q7xjOGebETgCwqDeOwC4vvWFEnvu76dp-oZDzsL_WfjqB889ar_gpn_0l_pgRMyyvIgAkCXRMsA6rsHvURcA1CRb4wr5E-NbWuLAsViT51IszYAqQTGokR3l9lfipx8A3m2QmmIh291anSXRUyh48Gtej76Xdgt_euOJnbUpeY4mP9y6BqtHSKC2WzdUm99MWgzQcHVoy7qqjsqHXY7z2JfEaM5Z6kpUuF9PKBRjUvW79sEBlCl8uGMX7UChLMRAaPWc2toGKRspF1I-7byIXuRUUF2HOnp-wR4ShXn1y9pJ2d5GVR-YI2YXFnsme8_dclDNOc0C2jYHA8P26ac4K4zauMBkNMEMS5mGyHJr9IXSz7cmZR3QCKzaBBDDRz2hypJSUk29dgWvDVVNLTvlcWXogjxlp3nTGGLcygKVOrwKhFplP-GOridHkm41akWNkRklgJ-DNMfML3Y1yBrPdaz0o=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweXtdM0WOx-MsaEEkPVRoKJi8Bkv95_4AZptpWwaolt8iWT5l2YUODb1G8mV8tvnFU4Z0IKNoKjajv128ZOgDh2f8Inj-s4gU8shVcqQw8nVtR9o9NcoWhkzOfZPCL1gz0oYPzTnXVSwYrJ4ZJi-1X_ghD9Fkyo7bhCTg-BkhD47STqU7EbqlEplskdnedJ-gxPJr9HuBqw3VggQlWaxYgF5ujeebchjBTp7Yh_4uEJPxxUhr-m8lw_Z3r4vjXLOE2QaqMAMnSmgk6hWYq1JKTC0vFs32yY8jtvK-L1lcqGogigkAUZo-mMh0HLfjy56Kv7MYKiCNrz9EFau1e7sK1CZL3YgHRiSOJEFMy-PQA21AyRs-SlTJ68zbr573_sCrRpNTIpuETXXkOtujjEUtNTdeP-kfZven-Xall0-ZM_1M1fueOsmMg_JV-g8g4g7wKYDA-i6oi4d1lHfOVnS2A94cIhYDMuUk12JjCGlehhiN36SQ-6KsokneLA13jxUpTiLT07CdQmAfgk2TVT0-R_dCo-gHxU7hiek5THfLbZDmgcovS1t0x6RkGDqRNDUj_A0AG9U4_Z6Oc49ql9H3dk1iNXqk_94Obq8OFxGBFKjFZSLkKk0jcqYy_SzpncJzXrMzhC4SJulMdXnZPCzyOs6ADo-XncWPwLV2defEz7jbmCYB4g1mtVBPCP79odKJzm6U7ffJcPuii3lr1ftpx4pCR10mujzve4wBNhPv-92Ocgj_RHMQcs9SUdqfTSW5TswLRmP-QynOi3q_HWGQgghTdyIzoE1FxpNvuSn3wb4zBZFEFxCt7oL-9ehkNYKE57-AycD6VQkGY58u6JM80mTBsM_sKjqC8zpJnzglCwA06a-Isglxdfdz8DVlp1FI5crfaDecJUohUpEaFkb5pTfmivhkT6W0TKNHbvtl-Lsuy6cLCSMAZIGZAlevAtGKkMAONtCczsnu3DMOfpcozYl1-bA4fuhH1HhPubq8K6_KE6wm7EpWTRkH9-jiFXW2pB-wtZBGxjufVFJWZhjzlaLJhWhMFQO9AcSj_n-ryDZs27_Vytc1ZRxvFKTS2FD25y_RFso3Hy5J_t5aBEUviwotTuY04O3YB-aC8fdv8Dm6jOhLqbQnp9RbHsMRrvg9LxAOee0m5NjGv-4WrVZXS_cxbmWpvcn07x77NPrAbpsFZNqdKIpoai9TdmI656H07u_i69E0kG4_1iAYlsFMDwB4wlbV2-8OhedHLauMKXvFgCvCz2PZxeL6qBN2HgUsgEfb65JI4y_RSvtAFFn4IVRPMGJ32D3ZnXLM0C5EZ7wVL-5pi3tfs5Run5a4SMg0B5ymyo6mfcVj6SqIQvHGK_0EX_oKvTWeP3UdpB1cZn64jazCW4Vww18JLXW_yWx_SFZjXtpj3k3JJPzOXFXyATQLSbWaoU2RG4X5gspWo7wxdvW1aa5r7nm_89UI9rnzAABKBgdp6EoyXj6O7NZezN_nYDJg56Pv0c6d84XvCExFAAXvAPmSYploXFM52XZfSH0y5Cb-OgmgY35ztYydLPK25AVouf_qq4=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweVxdixAKquDn4WxCmTEpDvBrMROOUn9abz-oKIPu0UpJKPOgcDLRZTaPHnfaAlbpxsA8d4OyoqDdlKGlcM1CQRSAdeeNcbhkWotQYJ4rsSyaKJ5DkLMsW4E008TiQPezvohk6X_p-4g8b9vFI0IsrHYLU7huF_1QMT4jmK9Y9Vooth1x__DDS7-ErHdkPZhuH3T13CPslkP3DmTH-Aowj3rTUnMDU0wKvBgK42OlxpCU-ErZyxjG2_xBf9P6gpsZ5wMgBg4rfhs1ZBMp0CGnQCAhuha3ehebF13f_HXzfBiVQyi1CTaVVK6s5NFBZ2AMsGIdcRvMaE8TnL_gbwn644lb4IKVhkVzmL8kYzKoYHT-0Rm5SfAGjd31Lr4_6iTEZPhYOC4KkY24C-4XCope-K2DzIbfq4MT02dPBMJeQGxqI5IgREdmCOJf2wC-wbCO1LMLXx6Q2BBHoiJOYwpK07XDNh6DgHNumdFvxxktb8H8XVlxetAeqpOgv8eSARbN1UpqZz2s1_1TqvYs986VNm_c5H7QRV3VFJBplTX4Qu6ckmRQrDK09CRSsAkvDf-aUgXQuWymglPGqDB1JNojaLH6CxYyg-WQeD5qatRy5VhaVra9ginZn5FeQraXXvlKrcswFmqjZOk3Fszqkr60TpkKPk_pguVbvDA3zY8VpmFmS7OMvPCaxCPvalSIOW28a9sHy3TzFQZB6Iryqt06nsMhF3wnchFVZBwHN1lJ3Jt65hhk7-GdwsfjB1FEYDFfAKFM-lLGOt5pd5H6ZEOX7271kLbKlBFL5OVLiDE87hMLVKhoyRk7ht29iBPbzpIISCT0nrmFf1jNmPmXFC3iv__Y6eAKdL8pzbuHLXonMk8_0TCV-Nbj3AEp9-wyUKElGzE2NxPbGa1e9_2KL8sotYFDdAuaTxwWV_ISpv6wWIeHppeMaAZjy80zI7zLwzm3V_MbBywpnXgI93KcFUwF9tDwAuwHDmIpqaRZqKtQsKTY-rdd3Hzesg86JQfYbU3WQ33cJxdo9bG4_TwbIM6FByCZPpeYCbPcBcKy73NJtI2LwTwVsbFrKmWJE_w65kyw7ZTYQYFt2xwaSMgn6hTCorOqSyha9V93qoHM7twNQ1uT-rohbDijLB3f0hkv8I3kU5mS5c8O5cJX8ysoVpfwNYiF8U4gta8xwjoPo4pvLHHOWm-IILJhr9Czs9tGAG_3R6fqPXq9pthCDdaNcjPxG1sEznc-EFhofmw-pbexV8HZfp3gCJY2XzSERmgV7ZzxTXzBwJeshK5TOcqWTkqubfNyO8CVFB9Dz0R-MxnrQLJoD1gMOlhgXWu9qb-uKx4qBNtrM4Og1gNWwBhsL-hiCjBAbIfqLnCxXmYEGACqDpPInnz6dSLUKjJktl-zs3walwQs0Evqzlb3eTgiKHPCzVsDLQfoHPaJ-9fdgqhHZ_GcrU_v_5Jiujzi5o0_z3a4STuoKtEl4w6lI76z1Iwf7duwkl8GJyEfPRJeHG5CELAEaNBBJAuCH7fFzgHDztRAKgOFvtItSo64mLoB5jfxQSOWT9OvKMMg9o=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweXn1xDC98zgzBPVoiZ-lGcMLMUZw_oKvU7zv7aHA4u2OznI5bQyr6zrQzvwqRbGBKYPSdSlpg_w_Ox8tT1QBb_ufEbE08NAl-b_dIMCZkFudvmBMDy8VKCgi7HIPPStUy4toM_C4tT6fg58C8OoZqHdF4uKbQerToqla5w6D-oeRgMLsu75a1HiXQIpgsVf8qFSuZiyz_zuqtReLbxOlnF7dcaZV6CtSlVKwvKzPrHzGG80gIedSNCCmLTYe3eOrgCWlELcWTiveqDXf_jwzM3CNOQIEa_jLxw31NiS-LXBh2KXVtLoIxe-iTljQzmoPDyC9XP5p_QweJzFkHZpE90MiAzYjrBVZ7XoGPlQbrQo23b2eh58qZ4beELPgtl8YzoUogG6Njrmyrc3Bd-tk5vRGTVsyVkWL7-LoYef6wEIRNgtSrAMO4qUWNa6FkjhB9Pe9gwrQwgUcVthEqYUgqT-ORbS1KKhBisNrzUHAgtnABlZuT7SVkrRwWAnRRC1805h_34mc7Yebau6MrqwIg_bzhBYjl8Lr5w2x0-57Z0rsvJToo2u4BtEcHvVu5G1oavt4fyOZ5xdMqIBrTOAMPMR--ih6WZYP8oL9zeO86xtRiQ_DD_TUEx6Kc5s2Go2Lgj43husM1CBdYZAyjlsFoUYE6-SUYFnDm5qlMnkYFhZh0Gaf6vwWcfRmxKabLBYXGlJ3Y9KmDQ910twaaIXraf5oGR7ZVrVBymtFPxNEJsnUCq1GpSXO3N4KCRCI7uGEQv8AKX9e2gNgil9UXh5STkJxf2uSjmneRQgQGD_8pKNUbkY_tBIizwUEJDfKdVDVCUXnXfS9wKNM3lCNML6dZt5h-eBxIDwCPiuU0W0Wgp_9xZiPm19G9_klPUFl0TJndaVwMKUyr5YjChYeD7E6O0gK2yPhcKkyDTCzB-VV9gTfxhq7fdm4vhbfL-cobczFfYB_ZCpBotKrdK3TWaNh3uH3Gb9XARZXN98EiWifOLE7yKfm5wsF7SrrbOHF-NRs_qQhhaSmXzQi9YtRTVOkTmw5nygCuadMKbwVU5Xc26hohT00K6GndSDnCWeGQMl9WwdOSGg3xUcT3ZfSnWj_r6Xrs0KcTTq_8fA8Uf8aTyPno_7qCVDLG5viGZFcDYRsWnZ_M8OTGUZphlVV4B7R_W4bjuvS76GFHAjcI2qR_xKd_RjS-a_Vz_23BPwrDBkH2js82sxIgnBEXw1btw3a6iyUzxIYWf7lDmik9dRUJWLE9QMv7L_2pKU3WxxhQruEoQucmyWWUPZXk2LqXwPNgae1MCnURRYjDLiFe0FK7zbfZ8n0mkJbTeIpDbTeVa_kv7r4zX43MbAz3TA5w1lbV9GVbs4N_iHt39H5QRVeqPOyvEqpuyLjzOupUX7jTjBVK7hnXbN6sTZB4uJCd2FPxaZQzWSp5Ul7xirVpPZkpugK8YXxDZF76WudmbVk5RMQNteEWOpSyCWta49VKgBRoPpGhJRHUSjs8IfebPdE0im6zK9PaD7ULRifDxlNWDTuw4CM9nZ-0qddrN1BbiFq-cWldGXFjo4n_E=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweWsdmhp6b6_bVdpm76sFUBL4wzvUoDk0ix0NK2A5z3g5T8-h--975jQ1nHfLZ1YKD5Z-ulUCrRXJJeH2dUcJR-2rzD3zTeCfnnHOlJOpEyqfRDn79vPxxnPmr5403GFfNoPJWqzOgRRVBEGqz4uGT9gfSu8PIkbIQjocrMTI7wxM99S5BhJ7Zhq9VErUclx-HKragcd0MkOoBkHq8ex2kiOM_Y97MRnyihDby6warTiTWYrW-PBQDJ6b-cn_g-9ks_chT7gzq439xbHAHAOCAxP_ZGlITGKady7HEwFfahDHH_1lcldbstw0ZeMJ_vpVWWO7JdHnFPQVmHOWPraSyFUsUqLZyBIFkLuknnSZ32fHS2wkCCv3VnAFTfsLi0A-fzrIgyANxPLNYt8DCy4F4U2Z2J3uxSfD6gPTmLJjkKbwSsfrd9sASXr9F3WsqkxgYTGq9cZSZJesnvuv7MXzgX6gnr5LSRdRcWNkZ0xYjsmBK098tP9RXEeQaL4QnvLOEwxVJ4A43vfmYgpgB695bhW_Gm9Q-y-ZNTWaGgGPTejoIICzPOKxHwpW--LjCGmLyFbjxBh7bZMvZY5_aAAQByHms8O7V_MTsHoLPs92iwIgnlAiGP_-JrszyG3rNo1jEd_USh4fLSlN2VGn_chF6rCXWe-xknRGS-Bb2jpM3yzrn0jQM8Muw-cuCImlxtRcaCZYDSHEa7_wGmTuih7qnDeBFz23umEdXUM8Zg1jhZ6kmmqCYg-l4uJtFxHr4d3pImhXqNQNOsrco0-adP4NE1tCq93nvnWGe8fgExNUG6T7OfsyUYVnH4RsR2RMkFw8Wr_BVJV_3tEhg8ZTFrpEbb45Nzx5pnLRkhKG9UJ8aQTGkvY7Ncp3sndGz0SUTqyWTzmq0-Gy1BzEAXDOwWcSf_u1pw_0ybDOhUQdwzjk9LkgjP8TS0SbMzOjOwYmmBSTc-vLwkgoI8JrpZKznlvdXSUwrk5dFDjZWKFy3SNvkqjae5YhzXVju2xMqD9fujom4atanJzQH_HQq5mi_8uH-zF1QlyXBwRtc5-h1V2NX8lrl_z6JQeo2s1uMmDehkLeTOMpzGll9oEQhvUQzHWDcsb6OkmkgodBG8qBBVcnPKA7boDcS806FIYXB9ckaHHdX-J4jne9M8ScGe82DXaszI7L-JxZy8cwpWLDTpzy6xECBXlOQii-_wNHpZkOZ-XATQCRydJqFp5fFezBb2s74v3QnjlAWYDXFjbog8sm5bbrq_sjZBOuBly9QeZJyOagedyz7ab7xVjRNl6F33xielRaiV2CpzsjM4zggH6tvqB1bRb8UgEYbZ_oCeO8iJejLyWBtYtVcSAWmYZfPaqEf08SmWjc_ho2uAAFWDxxmGfx6v-7zCDK84YjOi3UizL2pXt2h0Pi900jRu2NEoNZpkdeKjqBEWm2C30bjrRXQ5qxgEt7TZGaeJxx-7E1GzmHn_4MILd3E0aPXv7TxjzP001WUTAARA7Ah6AzebOtd4U6GZjpr_Mpq2nfda4TV11TCAFf6SBjP2E2xIFGYTK3SwHRsrZlVvJDZo=w1920-h1007"
       ],
       "content": [
         {
-          "title": {
+          "h": {
             "en": "Description",
             "ru": "Описание"
           }
         },
         {
-          "body": {
-            "en": "Another option for various furniture and decorations will provide the Remon Furniture mod. More than 25 types of furniture will appear in the game, each of which has several options. In total, more than 80 elements will be added to help you furnish any room in the blocky world.\n\nAs always, everything is mined in a stone cutter.",
-            "ru": "Еще один вариант различной мебели и декораций предоставит мод Remon Furniture. В игре появится больше 25 видов мебели, каждый из которых имеет несколько вариантов. В общей сложности, будет добавлено больше 80 элементов, которые помогут тебе обустроить любое помещение в блочном мире.\n\nКак и всегда, все добывается в камнерезе."
+          "p": {
+            "en": "Spectrum Shaders are a great addition to most devices running Minecraft. Unfortunately, only Android users can try such amazing graphics, but in the future the author plans to develop an assembly for Windows 10. Below are screenshots, so you can see for yourself how the add-on is worked out and detailed.",
+            "ru": "Шейдеры Spectrum - это прекрасное дополнение для большинства устройств, на которых используется Minecraft. К сожалению, столь удивительную графику могут попробовать только пользователи Android, но в будущем автор планирует разработать сборку для Windows 10. Ниже представлены скриншоты, поэтому ты сам сможешь убедиться в том, насколько дополнение проработано и детализировано."
           }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337667_remon-furniture-1.jpg"
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337702_remon-furniture-2.jpg"
-        },
-        {
-          "title": {
-            "en": "Stacks of books",
-            "ru": "Стопки книг"
-          }
-        },
-        {
-          "body": {
-            "en": "Can stack books on top of each other",
-            "ru": "Можно ставить книги друг на друга"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337682_remon-furniture-3.jpg"
-        },
-        {
-          "title": {
-            "en": "Notebook",
-            "ru": "Ноутбук"
-          }
-        },
-        {
-          "body": {
-            "en": "Can be opened and turned on",
-            "ru": "Можно открывать и включать"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337642_remon-furniture-4.jpg"
-        },
-        {
-          "title": {
-            "en": "Air conditioner",
-            "ru": "Кондиционер"
-          }
-        },
-        {
-          "body": {
-            "en": "Can be included",
-            "ru": "Можно включать"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337651_remon-furniture-5.jpg"
-        },
-        {
-          "title": {
-            "en": "Digital clock",
-            "ru": "Цифровые часы"
-          }
-        },
-        {
-          "body": {
-            "en": "You can set a timer for 10, 20 and 30 seconds",
-            "ru": "Можно ставить таймер на 10, 20 и 30 секунд"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337610_remon-furniture-6.jpg"
-        },
-        {
-          "title": {
-            "en": "Ceiling fan",
-            "ru": "Потолочный вентилятор"
-          }
-        },
-        {
-          "body": {
-            "en": "2 speed",
-            "ru": "2 скорости"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337672_remon-furniture-7.jpg"
-        },
-        {
-          "title": {
-            "en": "Television",
-            "ru": "Телевизор"
-          }
-        },
-        {
-          "body": {
-            "en": "3 channels",
-            "ru": "3 канала"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337689_remon-furniture-8.jpg"
-        },
-        {
-          "title": {
-            "en": "Lighting",
-            "ru": "Освещение"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337670_remon-furniture-9.jpg"
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337627_remon-furniture-10.jpg"
-        },
-        {
-          "title": {
-            "en": "Cupboard",
-            "ru": "Шкаф"
-          }
-        },
-        {
-          "body": {
-            "en": "Can be opened",
-            "ru": "Можно открывать"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337650_remon-furniture-11.jpg"
-        },
-        {
-          "title": {
-            "en": "Paintings",
-            "ru": "Картины"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337631_remon-furniture-12.jpg"
-        },
-        {
-          "title": {
-            "en": "Curtains",
-            "ru": "Шторы"
-          }
-        },
-        {
-          "body": {
-            "en": "16 colors",
-            "ru": "16 цветов"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337627_remon-furniture-13.jpg"
-        },
-        {
-          "title": {
-            "en": "Sofas and armchairs",
-            "ru": "Диваны и кресла"
-          }
-        },
-        {
-          "body": {
-            "en": "2 speed",
-            "ru": "2 скорости"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-06/1654337623_remon-furniture-14.jpg"
         }
       ]
     },
     {
-      "name": "Kraftoid’s Modern Furniture",
+      "name": "Craddy Shader",
+      "versionTxt": "v1.18.3",
+      "previewImg": "https://lh3.googleusercontent.com/fife/AAWUweUJ9F9FRr9EDdN1mzVdsHNfw_-GRjRzIDtI1vnwbticJJExlBNVW7S_N5h_lHWJ3G5YRoy61Ea5fCISpGz1jGLrlnQnYZNVkesbTuCM7-D2VWlwAn3mceqXx5J5ALrjf7-z_eTs-y8D-_ajB1uXqve1BfEHVR4jejWfbrzrhD6wyne_IomdM96KcywstAdsPz8izaX1UjlwXMHajOrEEgBo5SNJEHfwvO0k48CH9ObZyV_tVCVABP9oV43jn96I7MC3mwNsdzLADge05nmtf8ONMMtY3H_w68Hzjs9PREpRwPnW5KHDaD8EO7msvJv_99jbigEaD7spzyPgbGtAM5E0qIJUt6R4WUya3JPTQIjf70oBgH9DKYXv1JJvMvvm5l8Ir5YXYx--Z-ireWLE-5J0Rl42Hy3jo_R7UtKElTxiVillJkV90yyM6x2ZCYXg_ljxRz3ZzCyq0tWyrDKtXQ-YVK1gbPxSWHThYas9Ltigoeq4z6LsD5ueBqpauPEAYFm-NBKX_PYsmwN2JF7VPKiBmV_SbQpvXi2r4PODXc3JsID4l8De0yg5Z_7iIKgWJTWgBPLmbb5bB1qC_IPuWd_INdzZyrcYjFelTbll0kkABeCB1Mr3iY5E0VEYvnx1ZZl33n_DFJvyF0OLdlkVOEtsPnG_fbpYdQ7OGJBHvO0Jd6xLDlDPjhQtljDyvX8Rl_hNLILpip4MWBNbRPPmOTwgVODUa08aUjGp9t_BZjwFjUB8aKwNkXip_2lACoV7RFqyGsZmkJAso-eDjC9Q9Cw8qHNx7TJUAD_cwGiFGnntOYryh0mpMc72k7CCfP4a6uRcSR8wrz_jNZXOqnvUOvuFYzBSuTLJZxbQBQ_uqqe3TSw0H0dWT-7Lkya4NZl-nFkUzVdea_3UmV9GHRh9bejZro3EOI3tkTTqhDVCwyuRzAeWwgeHK1NkqefRb2xZzV2vIYpa1TdTwt2WnYd4BnCP6Zs2AtW24N5b0DEjjDgLrQTLLRT9HFYexHm3yW0rloXs6KRrKBOt25p3Dp_yCGagPIpgQbwl22f0w0TfztGFzl7GG-ujGxXnJ8qfUMoJsdH3ZEt8Gpa3q8WZZPUkQFdSKoXV3WXFoT1ePSDX-lC_wFTWhDlVomGI8zztDM_YfGL15_AtvySLkE8H_7LQRwCMov_ar7HdXWKXosIlkRWcFaNJmYUB16g2sZSCSvN62kt8dLLPIBvoAAoVV33Sts6TVGyjd9QYyMo1mm-MFcpE6HdP5H45MAfKNbX8EkiuUzOGQdBSYsKbJdaKJCN_jW7zGHrGHgEu1LU0V3BP5MTBdarlu5n5OGA15zlSH0vme_e49SFLe4_er4boZpmXwQo6Iv6hQmmX105CK7uX-ZYz2giLNpMBcVt3A65iVSU0nd0s8hg1hfVAun_yqDet94xwg825xPQtz-Shxlvb8BWNEMsguxGcjrbhfCV7OdyG-A9Q2DRG0E23_Qn7JjgODVRw36hXm274s7CdAC41wikpogjAASQrHs-vjNraZ3fOes2Kjh9x28scxA_Bge3sjjjDqQTX5Akt8g8=w1920-h1007",
       "files": [
         {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22956",
-          "name": "kraftoid_modern_furniture01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22955",
-          "name": "kraftoid_modern_furniture02.mcpack"
+          "url": "https://drive.google.com/u/8/uc?id=1Tpm59CfNG3QJ0zq_vDcSiaQAPdVGe5NZ&export=download",
+          "name": "craddy01.mcpack"
         }
       ],
-      "likes": 0.5,
-      "downloads": 0.8,
-      "size": 4.1,
-      "previewImg": "https://mcpehub.org/uploads/posts/2022-05/1653637143_kraftoids-modern-furniture-1.jpg",
+      "likes": 1.1,
+      "downloads": 1.6,
+      "size": 0.9,
       "carouselImages": [
-        "https://mcpehub.org/uploads/posts/2022-05/1653637143_kraftoids-modern-furniture-1.jpg",
-        "https://mcpehub.org/uploads/posts/2022-05/1653637092_kraftoids-modern-furniture-2.jpg",
-        "https://mcpehub.org/uploads/posts/2022-05/1653637112_kraftoids-modern-furniture-3.jpg"
+        "https://lh3.googleusercontent.com/fife/AAWUweUrYQ3gumc4XTBtx5ZKsBNrR6kYDQ_dw2En3IZUqpKErl3D5in0T_5hSLVeXw4Pzo8RTZL5dOEgs1ljTvyHeZxUafYdTcKvPgZDxZhmaoscw6yWXishX_w2561Vv33GftdPq6YURhT-NnDAVDEjfNJi9dG2xBzW2NfD4HUVpUtRXMXBOI_z_pYlg8ufGOCzR9UUU85DQxox2v0CinTX6P60sMqDtRSHEyOYIFHTRJwCzsV_aHBIwm6yzOIAHPyYow5C_Dllk2g-iWFe5szuSR2Ys-V0ebdvgEA7D5fxQisGCl_WwAJN67WOu4siQGLpUZOEyMchBaKMFobx1cX1ep11l25Sd0QcclGcEsySHEwbnRITP0Ts3Da3SLy6Ai6lv_oc0D3-9O3x4JxxFRIQQZiPnygj1-r4yOlOWgV_fh25QJ908KdFhoyzSBio1cxhG9AcN0LJ9x8t79rqTZpuhDGHeXJew3vKCqXpvUlVAlodPK4wIcdN2LtyuueQdHNQbAju-YX42mV0L_DlhFn1oG63MDXKt1iF-PfKCO3FF-eX7Ywv0DA6lpZBpWbPlDTyUrVJ8lDp2Blde3AKzvRkcNMylovRvmbXBgJTpBlav5U2G8XUo9PNBqSNzZNDhsNCm9mO6StAqROHlC47EL64MThGsgoWWjRLeANg-vYug2EwwI2OIAvlqBiFQ1bFCALvGKFpVzrvZbNFVcjdAEel_kiKWR0Ax0HEgxS3QYBitjXu-XmWmIXjI04SNQnPmTRiEs-W9-Gb_bS3CUUeULm9fkG8T92jsl0o3rovmErKA4chuVfVaG6dPzg666xcHrrwxN-RryvUTa9VRsyxA63I0itY3lNvjlh3S6G4G6OQQ6yRaM44kmiUEYaq6-EAF6LkPl82MJk794j8e6FYK5vxxLuLyOhUkXLua0w5kSS-h4VpJ2u3JsLBiXQboc-fvzgART7qtUo3fq0iMCLa6mHchiIQDLEfRsqYrhes88oIDLL7Dh_MV2z1MMggYSze80zO0vTd3Kd3FGFJHzWWgL9Z2HY8m8tkt3Y2hvr0okI6w2WTyOBehqrAr55kqNCYgGxgbKXGn1NyjGtxFe5PFMmKxkDYaIq3aRM1VC2p6UcrtZBdnVNZHdkoKFZoxZrViFEy2c3BuEFQJKmr1fNVv2_CJPMYdHGIoKG2sDqzvo1DcLQMC9qoPaW-bjGLhCxKFv2l0DMM17cn2965zgIPr4KxuH1ewAjiHRhHL55prQhebOMQwy2unasc8e1M_gwW3WPk0pJhHTBiZejf4Zwaj7xVeCeG0CEY1Vxd5stlaA1X_BBz7jxIYhtB0hJmAQOUSq4zTuucrogTx0j31r-jVVTj39oHve0UprowgXMlLe9IJVV7Jlj7OuxFO4BTIw28F6KA-k5e2Um6bXGtUReOP8xO2tfdw22xre7M4_41tzd_Z4y7GXCsv6JlvSIZwz9qo0ft1jFTiyiZKFKTEr7Wq1q3hlpq_HqvYnRP1RvOqoIp2SUbo4qgcjm9RpKrxgZ2eYdhZgF-lT2wnitfQ9Tv-SSGgkZ0TtcsDzs3lzI=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweUKrstZx9qTJvmeIAIGlivZqCJxBg3eZJ_pvbZF27MdYHNTM-H7O1WvLgp30RKeGC52yynRG-b-933zKvd8h4Fe7NNHL3x_DxGDTfkN_invIl24RNMVsrBjcRfhXy81fcJnfrZlQhMIVAypTrVLGGd80fkgf2A9aXdJojeQQ9IYI5i5GjyaopVgLo0SNrC_ouAVeFJlLhGp--WGXmwyUgFC1gsGIlXwq_XrVBBe8VficaUzB4jD7GYhG5gtcLTdU8cj3ihupnwM1GbffbbbtywIf7V62WfVYt3w2cm8bLS3-3FYD7NXr7b-CAseol38QnBSI4xUuEYePytbECauJZ9YHFdnJzPnoo2WBi-q7Q5186u0UyxsXfI155x4VRGXAHepyU6a2ntQM5MDjFgE9KnNsqePnavNbhnlbcDbSthjtAcnEPhwS0qV9lrezTdD9qMkZQm6i0IeU1gB__ZNKS1QRIWb2xvIxXl8nhg_jhUkjLG2R1XfZJ5Mwi8kOAYtus_sSwPjt1xq-xCALpFwP43oLlnG8kwGXenH3mZL0isVfC9vFbd8ygEHjQlGgH9ELnLDlrvQEeCOAehlbmG2qv_VcpPEXYYAToZVMAOgWAHTLvTPfqONSzHlLT9IwdvdOtbALVM3kstxkbjw5pmjeh_Rb35DHbUM-G3irjFOi_Sxia6guJo_TveNex0BvXBmP2zxzXKFgfeFd0GVTrw2rmK3tIbwxiXm_rYaANcQlL77RRZUqlUJhqeCGdXSf85b-s8v4lkBzPoQF9e5vWVMTUDG_a9GolrKygJx0sd8BvvMuKhTcqSlZ6NfU5cHmvwjIUAmJmKYlZcd6jGpqjYAKd-VsWH2xhJYyL5VM_Jjpdah2R_qUlmX9b80UhIUu7V33whdjohsJAqzNGSnvxewFln9PXotk2EvptQma3m6bulnWHH4t7XhxOFdt6OwZxjpC7iSZnSm-aHCJ3KvgOKH1S2xsxj1oYy6zrB46kAlgKXcVJTQLWF4EnFLg20c4IMN-IhwFmO_ojbrQ1jrOqXXSa-nMKghqWJgVJPrkIblNFbcVEQ2iRyL5OnZlwGr4COnxSRt1JOkxuqjm2m7PqPJcbze5v1r_4lKREldrva33TIlJ55CJd41x7_JjQOm9Dlec4MQjrF1-aGowS6aG8_t2O-sxLSrWCyM1ixIIK-PmDRo9AjltyetwKuzKMLug5Ca5j5Q0bzLg_aPXvoMXspk38Yf8b1Wf8Meayisru3gYvvotzzg_S-gZrMGWwdGWZyRmp0Ckm5PvuTU69VgHG_Xmbel9WOZUzlErn1a6ivEHZeV6xSF1clq4flK7IDgJBwKlVnsqZi9bmXlWUUwkrCnGFBmMKLwtAAZCBY6iQBQYqflZHE6o5_qqjdQIoiSwK47Fn4J28N7HQOPla7symO5ATQgdYRiXXHsDaSeziY0JLq-mj4LaoTdHPPOt6XFBwiJ26bdyY65Ef7-IRKqTZYGCaJrdhtmHP7e3rgPUysqLjvaMQ7i7bm2FC_xagR_d0j6VOYAbFUUcHRnxgPk3xkUwlVZrKuEn48haQ8=w1066-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweUlIyqb7v7e0YfH3b3zdfNnhnjnPE4Pzlt_RB3Ur9YYhc-JQhFsjncc5xQ6Iue8_T_PbLXOwRAl4G_rSB-1LDN3X3KKFFVteLNwXLNGmv7gYYep4PTWCSh_D4tTDElUECxaUKQERVPQTseHD0IkqUZgi9jCPjHkrJ0PoiacnbRbR_A5m_5SLZ7j5_zHqLMwOTP2FHkQ64s9qeMIaQiIPwEBF-ZtoVwKUZAs1QfQVcUJ-bSWdQPqDu-EKPXz9F3KF_qhtF8oduZnYPJYa_Y-jm8xA7zkhwUMdc_17RfuxlryPKhnqsKYVdDBJDjMQhNX1Lg-o4fPvqC5J2kyv4x3ju8ZWisdYFhHmWrAbKRokF0pvUzaAdcnNG-o9kyjlEJ7zXijS2ugdijg_SDMqmLHldRXpywRYSPpyciFHkP1ad4ir5b0Atcf2nA11xbfUgH7OY2Fut3s8aVnXGYK_8rKKI6tWk8R2gAPoiLDH_2UhpdGzpU0Ln3XqJvLRbHqnMRXJ1p2jKEtSOcd07VemxOp1XUm8nho4M5RE_JUc6jq0u6hrCGhYGXBRp70hDWMwlS2IRwpqDvLD5RGkR_ET6ViduPAeI8ipJIxtWzA6b4j7o-PiWOLbTzyi_45C19NqL7TWM7i-rSNQigye1lgFaCOJf0Udl3yHi7rxJUiblEKsbmfqTKonTTGuG8T-JHjf3SVusJbbVgG0OCdrTNsY0tOsvNKzzFu5v14BB38WprMHA1pUUz_KU7mypOx6_E57YgtVbdds5LtzjX6ntq_M9SpOPvWaQkgst4WyP3RUxxV4uCHB-xbaLveOE1T42-0rgRY1dfPVE8as1yLae8z6YKfJf1Z6rfDkuS8-tG6T5bN-ojyDc6RTXxkwBp9upJfXBlwHN2TC_TEKbV-pEnAta7OwSUfHs8SPUqxiVnIBL7PtevZSplsCLxamPD2EsArdxokgtgzCx00qdJZl73I8IKEHURKYaSXKsxByESlev11gFoNL1ReXkr9XJtFsHfXjKN6uJl3sI0Mc3Xf2OlKlA0rP7jqabu8sQGGHliqh6qIw8t2IympBdeoyZjMgRPmiG9rr2s2NwzbNZWS6G_w_YsDTOd3XJVqB1_UJ06Sm0w4btvng2CjbGhOuH8Up3RPSy1rBOfw_MVOB4gfTbzb3caGKt0YOAwoDxQA4YsN4QUin0bJFCuU8ludP1wRtijxoprJePaN9CnE0G7PT38LDKya0HaaWSrxo0p76pXtK6EMYo245dwka_tOWlgDIvo2fGumsnKHjSs8vCujilRD3UGdz_LZ_ydpbnhaM2ZJS5gJCahCm2foGKk5skKIPbqSE6IfOu48G1_vYaI5FeemK0s9QJ4h-yySsq2Exq4I8PCvoPDw9aHfdkAHJOcJvsEN7ZCE_zOnG-YB6mVVCKZprYhBQ3Evb5MAOga0gnlBjk69IRKvwaqPonWJ8EOKorkwNf31WAZnomARPcNzLTgu_F3kL7JrAjwehA_5UolmwP1QJf1mpgW-cYcCjOJlAwIMQ6uW_FIDAyZ-9GpHLu-Hxb1Uv3TQglA4Uq20Hd0=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweVeC2jbyjFhqCGk0KejFKXQ-qI6EDntpesLnWWezJ-GkBjNRz3jILj0XXfK9dDSojSPHN2cutrfYzEYb41TvBppnvKXMO3n9hIWLwGxXcE4kOiuFxQL4sgnHVX1RDqttnSP3WcWXCccixmis6bZ8LNSX4_FMsr3Qh0yFuOQK1q-BXqdjrn_M4-YeTipsBxymJ6x6PQ1TuH0dCpXNKTk2Kat7FjWlPqPYut-4cxGuCuIGIKC9v2J0ekHse-FXx7Q7QCr1zzfbkxtdbc-0IzBWIonPaYHNYeWbz7Kb4gn-LMSLlukBglfawL3MQHY_fABvZrReDYnTbLruYKheAoi7119Hxdoj8C9iP6ZVnLAO6cs1CM2Rx37B2ZsOa6ExiS7IvWUt7EMt-ATM3KSw3tkZ6DdDesPh67m784D3xZWQeVYRFqBejt5wCK01TKvwbHWzaFjBH0JzoEvRnj6I_MOcBEdUEaVh8oh1yirR1ANJE2sqmk5yIUd96Jk60K-hJkam3Vb8pA_1_u0orEjre9vsdPwbKoob45tgdVuMd_um3pB61PsduTHaxLeLBgPva1okQWImGZTcRBHiIEh7WdaaTSFZT-N0MjWqxiJC-qIQBQoXnpLg5HOVFaji6ZawqeG4XxXgMh45COeRHkG6FSdLdWiSt6OCKpu4je3uchwh1D-q-hkGFfjuH7Xfvsiq74AxewPlZVmMAnBPBN358f9_M7P4Ow92J4XR2RV4WMo9jpXBBLvJxzVF6YGsKzgGNh8ktHGYDU1SWLegq2VtpTrncEpU9ueeRuosazP0z0SgTSIiycFGOz39ZGcDChcSOmodwtIvJFVOADGTziJ335bMaIvCkWKvtVfd2KOXfAlq8-5x4JA67Ta4SKbeGovYT3rvGDIAVvUxYaTKf89h3I4DHxf04r3heXWDAJu8YfbhfOAilVjZqTa7Frerl7Wj7mFF7omm1gH2jUxmqzWYsS8cymq6mqKC7KneYGYdGBm50sB8pMsnlilcmY-MeiFMJ-ldz1Ki6F6ePIVlHV6Xc_Xy7JhGUWH_VLpbECM-qbukRcHtOVWOQv8sjX1UOnAETPDSemz7-6om5NtF-YnSYMWtmOgKpN_9M30nCB6rZiVoZHRT2_RdntWl0KGv2rgnPARUBN5HDQImUOYvI9F9jSWEWuYPUWNq3zwRQzZ2832MAVO4mOTwxIrIF5uhaJBF4DkJ_FmC7l42jmC47f7Z7sLK14Cz3MKTAbQZNe18asghIMhG9E4EO6RQp8wIPegq2ULQbDZIWHgUzQR_WeJ_kdVcrvQGsyk8AVN4Llh6340O-3RnqFsFAteomhFb_XdAhWVoPiv98oCrs3mc26d_BNwb71qMlYLOIH8ezB25pdz7MjMWkTWVpXM60HNT6pl319HBJLUSwHVHE3YKugEtSUfQYKurba32_0Ja3YmHuQM3RCly4aQmSdS1sJVJWiQhZdb4EFEonOS2STMh9jM0afN9eya1Y1lU1Gh981zTCKn044uvrX56nb0BUVwshZTbluey99RymF1DdCL6uc19YIIY5ENJpQfwLSCXns=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAWUweUJ9F9FRr9EDdN1mzVdsHNfw_-GRjRzIDtI1vnwbticJJExlBNVW7S_N5h_lHWJ3G5YRoy61Ea5fCISpGz1jGLrlnQnYZNVkesbTuCM7-D2VWlwAn3mceqXx5J5ALrjf7-z_eTs-y8D-_ajB1uXqve1BfEHVR4jejWfbrzrhD6wyne_IomdM96KcywstAdsPz8izaX1UjlwXMHajOrEEgBo5SNJEHfwvO0k48CH9ObZyV_tVCVABP9oV43jn96I7MC3mwNsdzLADge05nmtf8ONMMtY3H_w68Hzjs9PREpRwPnW5KHDaD8EO7msvJv_99jbigEaD7spzyPgbGtAM5E0qIJUt6R4WUya3JPTQIjf70oBgH9DKYXv1JJvMvvm5l8Ir5YXYx--Z-ireWLE-5J0Rl42Hy3jo_R7UtKElTxiVillJkV90yyM6x2ZCYXg_ljxRz3ZzCyq0tWyrDKtXQ-YVK1gbPxSWHThYas9Ltigoeq4z6LsD5ueBqpauPEAYFm-NBKX_PYsmwN2JF7VPKiBmV_SbQpvXi2r4PODXc3JsID4l8De0yg5Z_7iIKgWJTWgBPLmbb5bB1qC_IPuWd_INdzZyrcYjFelTbll0kkABeCB1Mr3iY5E0VEYvnx1ZZl33n_DFJvyF0OLdlkVOEtsPnG_fbpYdQ7OGJBHvO0Jd6xLDlDPjhQtljDyvX8Rl_hNLILpip4MWBNbRPPmOTwgVODUa08aUjGp9t_BZjwFjUB8aKwNkXip_2lACoV7RFqyGsZmkJAso-eDjC9Q9Cw8qHNx7TJUAD_cwGiFGnntOYryh0mpMc72k7CCfP4a6uRcSR8wrz_jNZXOqnvUOvuFYzBSuTLJZxbQBQ_uqqe3TSw0H0dWT-7Lkya4NZl-nFkUzVdea_3UmV9GHRh9bejZro3EOI3tkTTqhDVCwyuRzAeWwgeHK1NkqefRb2xZzV2vIYpa1TdTwt2WnYd4BnCP6Zs2AtW24N5b0DEjjDgLrQTLLRT9HFYexHm3yW0rloXs6KRrKBOt25p3Dp_yCGagPIpgQbwl22f0w0TfztGFzl7GG-ujGxXnJ8qfUMoJsdH3ZEt8Gpa3q8WZZPUkQFdSKoXV3WXFoT1ePSDX-lC_wFTWhDlVomGI8zztDM_YfGL15_AtvySLkE8H_7LQRwCMov_ar7HdXWKXosIlkRWcFaNJmYUB16g2sZSCSvN62kt8dLLPIBvoAAoVV33Sts6TVGyjd9QYyMo1mm-MFcpE6HdP5H45MAfKNbX8EkiuUzOGQdBSYsKbJdaKJCN_jW7zGHrGHgEu1LU0V3BP5MTBdarlu5n5OGA15zlSH0vme_e49SFLe4_er4boZpmXwQo6Iv6hQmmX105CK7uX-ZYz2giLNpMBcVt3A65iVSU0nd0s8hg1hfVAun_yqDet94xwg825xPQtz-Shxlvb8BWNEMsguxGcjrbhfCV7OdyG-A9Q2DRG0E23_Qn7JjgODVRw36hXm274s7CdAC41wikpogjAASQrHs-vjNraZ3fOes2Kjh9x28scxA_Bge3sjjjDqQTX5Akt8g8=w1920-h1007"
       ],
       "content": [
         {
-          "title": {
+          "h": {
             "en": "Description",
             "ru": "Описание"
           }
         },
         {
-          "body": {
-            "en": "We hope that you did not have time to get tired of assembling with furniture. We will give you another chance to equip any of your Minecraft rooms with beautiful and modern furniture with the Kraftoid’s Modern Furniture mod. The assembly includes a huge variety of elements: from sofas to tables. In addition, gaming computers, TVs and gadgets have been added, without which it is impossible to imagine any home in the current realities.\n\nMore than 20 new elements.",
-            "ru": "Надеемся, что ты не успел устать от сборок с мебелью. Подарим тебе еще один шанс обустроить любую из своих комнат в Майнкрафт красивой и современной мебелью с модом Kraftoid’s Modern Furniture. Сборка включает огромное разнообразие элементов: начиная с диванов и заканчивая столами. Кроме этого, добавлены игровые компьютеры, телевизоры и гаджеты, без которых невозможно представить любой дом в нынешних реалиях.\n\nБольше 20 новых элементов."
+          "p": {
+            "en": "Spectrum Shaders are a great addition to most devices running Minecraft. Unfortunately, only Android users can try such amazing graphics, but in the future the author plans to develop an assembly for Windows 10. Below are screenshots, so you can see for yourself how the add-on is worked out and detailed.",
+            "ru": "Шейдеры Spectrum - это прекрасное дополнение для большинства устройств, на которых используется Minecraft. К сожалению, столь удивительную графику могут попробовать только пользователи Android, но в будущем автор планирует разработать сборку для Windows 10. Ниже представлены скриншоты, поэтому ты сам сможешь убедиться в том, насколько дополнение проработано и детализировано."
           }
-        },
-        {
-          "title": {
-            "en": "Creation",
-            "ru": "Создание"
-          }
-        },
-        {
-          "body": {
-            "en": "Use the recipe below to create anything you like.",
-            "ru": "Используй рецепт ниже, чтобы создать все что угодно."
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653637099_kraftoids-modern-furniture-4.jpg"
-        }
-      ]
-    },
-    {
-      "name": "MeoWhy Furniture",
-      "files": [
-        {
-          "url": "https://mcpehub.org/engine/dlfile.php?id=22886",
-          "name": "mw_furniture01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22885",
-          "name": "mw_furniture02.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22528",
-          "name": "mw_furniture03.mcpack"
-        }
-      ],
-      "likes": 0.6,
-      "downloads": 1.0,
-      "size": 1.2,
-      "previewImg": "https://mcpehub.org/uploads/posts/2022-02/1643710876_meowhy-furniture-5.jpg",
-      "carouselImages": [
-        "https://mcpehub.org/uploads/posts/2022-02/1643710876_meowhy-furniture-5.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1643710803_meowhy-furniture-6.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1643710823_meowhy-furniture-4.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1643710836_meowhy-furniture-3.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1643710791_meowhy-furniture-2.jpg",
-        "https://mcpehub.org/uploads/posts/2022-02/1643710833_meowhy-furniture-1.jpg"
-      ],
-      "content": [
-        {
-          "title": {
-            "en": "Description",
-            "ru": "Описание"
-          }
-        },
-        {
-          "body": {
-            "en": "We hope that you did not have time to get tired of assembling with furniture. We will give you another chance to equip any of your Minecraft rooms with beautiful and modern furniture with the Kraftoid’s Modern Furniture mod. The assembly includes a huge variety of elements: from sofas to tables. In addition, gaming computers, TVs and gadgets have been added, without which it is impossible to imagine any home in the current realities.\n\nMore than 20 new elements.",
-            "ru": "Мод MeoWhy Furniture добавляет большое количество мебели в игру. При этом автор не соблюдал никакого стиля: одни предметы получились лучше, а другие чуть хуже. Используй мебель для оформления своих комнат в блочной вселенной. Среди предметов мебели: шкафы, столы, большие грибы, камни на земле, туалеты, пикники, окна, ворота и многое другое. При этом вещи можно получить даже в режиме выживания."
-          }
-        },
-        {
-          "title": {
-            "en": "Shield and trident",
-            "ru": "Щит и трезубец"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381594_meowhy-furniture-15.jpg"
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381566_meowhy-furniture-16.gif"
-        },
-        {
-          "title": {
-            "en": "Salmon",
-            "ru": "Лосось"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381653_meowhy-furniture-17.jpg"
-        },
-        {
-          "title": {
-            "en": "Piece of roof",
-            "ru": "Кусок крыши"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381576_meowhy-furniture-18.jpg"
-        },
-        {
-          "title": {
-            "en": "Flags",
-            "ru": "Флаги"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653381597_meowhy-furniture-19.jpg"
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1651998694_meowhy-furniture-13.jpg"
-        },
-        {
-          "body": {
-            "en": "To get furniture, you can use the command /give @s mw:meowhen",
-            "ru": "Для получения мебели можно использовать команду /give @s mw:meowhen"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-02/1643710880_meowhy-furniture-7.jpg"
-        },
-        {
-          "title": {
-            "en": "Blocks",
-            "ru": "Блоки"
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-02/1643710838_meowhy-furniture-10.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Musical Instruments",
-      "files": [
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23213",
-          "name": "music_instruments01.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=23212",
-          "name": "music_instruments02.mcpack"
-        },
-        {
-          "url": "https://mcpehub.org/engine/getfile.php?id=22528",
-          "name": "music_instruments02.mcpack"
-        }
-      ],
-      "likes": 0.4,
-      "downloads": 0.7,
-      "size": 6.8,
-      "previewImg": "https://mcpehub.org/uploads/posts/2020-08/1597056343_musical-instruments-1.png",
-      "carouselImages": [
-        "https://mcpehub.org/uploads/posts/2020-08/1597056343_musical-instruments-1.png",
-        "https://mcpehub.org/uploads/posts/2020-08/1597056327_musical-instruments-2.png",
-        "https://mcpehub.org/uploads/posts/2020-08/1597056348_musical-instruments-3.png",
-        "https://mcpehub.org/uploads/posts/2020-08/1597056308_musical-instruments-4.png",
-        "https://mcpehub.org/uploads/posts/2020-08/1597056347_musical-instruments-5.png"
-      ],
-      "content": [
-        {
-          "title": {
-            "en": "Description",
-            "ru": "Описание"
-          }
-        },
-        {
-          "body": {
-            "en": "The Musical Instruments mod provides players with the opportunity to play musical instruments in Minecraft Bedrock. The assembly includes more than 15 types of instruments, including an amplifier, speaker and microphone. If you are tired of creating pianos from blocks of wool and fences, then be sure to use this add-on to improve the interiors of houses.\n\nMost of the elements are designed exclusively for decorating rooms in users' buildings. Some instruments have sounds. To play sounds, simply hit the instrument. Below is a list of them and screenshots.",
-            "ru": "Мод Musical Instruments предоставляет игрокам возможность сыграть на музыкальных инструментах в Майнкрафт Бедрок. Сборка включает больше 15 видов инструментов, включая усилитель, динамик и микрофон. Если тебе надоело создавать пианино из блоков шерсти и заборов, то обязательно используй это дополнение, чтобы улучшить интерьеры домов.\n\nБольшинство элементов созданы исключительно для декорирования комнат в сооружениях пользователей. Некоторые инструменты имеют звуки. Для проигрывания звуков просто ударь по инструменту. Ниже представлен их список и скриншоты."
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653759959_musical-instruments-1.jpg"
-        },
-        {
-          "title": {
-            "en": "Creation",
-            "ru": "Создание"
-          }
-        },
-        {
-          "body": {
-            "en": "Use the recipe below to create anything you like.",
-            "ru": "Используй рецепт ниже, чтобы создать все что угодно."
-          }
-        },
-        {
-          "image": "https://mcpehub.org/uploads/posts/2022-05/1653637099_kraftoids-modern-furniture-4.jpg"
         }
       ]
     }
