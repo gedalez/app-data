@@ -1,0 +1,129 @@
+{
+  "mimeType": "minecraft",
+  "debug": false,
+  "invalidAdLocales": [
+    "ru",
+    "en"
+  ],
+  "pages": [
+    {
+      "name": "Realism 2",
+      "versionTxt": "v1.18.3",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1Iwu6yZFb933dUncJrgxqI0XNS6Yoayea&export=download",
+          "name": "realism01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypDsEEzKsiKF1ZnDevERjH9UxAN8oLB_2FxAOO1tk29WbQ25nKYRmdlruq3QtjRmf-omWRVt6x6Ywo9IWp6WwWhDlrZof3TBm1XaALP2XUhybw5alZ-O16e0-wXxKySez9RhSYACX42Jq0XczuoAnyslpCFsw-PoeU4DwDiRdGnC6ib1ZHSda1LfUhR9ooyES4ccYjjv_i78wJGxQ3dXuSutpL_K0V5ljZuDTHGlYfvjUx1Pf9D6BK6w3UXaNJ7nxMqYCo3RQBUaylFiGPwwE6TVtg-MTDNLwrRVGXHoktaRFntouvuDvNncp9UH0fPCjCcgjuZVSGrCf1BOiZDUJyo8Pwx35sis4KwHUGAfy16kHJJpKOGUAARhOjGry94SScgrg4WbFcf35_8At1e3_9TF56A0M-kO1jayRLB5ELD8-yH9JEJ4zMJLrX5VPQNKnMyzwUtTw3J6drTXeaim1T7NCmEX-EozdFoZHIyLqZKwSN4NQMSltmN2yi6Ugms33tkAu__a_8OeNjzk8A02CMXD3ytEoh3-YguzXNTI3sA8lO4jw5J88SEfqC5YdB44oDthegedj3aVlR3-HYs8O9TbP1-qVgIg6LOeDmY1OLINmal7HV4oTXfX-K_CRu2aoHF6AH5dv1pJhGAxH4KGXsHCOx-9m1ZotJAwgC2BFhGX9g2MyoggXJdr053VX542o9ukAunGdfxVPHw0Jnc-jqF5MGpfY6rtBapwPfBro9JcDNMO2Aojt3tAa4fvtrleP7wq7P5j8TZun9ooahEqs-eYfklox2b3dZbY7WUf0r07SmOLh40O1ks6K8QH2HxNZ7hJ49DW5OZMoPpcG9uOKk6Sgarl_j6V3KKviFsl9WZcyl55ffjUktvzqKXzGoDu1AZIUJFmaXeEmzB4-z7yw8oGd0ZgGQAH1pfzsKP0OmQkLnIgy7eZUUFssXpcYI0hnt9fYV024bj61UazlfVVgrR37rkzzD_dj3-fxAJ-LWW-hpmIec6gvmO24P6m9KfH8sYSCyrCHJqoKxhzjGOTZ6TFYHgiEm6OmrcB0k0gpzDaHRM6pUl_t1uPnS0drXBMBzuR7yVpSq0N_hTMIhcjlE90CCWnN6o7iwDXLa3pk6boNYXwPCIFXZYXBoOkMHky3Zqtn_LpmQ-pmqN2hYmILh0DlK3t2nVtIAWaSqmifZLnXTeWWPSF1wWBRQGSi9Qt-CETQAdCk4UaJ9QT9h8aFdVT2YLXNonQldQbAxdbocQSdJ_DTgqRH5oPvyKtMWa6k4jo9lNQE3OqbYOcDBIJX4QWt1MYBHl8PJDzXtt66uqdU_ZIwOLKOAFWMdpBnvMJiEMV7Q_ufQMQAW2jiUvR9X_5YBu5LSocuN1fNjFlFz3NhQx5M4CZ8Jja5fPdBztwrVQCCS2WXRKqogvJTHWcS6rsXf3PtamSMxFG6SeMfIFazvhrwgZcmVLebX2C04tcg6Tr9fJzXMkxFG-99hLr6nFu0whj85in3tGRxqrsQWmPHDEQza6yDmKQr9XfLLDmrNMsnOHx_6s8VMRYo0t0VFZ2-dZ20_ktmU8=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "The developers of Minecraft Bedrock don't want to make the game too difficult, but what would real life be like without thirst and temperature control? Agree that in real life we actively change our lifestyle when the weather changes: we put on warmer clothes or take them off, we start walking more or we sit at home. The Realism mod introduces similar features to the game: now you have to carefully choose where to stay, what to drink, and how to warm up.",
+            "ru": "Разработчики Майнкрафт Бедрок не хотят слишком сильно усложнять игру, но какая может быть реальная жизнь без жажды и контроля температуры? Согласись, что в реальной жизни мы активно меняем образ жизни при смене погоды: одеваемся в более теплые вещи или снимаем их, начинаем больше гулять или сидим дома. Мод Realism вводит аналогичные функции в игру: теперь тебе придется тщательно выбирать где находится, что попить, и как согреться."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Item Physics",
+      "versionTxt": "v1.18",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=13_SnQUv_x2IIMgtk7eEPsU8VhP8bfVaV&export=download",
+          "name": "itemphys01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypBFBr1eCL5bijDXnW9U2ThSb3XvyCZARz0VilbsEe6ch9ZwBIksGdZPfrbFR9GTLqRnuoup-7Cy5nBFcqHY0-s63By5gkfYOJMA8F0YE4qi1eyEXG1RMUC_ebAsPcOnwJ-cd-CdborKJhh8_5LzFp_Q3itBsHyktB5eMV2hzridElM4U4coKa9o1Q7ZDrLDVnIXByqcqEfLD5a9BFvRw1eWqnGjKVKT1UMS3QlqRsYcbuQlkodiFxCYeliUSzrJ2sduWyIOK22-jrmIRiUR-r8KN9MRCXTDMEVQ9AOMVj429ZIzO9jWutivnElOcVXaqOW9DeW6H8F5nY_iEISgv2AlqxKSg1l2PCLH67bsBbBy05NbdU3lK0vc-176-b80KOaQLmlEmif9gwnjSwKXdRbuh4HoZ_9EaBm59DKHtaXUMA-cQ_I91gz5tNb0ChT6WNeX4o0sRAAiHQ5ouLlOZbbKvHjJSpcXthiwkjy5dEcl3ET8Z0x7tgrTcvBY6fLSyOjYBbSsnLPDGVZv2ZS-QFq8qvG0oWmLw8ietg74QoM38Iov1J3k6myJks7pvxo4xQsymX_7m7SJW4hP5QrGo39cdJG-GpC-wirOgVuVoS1NUXchhKlapDG5taQ9dbHqyI1GVEpAHxQHvbr881K-Vwakymyy-YkxauajI6pZQbHIv8Bu6mnANStMFdLU57xWD1W-ltpfU94M5jWLtqEcifjDboix7AcYavd8DdB94A_mpaFTkBi8bZ2eNGtbtRj57tsTqS9BRORZbuuPMCWFfk6k4STu1Eaas8zMfV3CO4NadXJ-ZW-Jrn2K0UT6MRPiGGkkkVgVbfx5XxOyfEiHsPSo1xxR2w4C0u89hVkPW01hZQSS9CuESiqFAbmBQN93c8TLr28-DR7UEVDXCpb9p-nvrBCXnZiSWIzceHxochL6BVi2GC6XqfjfjT0h0l7OZ_KdjmMCWyuuJDGtMEc_kp1v6laLV3tHIQnl7PIQhPd1tfsngRV_VCqf6ZsySI_KFKyQsdHPdlxB4T9VvDashoVgS6i42pSZsKUQIUOUMnEu5brvyXisqAB69_MJJVfpeEB5_JYG0Ee8Z1GmRmnV8YRh_w4CzFtyp7gpzHHgRRDqYOtQ75SB-A1C9HftLgYhWavFGvRUTCAnuiJ0Cn9aObv7u7S3pbQSqe7zcgjFsze9AR5BYwkZEMvI9dfW208oYDAyNEwgmRWAxPL1XZZKcTa3-86wd9PjhEkT8AMuKWBwe5aEo83eBsMPvNrZY0FOYfG_isLY3XXKekzti4_ChgxumVd3ZwTHfSGQUvTYA-N8UuUffcQRS125Dmw8LeZlhw22uZC0D0K5Oj4ULTpITs1f3tvmKUnsLlp_tpOBHMDib-LSZGbCX22Jemh5wggy3fj5tluaxFvuG1ezICis8etNhnDisVtpdUndJTJ3ngKxWiuxqQ2WXwstuLOVXW7CWVtk6p55sN_jvNklXI5HUhyh0SDYwNFRPr-E_ROBY__Pti2IbLFCZX0Fl73DBUmJTTUsz_bjHwArViL81KMzu-xu4p7NLC-ojHo=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypBckBfaVBkCHtgUtC8xB2Uhw1v1NtdNPte08VrDKBCiHDayKYIEKIH8ib23xfzKSLxt1cz5xwV11DF-yQHaqUZrU_spQabXxl5ymBo_uZ4Cjy3VJuXyR28dGCW-K9aH9fXV_Mn0oXZwENcgQD5LNyUGMLYHPt42owB86em0z_ouhj4ACz0gzG4GxFSzenhaunKdm-gUJf_WB2-1peDdFaKrgBf7sxEmv_Dy3cI2OX6x41QRB9QAl7EyvkDH0uRLdmDjFQYaE2xYqW_1Vd7Nd4gbQ9J0CiPEC-YCPlzPtG6-jcliTJbTPrtGHzGhHgTLh9o5qmisLsUHBzFH7j4pc8V2KaE-2Uz3m4yFkSzWJBxxit8Qbfv9vW_EDmTJSIg3o06vcKmKMjFzzF2AbzzAfR1auwdqI1rUtecilvJ00bxB0FVlVEjFRSdCurV2nxYeID_7ln-bDhEr5Ia3Bwa3jeEyoN9szyIcJnhDdsqKHvDkY3n4AeCQcHAupuI6YcNI2YOxhw4YvTLkCKChR1Z6xMqB0piMsP5SGLWfs7j8AqDonjiTgUBic-WGtlrzj8O7qBmQPuOfLi15aAmszt-uV4eJtMDzqbt4JZSb7t_TaSDJp4j8vVbQPBNPuVApFfotAKgtpyDzmi_Y9d9r5s2B80AUR-p5-Qa96xcez-I53N3JIGLZvXiGeDtOP5vxGglD0YsUwsXYBv9CJrvM5dNJQNVteiJELmKbY-L3Y7UD_FkaGva5Lze0Ddm8NKa6kqWJqNBTDe-BXRntVeNodFEXf7OK8LXnDYp0c9aSgyudA5loFe-y7MU4z78O_AaBaibtTLmkQ6-CV1DeYPaxBTvuZnHyaK4FeWsABY_uIs4Eck7qNuEANPxK0ZeC6MpXANJVbIJLn_cyVnnJniicvw_tu-JhZ4a7CDhQwTv0KNSBbZB_PuFzGajvzkkQKvgn-_f0a06S7PRVwGZzKZce5bbnei38ABsTFmc1HE-fKH2155DuXnrMRTY7dwyBCSkI-ZZeUvflEJgIkWa4QrvKfz_OiLvT6ezpxyG9rMOH6gam_goRjKeaj1xT60TPAzlwzz6ABaeORrt2mGB0MAWeopBVVY8y1rwgfmWmz8p2zfuSCT9UAUfzbu51EHnqZjBy9VW4O9FNSPbrrmYkuPsNexsIczDGr-Rqie7BwXx4O4nceoD8ay9IYU3fZ6YxSZtcb38gURRU0lSY_zqH0Mq8JHTrgzUDRBICL30l8YpOvxV9RuS_tWnfsqylXHZYow_EIm-J-Up7Sb_kTggS-pFLmv3wjzg6-HhFPhVHMsRDjk6nBqMA_xUOG3MKWucETcJi234s7iSHtec0rk66QZrmLP6pu9J4jz8zVHaV7MyxEVksYL_wP7j82YE2oAkFlb_CTw61iaSG56KUCo1TQ7XS2NYbD0u6eypbKVher8ifjaznqwVuMpNoaPu1hkrjFSzc2fnKP4BnrqQTHV8NX5NX2tcLKnN3pfrGB0_-SefeUTafpZrwhgHJ11TfwrDkhSv39b1iKdNBS9E_etyVYGhHfb3w2710T7I8IfviSFY=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypAXi2ucfsYthbH6IbMY_ki6zG4ivMm_18c_QRSA_d1_iLszsUqYXPL3_s7oVwYyoe7iyuJbgR0sTT4Oj19eJ8kCF_UFGZqaJ3R_yXKMVVz3fcof0lfOieTiHqYlUilOfDVnwidOxOyqLHVaDO8m23Rzjd0e-a2N4BAc8ni9z5BhgOfSvJus-3bxmo5bVJSDcOZOra86B9VTBdCl3swfrzdTtT2SxlMKlJZ4RPX_93RNSI3qAET5L-F781Knlzn-cmbbr98Eowx7qwCOWW-UQSPEXw-p-K5xcuZuNehMkJYG1QKg38KE02bXngoLJ1Z0zkiSl2l32_f5aRguvBaRzshevd4cT3-jFfGfo2r7tPhDT5K3VHG5VMD8vRM2aJHkBJx_2-PhPtrI2eAMcE3DvnmKn2e_Q9JmGQqA6QAzll-k1MOxA4vpDgsSlwtTaYs-_0MDVPIiCCw6kRanfjHnqoDkMaVkIHu0UINxKVxF3PY6WW--L1PZyZUdIPw__MLWlkF843PcfzlXmH2VYELU1TdCzr44_x5xGULEs5DARAcJQdAZb8twswERfnrf36b6rIJzG8iL3bB_ss8MMKUfS2TZUgMOpZxr5wd-5yp64sFFvN_TBWoQn3OKmUdQcpxeDvNlvooD1oBrnm9UiVTDEcv7VFvSHF18awwqULrkPe8kNPE8-r_jPZg7KlEwa6I4ttF671ixctMA_Tqv4MJNDoMGP7LNkCBy0ihzbx58Bc_gKHWzgxop3OCq2CkS15Emht_dJK_8hTRW9cpn7kVp7bVvylDM_bA3FnXstCmVldWZI3nQBSq3vEC5fBPr3wTBrdOqP-UF-jgmIdcyD2pjITpZhPoeeTHAkEAu9ygxCX439f7S72Dh0QnK1qbqxL618pJG8krdqV6WqvOSfsU0fL6usPrfPRwgoqYTIPQo8ir-fjfpGJycGGatxUkd0vSGn0yhdCABLizUYOeBiqyMvcSsJwDprT8jhNTVBezBH8twWiQgHSQIU-t0krv4zvJS90CXtCuAOpmB_UaR3wsUf46CHL6YJc_PSqbc1iYThsdKlWs7zTyr7vXfhdRIvHrTapU7f-mo0x735dgItodrs13dyDJJ00rC_GDeC-kMKR-6aNiI3WIGnP7V6S_ZZRmddqhtof08aezSiVa0nthWvGVmBAdB_MCTQpZIRqAW3IHpXr34b8MH-uIVYR8EBXNCOM-GyuldpsnRY6gAQccNDrc-o8Umjszy33ERDBKCgAjmjB820ahDyroGb5bMuNSlQ-qn9Jw7wYbFHBPFfLQkYq3s0UYf28C0TLZPhd-1FfUZBGmSvTlW8Niktq5kRz81Di04G3JbZQRrku6YHCB84bvuPqWuJ1oq26ON2UqBXpwBu-sFr8Kvj0ZO8RD__Pcovh6m9rUXWnipIclaUag8dw6ePXTopIii8UlYfQMughrAXC4IS6tNGgnmdBpd2vZExN7Ml07fovqZJh4vq2m3pvbSl_l5e0H7Gt6dbw4eSgMSXMlLRDMzj6pbpEjDn2BHwAkR3dDKzucyCkkFldX0zSLRdOpL8k9hG2k=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypAjwVirxzNVwSL2C121arrIwlvKA9RLHPEXHxMzXTy7rgHVH5MQu0ou-0bKmZCb2A7W-663-F3YBKeOlzxu1lcA5RWjex9yy-bMIZ3eUkkPaPIIXciu9fHABsi3sgOFkjyj58cWgzueNO3QguHFW3pWJCrowT_DWOuMvruUv5J3rb--3zXpBNHuSn0eXTAoCIWzyFAkeNq2b_TJCVW-4exkTkKGxceUigo2L_6vqZdFInnlhR3FAxVr2GarNTVJpQ7wZF8KGd0vYelz3E-eP4C8IRiOYNwABPYKUkjU6keCxqCXrOSlF7jRmeZ20I9WcbMLi6B9WAVHAesy3px5Lf37-rTuKdSPGHMXPcXP7ft8TwFW_rvzGNl_MEyGmL8IGW632sYCG_phOdrsNo-7TSmylLw-Pu7ynleV_ePdv7d9430LmF7A8ZPe1uVdZPyJfxgMiUacFyGWI-9-IuRJJzcUWyH3pnmjyhS_Jsu8Pd80W6NYMOwJOPagwAu-sfPb6_TKO4xZzsd4O25_lUzzIFVZcrAQcKfeIYS3Qbni5pPvq6lFxVN9CzpFqvR1xiHBLoBZuGF2iT8swBtvEUjOF6JLvHIUVZ6NU4I28SLprtYvwKhjuXTKn5v1W0ohWsQ4G6XAqyIFM5N6o70-MPFILAfiOHt3z2D6DSXlmohAXHeDI2CzGdJrt8kL64zqQR5dA4iKPmp0MdbzV-TpLTjLOrxmd2MFPL82NTVLxloCRLuCpo2kiBOdd385emF35PocM8Xs8-PoZ9Jp6dxJGIjBRFUwylfC9b46EdsSym_8J71aEFB44KuJpgKHwMEwFYNsYwfmvu7UI-imEYPODlsOKc7hBce0k0sUXYYNorO7Mt5mVeW2Jw_tz_AOLkPC3HWBDO44M2o1W3C0RVLkm0tp-1MrxyTpq8kpDKN_JXLSXmbTHOU8HzmMYtSwT5TzYBsg4IS0bkJ5sRTkqf4k_UMav22OTsZy3UDFamP1-E-GI1X5000XSjd_jIpwaYXQwP_kC0t1jhbQSXFLUTY_9MQjX932n-aMzM53UzSs7W9mJROA8NS_30aSVOgrXIPlpZGrRJC2jKm4G68LSykgG1rWttHQ5zIqdryLlo28wB_Rc__uLzzbDYbaEcanu36ged9lcmO_WVDIZcMuxRDJUoQIZVeEoVTA_W_DVdjjMOZAiljrG3u5TN5ZuMAgrBo2Zy6hcAW5SCDciX6rfmt-2JhvEr9HUSdtUm-U5g1qFUNd9HKfy1-Xip0HGa6xUZohzFyI8bYo-L271RW5Y3pICWDkeiiR3WPbgfpXk-qni8tDBrW5ct2iZC7sTxgDj9prgVSMWvyK2npxkEUIyqitI7jl9kF_om0A-JQ2PovlpWOQQqPJH8HA-N9KjFeEMVnKNUQKVkGhl5bFrXZpmoAFBdXtsASR30zHUjeirCUHTdin5iSB6JUq0rYSgko0mxIT0AiXD5ZKS1pwFiRG3PndBmLLl_-XCr9s56vQjOknyqgxku-N8WFh44K-XhPYYPf0Ch-0HkmB49ykF4XMj8fyoRzCm2TuYDbadg42Ghk=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypCbZ8P1Bzm-TjDGHX-YirAygVCW0yPNm3ynuuBwNX9DMeTmiy4G6YNPpB6vmVsC-XXhS7T4Q_0_l1_huGesA28lqr2eYQGHib-yZClZQlLZ7YoGDrmQT_DMsy2exGTEKCCWmPkRj5YzTEX7vYdsm6YnbZ9LMEc34IpDu-ANfbHoUHkP-8F9dRkOGH2jrKUhfeuAZvYpQaTz8ToH8zS9nXwQS3YOEPCJNO6MGgsMPhGlnwfuGaYrto6m8PKtUCt5L0QSwo8MumtbMIjkEYXRFM9aSOmsOPR2s4qFJ696LqlQBJKAovpiDOboEkwjA5kobCdBbKZxHsdf_fssyXI245F9qH9N8YCAsXwyVX9UBA4VwyVX-d3mm93uCrE246Sy-l92kQ8ysQ78TPtgrL2eB5pfWO8jUjFq_TH6TjP3kXUxR1hREdgPRKnFat0paPPi-TflwuCL3_UhgkWoi1wwm-IgGkYkmlh6JbcDRHG1Ja7EXPdLidhgOO0I8iz7I0-EiXaSYRaFA3EP2lxGhXPw3GgW0ohhGoNnAgLD0qtpVbp3fzQeM0QcHRUt4kQ1sF7-2eFYE7s77q-KukEmhqwEtDjfCa46qhtl1N9-HQdPpExjlBiwd_7QNEEEYWFU7gsZRiAtowgFpWNV_ZXdmu6U-AWHv7OJKcuBQO9wt4yqDp836i8jf1-MQqCteVqBykTrzOCyI5cC-oQiG0F4y5Jvj21WHEyvJ9GtN1NhIAq7BCQe5U58lWsovvRutbjWCyxxG_QsvZiKRVcgC-p-5gcitD_Bo_fmTGhaWR2Ki8kJ-ZwT8f39VwyQpDoT5icXE38ymNTOdq3etooTogyUcM2-5rsyZvKoSD_EhcWEw0cu4rG42pJVDDE441dIcJEzhIZSB8mMHii2T3x_q_nmSrGMIHf6T7q5sEGyQefPDHjgAK6P8UT6yYWaMyCzCuDXQa-aCX0UhyAzbJKjSUDUiUyF78mhyBgiUmc_a7ujH_Vjo4nNSv2HqVNrWWdq0OBgg8unBVHzyR9rEaRRvLiLitvX14kg8eG8yae6IkqzLW289r0hNpXGNBarFYPkE0JXEtcBSwHZ6tMWORa8LDAjac_pYGE4a8Y8Gx-4w-5YACrmc9uoPePPCav8JL9pzm3FnV2n5rjEHk4Mb63aJXDSRa03mkBt3vO7kQehXuojpni7cFPRrTS03p0UYyNOpjuHgwtsdHZVvkyKBW4H3LkcauXuwzb2c4NyVYC4srukT7vmnRR_r_34IicRVwDlIVyMtWxq0fPW0jrB4gRPp8dfFPZpXcVJHRZ6tL6WAz6EJ4Fyoszua7hfqSt-FC1Vi574VO7P0AQGjXSchC0cNyy0eOLZeYVM4ix23sbgYrOCF55ZTNC47AFawdtUgVw_jfLrM2pwJFW4Vq4iilG-EcyuG62FxRUeUnoPOM8t_XAzb-OhRwZD6MflsA8l6gjzq5bJbfmqfRE8pZN6KoTI-5ondgdw4KZFahCYcW-u-kGgrX1C2_JT4DDyxdlzgt9CMU7qJ5GVz6YztGaNfiw4MmyH9-PCXSLIEHDbnN8l5FY=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "The Item Physics mod changes the physics of many items in Minecraft. If you want a new sensation of survival in the blocky world, then try this add-on. All items that the new function will work on are shown in the screenshot below. In the future, the author will increase their number, which means you need to constantly monitor updates so as not to miss anything.",
+            "ru": "Мод Item Physics изменяет физику множества предметов в Майнкрафт. Если ты хочешь новых ощущений от выживания в блочном мире, то попробуй это дополнение. Все предметы, на которые будет работать новая функция, представлены на скриншоте ниже. В будущем автор увеличит их количество, а значит нужно постоянно следить за обновлениями, чтобы ничего не пропустить."
+          }
+        }
+      ]
+    },
+    {
+      "name": "3D Drop",
+      "versionTxt": "v1.2+",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=10XaEw6lwzER46tMl7EhP5SiCfjqOulfL&export=download",
+          "name": "drop01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypCf3h7r70h3N7acH6hW77FHrBEM8k6iqVWNIKdd_ABGuman9mwpF7e0rvSWw2ALcyBXa2uKYDKghdL6wQlf3v7kQu3jIbTb8myNyuTk1JE0ZrgFqn-SD7ua28t9v6JIVBikgYHLdJpLSDEWKVRLmZcJ7X4hEDmdDqG2nKKpDehgXrlz2_whkSZa6Nsi6rvL-yG9YKFB76-Dgx56KuQGsQsS6UcS1xiNe5s1IYi1iEtnZAzfKfzqLm7v6HMI2uH7U2Xwp5XqoMKOVkiVLJtE_5e-mRGfpe0fZxORlUbwxtuZsb2OkWMMxjZqVtmtvg7oD8sWSlnp1-JGmHINWtgNIft1XQcRbZTEY7pVEKPbZq5lmQ9DWcm-Rs1wa1_MGGtt05tvMOwp2cruJyEwerWRYIbT8DmZwBWDx-I-bI6isWsEizqBUmXyH6mVkCQf0e-A4rL8zjEfF3WZzm4W8_KV_9zyh9wHNgKvv4NpC6O64cge7DGixfwcFKRRKNAJP30--eg7aBfUVE_iBYJxCGbaNXMopu6dYN5Ss-Lrq8LFW19p8tPih1sdHbXPoJ72qGwQgsIEIJkHVNCmZkHFddpl8xs0sth7AJ4i87zBJt0mfVmSMQX16-Ty12U19OdnkelY76hJywCGPs1YHF4DW-jlSmBRAh_3EkTvOUbhxkvrQDzldr24t_BeI3X1JHHPQBYTTrZfXY9974wVJ38z5Mz_cLWZokXOXolq3BlgUUjhyHGnAPLpa3PJQT_KS0jZbxSWJIRChfnFWFlUuCRgFWCoUBbQwygi1bPWzr6TGTXiSugrsun6W6vODQQVUhnxx0RxRYnkSTNGeHMVdMChMmCL3PphilW1gw9lKtI4Vm-8z-M6FMs4cnlCDLzTEDEdxlm1Fy2rA8wdnoHgzqakxv2XksusUsDp1lE-ZvYQVS_nfT9pMQsbpMZjZPJ1fqLlTzyTz_wFXsodjWislUu49ny_zg3gmaBbEQ_e1a9rHBOO-yXm9cYvDTw-ekt1L7ybhnYHUHbLJJ6Ao2GC9UtbSloPw2akOyTRQnnB4-qhm78gdZAg2r2jC60s3qlLv97Qq2iRp1xaHU4ekRua9NJ2-4GiAie3GfaZWQLz7-Eh9pN0xZGygu0DzEgeMF7fkH1bmUHvZJaaOgS193CrdWdigZt2cFozSCyny8MdBDNNeWcczjwUyxDEn6pmvAA-q0B9tOCLEHcQC0MdzdLFGBJtK1dLUTtyn58NXvuCFvitMVmBaK9cswZDG4cEuWaq7LlQEh5zhLGu-RTqDuGGrpgiA5VdZddRKwsgeaQTidzptkF6CSWpwN-_W-OopNktf9cGvdpSmGiJ84KIOJ7II3W_ul5pvH-Tusj85myU6b9TA7S745ajnGAI5O19kqDs7E5fDbHOy6oZ_GbUa3NMCuwB5Na1xpbxEppmRCpXJVT3qGpnx8MFuMJOq3JLQG9iwLUlb9uEOlTon1Lc7_YBT3yCGglYHtD4_VYHoccQrCZATsyNTyyNK4LOTTRpCSDRHSMqSVcyfd5jp4kqyJowquxiTLqIsMN0dCiFDmRus3Y=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypDgFm0le3QCktSP-M8cxZJZtkhr3V2ruEie3iwATU-HkgGqwjv18lxgf8FPn7Xtfvj5BOK37K45kExyCjo9oOXtFwkEvy5iZipEWblBzoW7EEent_sUE6FqBV2WlhRtYbdBLUAqWNzJx2SIgVYOUPT0i8BISdBvckhaRIlFbdP6uyaem6fEk-uQLdyTL_eKrORHlXtMdSjJYrXwN6C8XIejcPgCUqOhku7ReBFIVRMYioZuL5aM_y1AuxoSYiRe56teunqajuY8kyA77vcTxiWw78QcbVSeayvnzfKf9-E7M-fzU6FscJPUzMxTkQPU70msSK0rHMLoBfySP7RP8Z42sG789p59rgkj3MpJfCoN_Jfyk1wE9OMA5V9nXDX-sNDjvwhILIg61L_b-UQqtyZ5-q2YSX0r5wnzgfJxpPe5GAosw8ASjbaK5oVmrASWbEY82ZnSR0i1sBSuliuOJjlzxIiuctE7-l3HjkNUUWvL8VdKcD2K-Pr1xbyQZpfEQR5VaLz6Tg5Igk0nfjYl6ENz_LPYlaDbfk7Nw2g3wuIoWgw_tGZo-mWX8IHQKxZJvKqITE1voH-w1EkYzttiGpFWg1b9gVDkAW_ratJs0qyexCcKprFGI1gFYjCjI09Cfae9AtVfhAPJn6NalrhlsIAh6YXVWHCOqLKPbVxuw3TO8G1tyFq_RdfAc5dgRbfmv1JakKbpKjLjrTeMPKS6fiZAyE_ZXzgOwSv0flLOo4E_UboeeH-MBhzNsPymXXx3z7hOerbAqfOqfT3zyHoVjWAba94C0NApOAet2li-oce8khF3Y-_288VMtm5il78_6nROWDCJlNFP5LDoF5TSdCMZuFfGBO931jPgb3Lu_giuFUQ-Q02w3b_m8gODbuDd-SNQaNo1YBgirfsR1q3oQIsYivD7SbCYKDFXysFVsGI0lT1qOPjzIMZyQPQ8CBlFx6ElFdGjiWDK2jYPRUTg1fZwTvHt65014iS_vp8a8n9HvLaCgqkFJwPt51qR4Tl3lLVatJAWAGFuTS59CaL3pELY6fmZNFRHfrE-QMOjm9miwdnpCBGzmhtc4HSkFvzD703xcsDy7tGmbZ5EXoMM52m19_4ERtwiItlnTLt-j3FBcpkH8Jnicfee2cfWzmtsC5eF_ZyTcQhONi6wpNn-U7m29W8fzkBwP635309X2gWcXMIQtFgnGaCbi2a_jh6LW_gpbj1L43rc3XFhfIXXG92oovoFkA4s_aNBacauka9jBuGYmgUNetfynNYVbCNPFmiXwj-mPJaP_A3Yc61jFrX3Ahs3wenTtUHQx5O76Bo4oKsHyQ43v15kiXLHdUO5uIcb8LzXjDGFPx5BY40u4n3OxhDwhNiBNN66lpTXek00nrw7cesLrcXYzaTsaU3xqNRFTuga8wSPf9UbDw_YbCp0F6qqX3TNdmBj9Bso1uleSK30qRGfjT_HRdIBbCH-jueq4pJdmSBpMozkhYmVyM7hmaKE49Gx1A0pfGMxM1zjYSwHsHEOFjg6aHf2hQ9unkdShdmD1R_j4QQCcavKdCS4za1yrDPyDY0=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "For lovers of realism in Minecraft PE, we offer the 3d Item Physic mod, which changes the look of the drop in the game. Of course, all items will be blocky, which means it will be difficult to achieve realism. But imagine if the dropped objects have weight and are subject to gravity? If you like this idea, then feel free to install the add-on.",
+            "ru": "Для любителей реализма в Майнкрафт ПЕ предлагаем мод 3d Item Physic, который изменяет вид дропа в игре. Конечно, все предметы будут блочными, а значит добиться реализма будет сложно. Но представьте, если выпавшие предметы будут иметь вес и подвергаться действию гравитации? Если Вам нравится такая идея, то смело устанавливайте дополнение."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cape Physics",
+      "versionTxt": "v1.16-1.18",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1IwG6G6hn_J32xgeRHUzqifR_Gfx92_vv&export=download",
+          "name": "cape01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypDLa1B1zW0CLJzb3pKBInxMEtR840pAFeX5XR_wkFc5PEzOu5Oo7IBAMXTbV7BgP8u1B6yf6Htxx3PRoubArvcS109FHcnOIvmfT8z8YvLj9-9dky2sVFUAu14LcLikxGf6aOY5r1ezxBDfI_oQuZVRQWs5qvTyZuf4nXkJiBZbpSQAoBCTP3F6kVB06SNSxQFfDXc8ZZ7PgPUvDHvxUd_jsVCCq9xb5utl1eH9Nkdvypid0A9VZrwPNxyw_RppVUWgJ9Crr6HDVzAtcPSYI0txx1R2uQSn9-T3x1_Iil7NWc8X6iOzFFZhCGI7pHKdEdhGajz6O8cRei8UoxNDeoVHCGl7uqZnktBWRt-samJKeAXlD5gfvCGbTAwBGPc55fNjrYws4tHUyP7aQtV1ermTiBUPXibK6TnVFeEK4u2lbKm2_lRwXpLE_gwmsu6sD05CypfX_2FCG2W488-8-yvHT964CObyg0KMqejtAPx8jU3FGbEABz-BtVaGji4He-8dlC4w8VGx_Rkv1tHxGUTvqAkMIlkq3xvaWtQdEeK1PJM-gFm6kgebOMmNqbe31QeE_Tx00Eg_96bdPhPtkgdoSNhtSubX27MPRW6NGk56fGVdExmffG_YQD0X4HB3955qsA4glmLUtStIhxaR7RJ4Uxo9nAxzOlG7nH4MCrfMQmh-1FueXS21Vsc_4DJsCpSuPi7AgyhxmvRVricAoE6ESKoSDPaGkDbaNwFpra9Cj7eBcs7LkhunQ4KvBRs5d3uAyQxrqK8w3QIHgixMIEsJGpn42VFB3gHVAwG_lkYNFMn2lQK0P_Hopp5YbC8y7LfOBPYg8xwj3I2-eeNIgKOzDty4MDmC6fihwrPdVcsY5Dr9ZJKmAPUn7BxV2of2Duj8hqHLnolR03AHJ_FQZ77QwDmowMma4lDfFKzK3iIcejcUUm9XdqXlE4ErKOZfYnj2pLZEREEYPyj2e8knj0u-gAQ-cEpjkerXFw7VoNJhiyPDfCQ6n33WVdccHaBE4QMSGly5jAvQn7el-Tc91Q-6Nxe3HAL-2h5DKmFiJNvvH5Pi0aACq1-4Ql9OpsR5gWCzvKIuv-kMk1oIxtuom72jaIwiAINsGosCu3Ua0bNhBe6bjp633tfaAQzimlKi8zZ7CWYA9O1_WdZ2_mcKQRVmK3uDHeOJv58NOO9yr14ejv6G6Cud3GQ8UoEI9vPy_zkiRpEhAZosrG1dMMSp2Y2anUowIsEPBAEeVU55y2-PCABf3_nE0c-QD33N_QN-WXPMupuLYBnlofiByIdy0hBkxvYrSFDMnevFl6slktQ1wyqpnmTujfh1WR5quhPZKQQV0lXLn-TmJuwnRD-edObaIbehXjD-N-1jU4IFz5lKHoK9L_OHc8pkE3KntugX115ivtn6T8gppOV0ejoUpF_YaxHpBf_ic5n4AbPHnxxZjRg_-6y0NZtJC5OsPl8cpZchBpxPhYN-GK8VTEnmgFDIEVCapWWkyEJnBsB7EemDQDHoYuxL14d0bP3_FWBSYNwFqZClXOKNRpuIYztJN3RIIhUBzBB_hhY=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "Capes are the very first clothing for all players in Minecraft Bedrock, which has existed since 2011. All this time, the developers did not offer opportunities for improving capes. We could only change colors, patterns and designs. Recently, even more features have appeared, and the author of the Cape Physics mod decided to take advantage of them. The add-on adds new animations for the cape.",
+            "ru": "Накидки — самая первая одежда для всех игроков в Minecraft Bedrock, которая существовала еще с 2011 года. Все это время разработчики не предлагали возможностей для улучшений накидок. Мы могли только поменять цвета, узоры и дизайн. С недавних пор появилось еще больше функций, и автор мода Cape Physics решил ими воспользоваться. Дополнение добавляет новые анимации для накидки."
+          }
+        }
+      ]
+    }
+  ],
+  "posters": [
+    {
+      "img": "https://play-lh.googleusercontent.com/f1dvTGoZXStzEzghbc8oBpYo0BRkMWY8apJcpaLc3T2_meWqTLf7jo_CjgKrm0RzBoSO=w10000-h10000-rw",
+      "packageName": "modern.furniture.mod.modern.house.mcpe"
+    }
+  ]
+}
