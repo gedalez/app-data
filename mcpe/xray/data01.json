@@ -1,0 +1,159 @@
+{
+  "mimeType": "minecraft",
+  "debug": false,
+  "invalidAdLocales": [
+    "ru",
+    "en"
+  ],
+  "pages": [
+    {
+      "name": "AK X-Ray",
+      "versionTxt": "v1.6+",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1x_2wgP_-Tu07QbqeyqpfJL4XrzkMv9h3&export=download",
+          "name": "akxray01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypDq6mRwMu_zFTptvk9miDULdoWrl4m-uw5gmWKsfWR_EVXRpN5hY-XoZdIdSLwV0L-CjVP9_-LNG1L35K_KX9tMQVQ1xTBQrnbj_8mkEansOle0rMsEdLud4-262fQeRMxuRtwgLwnKf5w3BgqBhu0zWiv8aSinn13Zv0YgBDFN0GOlqmaVHFMMObTvVDtcP6WmkNX4AtKPMLR0LaHny8bvXsnei7p0STT6QU1fC_qHhu_2SZ25ZyE6FskCu0Cwg-n9h3trhuJCMTvUdvL4arvS3uOkVryKbIQG0xtr5Xay0QcBbLVs3EWtc0Cjfybkv9h_9UhtGgEHHqEC3jgCUvcrZCQCMb7e6kl02hXvHH-Ot4Lw1XtXetBanQR7RMWEgKTs-M7xU_IlXVDNQ3I0ULzPZ4EELlU6in65Epl2PlFntTYMVKqr3z_fFCE19MoKfZfV9Cu9AeAwXuIk9rLNEzIzw0xNnhZiLIXizwXTfglSvbY6k_aLMVnEx6m1aNCT6WUT7dL6hjTwQNOf1EdZGrF8p5Q7106cJ_yXnNLdLsl1S7zrT7hBX1ySdeYLRwZqaez0VSPg7pGZbZyP5u-EDVmU2tEsXItK8S9IEHc4C5qLTA2st9iBaQuTQ286F3nskdBt4CKxz3Jcoc0L6dM13DWjcZ2ibIDZGmy8akWE15-Jc2BwX_npaW4XxfLixaIewcyOPCySqhoIfVP5hfGwt5IQUlymewsRHXwd1WdIglqTxbYR_WjOy06Ktc_OcQlFQTEV9K_wD5TLkw5CqZqQwnmokzr9Bw9cbiZTVrq6Jp_XW46XjPcuxzbufzwSR53O3pGRqmnPJrOrgbBFnXuCfX3v0LZ3LMfPkVgrINRhPch_AErF5BJNLEethRfTCccnhMag8VZYmbBJC9aEOGSV-daLBTUflxIhfZ9T2bghI3QLqP6m98WkNL6p58QkFaf6UEPhreQu52RNjnIa24ADBdVjJARUyaFloqim-THwNKqXbqsYgoQgHUNgieKIDIbheWGLuHOc6KyX1oGJ2-J-eXb7tfqe-fWsg3e2777FMyakDZTSVO3ZzYg4xUzNBQe1p6IXik3XmVjjUIiLyR9QEKYqDz_xnstFAlGzr4dyy_IIV3YnP_OeKwUS8-QCZEH9WjmB3dK3dxhDiQ8cpsYLm9ml0HpbF071bX8D1SWlxiGY9GBR1MDJrD_XvlBYN7ZN0v0oT4_4CEVqTN8YAgbee6aqzzebVYY8u2_CK5ng7MTnQNNuGFN-SWnZOPBfhTtZDTCfGu8q8jDaZGdtmJ_-ao0__sR4wCAl7dQqQqNL3vaGLMADm4eT6slnUzEZwkSQ2tKh7FRbLILshDAijoAUZTTn4afvnoy1hA2UG82_g02nlCMFVsIi_haYYyc8FFYSv8IgY6X1mRgkVvVEH44vZJ-sHW405MzSTh-0tGcca71eL1T5NHtOJ6tY-3eEtxnSgpmYTwgSlmfTEdo3FckvMTJ0icZ7BWpnn-wtxlalXRjvOvIaTUJRCxXweuf7G6tUPjSfYEpLLOIRFzratkG94xY-UR1SmtVjc7I=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypAa9DtKN_X-b6ERWMiFH6Y046yDDq6lPi-1bPLLHCiL7FGMz8Rhn7WeXISWXT4VpE8MEOSSorB7gZwewJ-CsWN-SFta4rCWaob9m2w3hWSoBASywpFqbuCrXzOgDYQJW9IcDCk5tEiKafV_pJ9Nytjbb9iVkRsxCWZzph84AAVpeS2KR5zX0SkOL1a6sJH7tvhnkWWwIrzeWeTxYBZ2KF5WuA-_wdzi9Inu7fDm1IuB8u7uV2SkKTjdkpnHNfrYd8xQOut-UyV6nhf8WJ7pFqfMRWEETClUovgKJlWItiuVxrIIwv25NwBxwojxF8Kh4DLEEsAN8Ra5wUqrlcP1jWxk2mOEkcrJGdG5eG9BG8Bu4dkba61lO4tGESdOdeuuByZJzE8Bhx7QPI-mCRJ2TbLdqy3znHJuFej8v5ulnvaYV2Br6LGwcwNvHSjyUeHtcB3_1nsYlajjngnK0lytNndlqO6r3qpXGxVeiXuU55S772ijGs6qC0ZvpoHcxaVhKa99foSzZ6di1sYTbOpr5QjeZVxGA5ZIrh08P2970yRYROZb9PtpH-UKc4FPYrKKZROlox2RfaYWuoFxGOQnNfKoqH7RLzQXfotPlRujpKzBn6ftdgBjFhdkdjkm__M7d-PNis3QPfT2vr5fb5mNwrlBDRiAbQwCkxKwpKi5tGWD3_hdrg46A46deTgLaChzSJVCi_ym8aRAAqBYBVeOcWN0Fw92NNvhM2eE-8NBIYhKSktYa2cnnju6pgJe6flhTqLsMPVZHoDE4Wx5SLOFkLe2a2i5ptCAn8tv1jOkXnwWLfF4JakcXTuYia-lUZtCn93vqadeOSomtFajQxxKGFA7A3Q2BbOrdkd58dRrL96-IEmuNLfdiMILMGvxDU9l6FHfdN6Z2Fdxlvrk3MpqqKmno2nswem4Tx0UBrBVFuRyotWqNeih7WCT4bcDu7Kouvl2IFYPv4JgH5DzGEEuSubK_0hjqFZLREDkd1XUZ6f0IAzSASNBuX1KghTZPPOXH_0q_QAKBu6ird4j4IxNLWHYaByF9ZLD514h2dvDqoB-meNGMyyptaXL5gtwzBJLsD6xHNNht1kFEwxlVYJWoKj80fMNDT7GRQr_WjJPSTfqmw-I17CuOg1vuhF2NOs7vF9olTOyVriyp-85-fuGyC2l-cvuLEQcLLFkFnLhS3gwjpW7w28FH29r4v0-iSAoCZk4TuZJ-4QSz3V0l_1I2-kK6A7lD-EmjXwcgrflBK-nkU5Q3_95enMaSNaMt0t4lFxKWBDv-puWJV6RpPEfUJytN9bZe0Qwdq9_xsY8-QnEO8J0MwDnv7mU64yhdmRknjKtRUoeMEXGOsLgurPE_FBCwLHv4aio1EuYPaZkIDMPAcuCRwochUZBLLXydiyb_wPia_cnOv8mmJwW5FXh4DTvtag83AmhIyBWhOtAzB30F5PclFwxBkhdfq9byudAbdD7MN0QOfGk5uMfQ1bKvyUJr0Q6NPC9s5P9uIx2izkDgBB4XP3qXecyoXMxGPsiSrWVAioDi6IAVRqFVEFuIXVW91IVpwaCP8w=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypDtUph_T42DlQ1C7edNn-c05tPsZLTybCojtle2BpVllmNR9m2AagmwOmnuYODuzt41oyVz4npsyDW2j8zUy7eahxu0JaV-qz-ZIDu3XgMeHRAzJTHKd9GjL-U3CsYjUADAwDa7812QCA9dGolVZzA-n6esSdSMkYH-0NgN2Hz8TY0oDpIeI0hDpfW4-h2ywy4RvESi4r99FaxTduZncoSJdvGzthOzVOSB6QBgC3VeUlIeot3lWa-Kd1a4sEAYjl-nahuwNThhdmWMDYdBttr7Q56PYybfsYLqQ3kV4V1FCe34hVwIrY59qj-0j5TOr3gKupR7kNLfiqn8Lhcn7eTxb50XCT-jqfsI2xnDShPMSPxU6Uf94JQVrXSnHRHtQxzBWfc23qqOgS17svXHK-jnk-YOahHjbR5hJ87okH_jfTG0kFSx0q5J3yvAdM5cCIMn2XDc-fflNjgASAhZ29qlmWWGc0g6Hc8T4OBJ4esmKoyqx3KaLXnHatyPoH3d74KB_rVMmM6viBFEX6KMACSPXsbOZwOHQEkARHWUOQ0thNSMrZichEKNgS5otVFEEI79xK8w_YnXDgmzs2iehYvEvHlEmhZiZopLMdYaqgZr6W7uBkz9rEf_uXoUjd8Hi32pu9mpXMKrXjmTmhYz3H4Oy68BaFx0DDtbhBD_tlxOTWwP-Rx_5lzm37x-y-D5a2jzY9rgZnwD4ehP3ThaRMdikO0SCXUzDkm1D9NR4r13q-sfRg-qtUMxqLziX2Ch025bqUc5Oo973_tSn1VWyW-PHbIPpNHQspBTha-ZU9roxTvrlKfZ4bJ5rAmuWstjSfxSMlZo0gKTj1O8fAwDu33gO__uQT7xVKG_sNGo4Oxpl-zUh3o0qTmz5PJNeNwc3kpdTO5wKic7-HlGhN6sqA4Ihg0I2ChGQeTbQOA1eSdMezMSFxi7fTlc18nNy51OxyR0yXygG1T6JgZIM4eEXhycCbrEpukRFV-AUkzzV5Xg0Od7Nw80zyf4RshHlbvWKBY-Fxw1-r_3PVvt0No1XIAm9blHZZwfWpQuTScQw3hMrCdGdmI5dZYQvr2IftRRRY3PeoacF5h-PM8gbtyGbkEjLJswq-XqBloZ4Ja3wGnSO6rlRxBdn7ULe9AYAmGfkYB32QEoxQE1gajH3jPtXLk1l35QBcn3dhot_Vf1AzmwYlWfPlIIwLo6ghq2DhOq0y-6Lpo4xhdLd3YzXdA8_hLqUPwJUVklDqU1-da8q6jqT-ho4loEv5bpln-nd5CFSoZgeedn5m_m9yln6HCtT2Zm1xlUycDgupOUOpmt3MXDkJOdsmcGHuEr886y-ZySWoucBP7udSAXeQzMtbxwucZ-vwtboNj_O4kX7w4VbeKgyfgEn7hzbkmF5qrPCDMLWZrHbMLs__evTLsaY_82K9HXyDPdGrRdr5_tHIg9t4EVQ1nwAldHQ_ztYjK8wxy7jiZXM-kI7G6bVrL4TrQYFt_z_lyOP_Ja02CRoYXhv6OVQSTMdKJzrlGZC-QpUdrAoDxWFvcvh2fxVae32rlUtFmLmlT6s10DLNw=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypCD0Zb-mud_cR9t9qIwRC6N6WK55O6_Q6UdF50kOCCnRM2MoAhWQoQpZqA544zwoj8xDmpbbiVXuCUeP4Xd1xqige-jzZDo9uOGZ_S-hMnBUh7X3n6RQTBGRTy5lCBCCbiLE8sGEHN6OCjYgmEJmLchk0QUKMcb3W9lurPQqBmQJGaJkeQCxf38Q9MtrMNotim6fcdFSrhU8PHM9t5xC5NVhdn8buI8q4vUtCggej0q2PeeDfg2XC0r8R9h4ThSAaUlqWrt2VpU6pomlt-I8YoBcByu30qZ1bh3WDkNsTRPQWFPOZ4DXmFHLBaqe4OrXj0_a-Yapz2nNBg5-9rWTjr8O4EOv-Sy1R_29MectNIP_BzzOdpHUk0VEf2rVoJVtlJvHCWtA_CRvBaY6NJRn8TG6CNK1L91rHr_TJL8RlNEAuI9dlXvJEmNN21tWmXtJWgLSYt8AqVod7wlE1S2MERWjpkkMg9pVc8bSnCv2MU-Gs_tGSueT6AplkuvmkGkqejHk2CRWRO7gsW_aC5kIafStHRRG9NTVrDU3nP9_RJaV7gTgF2LKkRrXleGk5kfzsOBBFwuo8XLFhBN-eWgbvtED3IhsRU3kuyhxALQMSSZaPmraTWcUXUPU7PyIc4DeExAtikI8YK8xjeQQYcQWrvigsgOrilgUlU-zbStlJSs5CWfrwxWQSaZSJfT-ife9xuL7ahZoVmhW9z8mlb7rKmClHQOhJemIIS4b-sXC1rPkicygn-J2MeXm-pqfUbyC4Hmpjl4mOKVr7Uh2ZdB6i0GybHl0Ttd5fQttHOZcPj4DHJ7oc21_8eTd8El3ssFiKqFuvfR7wl-lwR1STEZ9MID0VR619wlrr9Q--WPvZbJ_YcUqrI-4wOt5MBeHIgFpyJwO4FVvkg1200WHqH06AdYdllP7gXvSvc7-dmRayigB3BG-gg0DmgGCkNhkwD2UimSpt_DJAEmdsHRBvuOegOX_GOWQd6dVsZBSWREhnr7JWC2PAZ_awwqn1cnsfOqURvY1IWRdY88cEKE_U8AAUp6hOVyOqNzg4z-aqKBa30D2SzuO6JPPgnkz4J2wnVtz0sDviXMD0xCOeXAumyv4HqVS0XbPvqvzFp6Wizd5Ajz_jWPjO6V4yBN8RgGb288sQHYyTHgLSvwM_9lKpq5z-ctll0aINCnEeFSvHKhnSHKGvK6eJeHUMkYBrkX67f2SRXmmAA7dJ-phwU_R6WRjEqm3pYyqBX0O8fgilWeQ8naVe2zGJ3lFiA8IjVgZID06qKEKtXu7LI7eyTu4VHb1RKMdGthxjcF6vii-3cjFmDtJ4Z7jfmt4zZZ3NV1C2gQg0UQXfEzm51CEDymSpfyjhjWhTo7PMipxYfKjrT9GbpWK-uK8XoVpLn4AvxcU8WFVO1-aNpRp91bM7me9IvQn-Lz3HTZnC0mjqWP8C7pkbvR-lEz7vxFko7WgIiMTotuZVRHSLDSqUSyoUzH7oL1fF2Ra4riADq4x715W--gMW6ACE_9We79WG_RXJl-Wsp5tj1__ZyQfCfl2zSXA1UhO6rMuagwUy8ck5Q=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "Tired of spending a huge amount of time mining materials in caves? Do you want to quickly find the required ore in Minecraft PE? Then use AK X-Ray textures. With them, you will stop seeing the standard blocks, but you will immediately notice all types of ores in the caves. It is enough to look around and blindly get to the desired block.",
+            "ru": "Надоело тратить огромное количество времени на добычу материалов в пещерах? Хочешь быстро находить требуемую руду в Майнкрафт ПЕ? Тогда используй текстуры AK X-Ray. С ними ты перестанешь видеть стандартные блоки, зато будешь сразу замечать все виды руды в пещерах. Достаточно оглянуться и вслепую добраться до желаемого блока."
+          }
+        }
+      ]
+    },
+    {
+      "name": "X-RAY by ABEL",
+      "versionTxt": "v1.16+",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1YhwJnOgEdfmxZ7CyZaACEwKUEdxzOEEb&export=download",
+          "name": "xrayabel01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypAO8InHiTBHwreyg2yzIsHsoO98Nkob9YAvzQujBoNAm7M9NW_PN1bPNWRDBy_QF0zDWwKiWA-cfVOXEsEabPgUQkHnAz52R8lyPoPs9NiUT_6-uQK3Ss3ZnGF9jwLn7TnUiFU-oznYd4n69yA9i_z5jYHJUwfBYb90sBGT4acMhZHWhE13xTAPAWT-JRcoioW6tupre31e3yvHXm8yexbSpta7QRVAbhUQwf8yr0dFz_EQR_4fcmc1iZGt4iUA_FHF4_OvTKxAMwjdt9U7CnVyHF8vyqMt8m0PhpnE5yUEgxmnefkkpW4Qi1dneU270KR2jczzwTsc1URZksj36Q0aO2zongL2FlgKUKUFcLcP9qAw5MLS0YX9S98Fx_rvei7ZhZHmnMUdLdQTn35ojo1vHtdXUbpJvR64D632aAYHWIlAs7c4coAnur1_YO7W-wXIb_EyEFALuHrAPAeKxyUMnMPA_C4YjI1Ve4HBVKQHXnpQti0vJCxBqXsTzUXsSlBMXze89KvnmzrIVvId4FRK-gXyTI_xQbTnrvN13pmEdqcmHs1xKPjsgonLkXK52BvC3nZpUD1JtATWa67DZCuM21clgvkvrsm3i_lhExcsXGEZMezY-cvm43TaOV1waOgdeM38Kq1oEwROE2Eo_fbVdEbZ2TdOs07GDgaVbsWmqxJWq9xGQu4TxI5sHmKqd9lmA0kuG25o9OtGk9Pv6CWbWJZuuP2rvLplzkoEnuoM7Ek9N9elMsS9v3aOV6XdNMRh-XctfRu8ek4jLTpSRdDQN2W8JP40mD6ag8OiE1gqGaNg20ZK1XHj6Ddv45kNwn9lus74y_ZyiWA7W_YVApD33Y7TRvQijbfyv4poRKRSSg54TmdAJ3xx0s9ojPKWdZ3ZEHMjS0gg4iJoPpC-dG8UsgrWzZbmsJhW0PBDgjHqB6VP2OEd7fasO63R8s_UzVs5gxuyKXIFDo3ScS41lf723Mg_f45ERtltFYwfT0-cW4lcw_Z6_tf3g5Za2IQLoZpHJ1C2e8T4F5q5sXcliLAlqGbuLIsJSNwQqqykHMMkLEceifwg_Pq7LN0y82qLnqkKurCHLIL1_H6bwhVfZfGQjr_kYnB9beRXJ10zWBIxHFNrHOfeN7X-9mi2IiIykVD7nkdCzjiadO8oiODTy2iVCJv2dcV-f5J5RqN0urVn7cw-CkTTfl6mQJvJyEQSaq7bPJRCmIzFdPAqEGVGFVv22WBrSEs-UTy1M9tiZsTN-6AOT5n4KRMtg38aFdTDvh_NJjFgdwOnWZd1BbaHaAdUbGi7FekWuzI4wBJHiDfaduWeYL5vOnWtcaFLEcSIgGqM9lFAX7PvFgDzEfHHYm6JHiFuZYVWU4fwE4yA_P3MqY0zt6u8YEpr1oaRuDpztN350nwCYPXmJNNWnwfH5-zcF-Jfogm3WGkO_Vxd2jYT9FNnwy5NZXdowbZH7bM6ThD7_IkFDzM-eIrGuIuJsxbL2LGUeF3Xyr-k5__k0kN0rs-SCcGfJsqAnA7ihx0EOvh7G6g7FjQxwsBEFDgreS_0oLDKn-kj5NU=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypBBYSk43H4U97DkSeNStk6oLi_xxTTCDSBf5_IKXPFGJD_938Zhyv9vPwnVlKdp1QSB5xsV9TUuE_9SNKdB6dH4dvw6Zp6TXZRrBUM1LBoo4U4LNcxb3p7GpPbnQNoSnlkFttvVocpFhtaXBgodsvcYasWn3BHKa42DVAfe9oBcE42gyhMnJR59C-cVdLtH_pRbGvtybr3hR-0Ejum2tqqYvZjMsqLlOg4TI3jxyNqdRyd6VCUWoEfa4SpJo0y8Jv_adSN-0LIq1PZ6fKFpjDnsMCYOPHRAu2FPgGyAwSDTfo7SmUQPtiRd7yn5aFhL8dFgO5ktrJTbOlJXwcZ6Wk1X9lOT4-LSN4GiRuso7YwND6FdnaLBbB3F9skqRSFxwAD0stTLMLcZY1WpobS1d2VkO2ogOORpRwsWAqG_Mr0VJJUdRSRYU_ULc3suCBXKGVz3OfcWkg5TP3YBWwZTLsi4urjtsg8gOM6xE5ksBGIH6h_LWjzaD7YUewyipvCTObJkZUZpbqwnyJIi8uW1S-xmGXPyjoHjHZG1c0wu0EHcqe1yfLRKZws5CY_uJ1bYW2DVebqS3MVZ05xautWORrFFx-E6l5VU-LWi4R1INv0RTIzYn7sswTQaNbT6ZQa7IRrG5eHebDQlua0SFiRsX2GpIMU6KCVKImFsn_ZTqI0cSZ5kJqKU5tDBR3V01hPp9U7RbLd9zZ84xaVzqKJWKJFpWNw1StcnaytL4o8fJAeDcKu0ynM3e2x5r0D3rWYXsuI3c8s3TH3xz0ZrQmKBiQhg849549Sw0PL2nlwYb8hAJ4sPWlUF9VlUoxXwK-g353ndaSdfaZ-EFhmBqApokhC9NCih5jEMqtSj7e1aqEHKFcgbDK4ekp6d1iA2ytlRE11x22izXGz6NgHKUDIV5OScD7VdeoeeN4NL58OpR1uItKuC4MPSyosz1VTFZYXPWLdtTMDy4Er6z3WTkA34ptOQz0k1-pTVsivYOc3ZRNXxLJramJc1F6YgjHqeMRffWn0U1t08qcx3_8I7Oqufe7rP2n3xU_fCTCSlk7KdtNGTmqGoZIjk-Hk8nqHiulh_-Me2L5m3ORbc9a_UkRvr29W-6VHQIH9XNVKj79WENtsmjIJU66zFngrPa0Exuj8fWbHqj1VAOSAvsY2U5P94CcVUddX0AgFatpy1pY_9QiqE77xtPERj2l70bolr04Ayqs6rlWXmFr0uOcxje2jY5q4dvBbkPgnMW7u-vtNaAwltliaxBCrW_ZMKxqIqEXRgXQMmPswfIlN9QzSlAcV2CNFxjkKfa-MGkpfsJ3M_R3OqXpWBQkqyx7x2cszlF-kilSrJJssqSx_2BQK1Rxh5Gz0XTktyHdDxTUt0qyXPkiKrQYtLf-zY_6I1XzR2nCAJkwvmyffCmOyHd-UYKxy7cBvehPRgIS1jM1Jveu3wMXPQfZjS8G6O0-Z7zsYyb88Yf-tC3g2pemUK9VAh7-bAAAXHt4f0JwlNfe-EFY-jFceaDBkMah8Gh96lADlu7iLK3dKjk2TTxx669VAve4eofWqTE29B6rjH2GY=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypARDos4XBgw9VaZ64lcZVvoFcn4HmrDdKCy5zcfQzXr_8axMIoZn3Av0q9jwtQHPoIW_i1irgJdA_f8ECv_JGotFdP5Sjn1o-1rs2JIOs_FDEiXuHkB4Feky9qhwTn-E_Zm2G-vkXHlUeGyKlmJ6H1qCqET-Sh76AobFzk4GHDa5jR27FSgL-GJn0OCk7WRh8L0IUzsVWfvaAeKBdPjwE1uB-UFBlLAWYsAfkLU_M62UYV42Y-_Ri1ElGjWrv2d9JLfl9dtynbVkg0OJCbdk3YjchCeH-V-yWpa1qcG8noqwSnSHZkBy6YF9uCWtu8GZxjoBx99UcRlG2ru7GWE0oaxJywEcALrzgoUVDSQVPkNbr9a2ddDL06pW2D65FfCRGY8bHmDmfY8rAksEetv90lK8S2QjNQdqcH_gQiVfLAY2RrQGu2VufvcljUBL8eES2zq1nC1D_ZjrlZ_kV2VgDmrPiZseON1r3b3lF1TxQqgjlPlkmc9lGeW00FjJz9NuNDrHmkuoEDnn29aR-kHofvIov6-3q_pbWIl2IeEn2EP0TdVEVaZdOnKQWcv7TRUTpVcLQbg4Kiy60GH2UD5A47NOIVEGH1xxhiwosduIcpG2_ugvcTRF-nI5t0jxLPH0K5mgmwFqdhOLHsnXqM-tGXf_5TNQ5V8aElk_jXEDAre0KWcGekRj7KTSkr5jAhzdAwHLGkMkHjdC_Auhdxf9MU1m11OtYWIeX2fpmIsXF5wuqSa6BnCcs38PEa5Xik0xixnrw6qEBYL6c0CdTfEXXyTsYv2BwK-5tyg0J4s2WEt9YNBU_aH6cnoeZtKPI05_mMug4-LoxwHrG3BuOOQ8p5Tjrwks4UtcsW0qZvsTDc1pjWXLea0GJI5ew0cmhq-VeNWPoc5yZnNbt0yycDWsvi3opHA3BS2yFdtTqc5Jq5lebV4wxjgks69jacE668ajCZmlE07waEd1i3M8INWdC6lSMQuK03Xzl75PfJM2s9uX-TjEqQN3SFk0cJjKn-UUqr9J4P-NVEqQrxcQ9eUswhaC19qEWcmZO1xKL7b-sAQ9NycdhkzVvzcfcp8wf47zGW1eRSGAdsMDtFupUfH8OgU8-GY1PfsVCDMTQKiIFbqIMJ5XNb-QoGYqRf2pO3OurEwJ-dcnbgIBwKrw0u3bXfijXjcyXkAo7vD0No_nBPnFGzKrQWtTx1X3RXqewEBkYuTg1u5X04QqiYt45gi2hlmsT2k9aGiGMgYYKrS-Gr9gybrSc-oxXYrLjzr1Sqi3qifeihkgHu2cS7Fom8FUeJvY1GN25V8S28fV1wIe7NV_V6imKJG5LIiaiSjT834yUzZvlbk9J8qfPnZZ3BU7hivNSJGPzjYwbfOl54mv-jalNfTK0ifkCNvKcaX0rdjfhbL1-o6Fx_BstJA7xp4rbBw5ZjEC4K5Sd84ocMHSVVCQc5RGPTTAC_0htnlkZ53h1AeGYtXN4IJYwzXDsXXCeKaYViDX7OJwoAzwCjJLrh_LBKZH3ienmnsxsfGH0xVSJ9wBE9e5gaX_vjO3Zge0ShSiHchis3qP5c=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypCK1F-5VcRuhjnzeXja41eLiQD-1OFH15MS2RkD9DRYBIc72ZLGahlkx_eSxaJjLFLHSFE2o-GHeVYeS-uZQEgm_qtMpG9yhHHST0d48e3L5MWgNofJpVWxcDYD2aWl40K1uYSF9Ej9d8FRKpZ6auBPYNqLk9PLX0us9QDxvpc8WB0Hy8Cb-ZutHKjABV9mjiB0_t3f04F-IEmaJJAokKvnNxJFKyGMNE7m-z7l542qoig1P9nCYOrgjnoprqCfyFna3jJyv2zz8wflLIWojCBKGazo_cn30a9WmCHpXD_8liDwxep7S5iWpKw5hHfK-MTvXucHNnYJpNYyhGzNJypteNIQC8vuulzlFy7Xfspk6n7GaOD68B-O7_kG05-RXW9uBSpqY-4PBstSPH4geew48TXsAfIs96unjFqTx3ny7b9AgByAxfTaV05LiuXGh9BgCQTcg0lsyMPNWpybgIBQPpCJ7nQWwGMsAq-pRqeCZyFdGcOz_UWLdmXKYX-zSbV-9hxtpvce6MgBnP35T4aB6hcgQZZenbDWwOkryPaDIEg7vj0jYmJz4MzonrkPCtgpmZNMzFz8kK9p14j_N1-PMtlRcSlIHNEx3EgCnx_Eodjg91zandAbhiD8bAuVlxwIyVfrbBakkFTPIy0ED6XhZzcHmnSAzANI06_VghHBoFXgbhYIkMuieJZuMgZSMLN0dZ05DlFDY3iWbWGCK80lQITpn35cQxFM5C6e70GHnLrqnUEld9-xb0uoRepg2_-LCztwwIR9qyqB0Lkzye9pFFDWkOM4O_0YEuzhpeH9fXue-P9dLUPfU1pBEYnAc3zzWJFtMuFdpNoe0PfmWc6i3qbKVv9iu3L9Bv5YEtUezKbkoXt3vwTHNC3lNX2IC5wT2_nRiDipYOvE5UM0Qtv2TOAcxhG1xPSJOnC6-POfUxAB7KwKxZX6UMTOk_0A3JXT--BLOvrqnmHuXbApFqe-CUBzNA4EctdfUghNIrISBXhO8iusC5NuzhI39-mo1lzdZJmvJXhyVC1YaSzi4a9y7Kkb4SIJ2alOLkyRvFUYwYT_d_0Jv9YTO_NmwfHUJ03HX0Wq2sEhi9-7N7FlK31XSlxGdkL7ozH6zc1Se_bChN_xTuYtCC6Lqt9L5bN0u8IDxZ5UYJGJa3XG-d1fhhTedzaHDuw_PeZor7GS-SOZJgsYWU1dyaKfKVsgMkr5L16CBPr1K3XexI1dvY0YPx83eAOrEkp1fAavh6KIr_p_jUuQXOUOdoqc-bsv2OG5BYbMAcMrHUXa1wdmooWLqvFiQKmIcv719NZHS_qzN-SIH2z7Gx2PbRyZZ1iSGZGnYqgLORKw24NJF7dOuGreOriUxx2g_813ugfQlo_FODtgNtUo6BPQUQqgEFvtlY6E0LqmfAMVsWP6GDXcYGb9WO3eeyPNenbSNtpGa3K5VfSYH0HLqer3M3Vgfx064ZmzUD_CX36GTA0KO9qskJKHu5gz0K9tXSWz5pyUQdapsoDxQks58PUXs8G-vc-fx6Ojn64SuxzzYtUgmo4k4YT9urb-DeBcyRBmCjo=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "If you are tired of playing fair and collecting such rare and precious resources, then use ABEL-XRAY textures. Together with them, you will have absolutely no problems, since you will be able to see the ore through other blocks. You will only have to dig down to get materials. This will help you in single player if you don't like looking for things in caves. Can also be used in multiplayer to gain an advantage over others.",
+            "ru": "Если тебе надоело играть по-честному и собирать столь редкие и драгоценные ресурсы, то используй текстуры ABEL-XRAY. Вместе с ними у тебя абсолютно не будет проблем, поскольку ты сможешь видеть руду сквозь другие блоки. Тебе останется только копать вниз, чтобы добыть материалы. Это поможет тебе в одиночной игре, если ты не любишь искать вещи в пещерах. Можно применять и в мультиплеере, чтобы получить преимущество над другими."
+          }
+        }
+      ]
+    },
+    {
+      "name": "X-Ray",
+      "versionTxt": "v1.1+",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1ce8wBAzt8JitZwigEXjItEqV-_CdosOb&export=download",
+          "name": "xray01_1.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypDM-v0FgbycsTxJs9KgAAICOCbl7SjxG2Kn-cAhx5UAFq8KsMlIhQkd_9aHedy6WbdJMeJ3vhjy6sZ9XW5aPrjZxtPBlkTWP-hbkoojR5gFX5hPaH83jkmgoko2jMvdpc22pDuhvhEChNw80gMzROTTzJZZmeU7mVwcbCxr2AddjrlMPb5SCr0kH2hBZdctKQd8t7keCHpHAVsqZdepCWJRKDO4nPNkRanlouP73fa9CNLeqoMoTDFqfUlxPNcAuKLuU55j_OYnWNi8HmyDr1CpEjZze0r5L5KDHLW8x8WQxGmNw7imAOH-pYIkPcFI3smrnRJsvBiLgdV9JPI-7_H76rI88RbMNtgU_7NlH02Pvy8NCDWsmG4K0X4X9oq9XapPKMCat2BlAlLsX8uTX5jOcv8OdSz8HTY7t51ToYAjp-hfIavRC6vY2y08VT5ZVzPWFmQtoOTEhEei993Es_u9npsAqxbIHLCyFhSyx3dkxWfq1BnL7C3QSk9s5Hg0AId_qTkZnThINegkogyh3-8bV18tZ5XsxwqkrD8BUviaUKs-7qv3zVsZDnoZCKskyvbhSoFUwMQqdZ1odvnlcbiGQ0rzylN3uX51d1WgeMesVGLWEs4_TjcuDiHl7zH36exRQOkynaLuWNk5MDPEIysEGJIvmLPmxQLP4uWmIXfyc1aXW_opzPZJvCQoQYmadt3T-mtshTVwBmYwJMHX_uKy53zVdcrO7sgBmqSl_dOf9TDUaDbMDLg_GskFbDy-8apiUK_WIvTped4XvLqtOVG8vcft8m-WWeqdxG8m9JgwHsIY0doljEq-L3ppBVcN4OYHGvR4jKHoPJe8u4U7BrVFTk22asGtUBtkekCRZrvjUiIoUT62bddRdKc43dW9XCAJkophEs4NZwQzNA_cbAIOSVrwn8DuRdFfGWjPumUVArIcRZoJVuK5ZX8Enlmten7k2Zh4TOj6H5G8uebWNiR3rW37kcksmTu2dKcNCBXyIWJU_e2RlPnY0LFux9NQhGmKqVahJ8SGoAE8A4WLorvF2ytSClYZ_uULPR6BA9cuxC44yfBWRMNzMYBV_lJTpp6bsDtUHpwLU4AeigSsHEUZvigcDgJQx6r7z1KSvpGlrpcKI6Yu2d8GFGz0rEUj-7TxduKbKeG82ehB-UHafuwJs5-yzAf_xRd4dmg-XgWAR2WmHCt8ljcoXCs5Iz4Lk1SRO49CO4Zvdq2jrs631jOqee-YInt0YJSuKzWzwnM2gmjQlAzQSpFFXHxZLesl4qWpQ6auK5LgoADejXiLyAI33jTmeXtXLvRHRczOxbyBg5s8MLXzpGRd0pBFrDD-Z0JB9nWNu58xL_mR63XJpupY07Cqcgwtlex4suJDfzenihbu1GZPUNpl6-u6QJGxdODPp0kmMVh-V0cPwncgpT9TlDU7rsr6DVv8dM3Vl29luIJWj0QV13N_qn3GOiB98Hg6r8G4WHhQgo9uP4VZXHTjzF4lIqWkEWN4-Zd4N9-TQuDmIfx9cyJCYeP6cegt166QOmz8uWjDbOZYAE9C5FbTTcEVwv90IL0=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypBf8qzz5szxf5uSfdnlFrFUEhtmyztoiY0qoHcFdm0-DUqk3UN13gqR2cC5BMgMnAuY_d9yncJGH23r6JRpk0wMFPJ9OlEBC904BWvyiYcLl8XmjcFQngGDW-RExzBo4uo7vKxeuhbJoaxBBdYZh2BFnHCXCO2K8A8qfqZB7oD6pwWemKceXude_oF0N_-Ljpri7h1GrR0AY9inU5GOd-0Uit_YHb_Krw9HDal47L-cl1bEjHCOKph5JmuZlit3g89a8LKPwBXLx8nuKtt6MZ4oWzWXsCrqNGR7GRbkmW--rMoOR-7rkvDKht-FRnEg3xF5kDIY7ksrnwePyNZfqecueTuR-N58-zTvjLwqCl3rHAD-r_fDKc7kBijkNATK21U54UnUFUS25X_OnB0Ofn0EIkFrOwcsmEIgX9RwOZD15G7vN1CwJeP24c1odI1uLVP4Zv4ZQiEJrvJWacbvaB1bx2knwrKT-8Ao4r9FoRKCR7fpCuvp1M8vbo-gtrbvzcPZL10L_bnq7Q3tHOGq_uyguqs3RegA9ZzPVfEzugzufE6C3rnIzzdYRShlqe4lz2kfBtJfHtPV1uJvkD5AU2hEBktpoQNmxR9ommBGJWG14x_Z7fdPwsmuSMOGSatxrYy8u6DM127Sr1yBnaMZRPNv0mPeiMEhoirgTdBKMgtaLHTasXgOVtfVHgSxb-kPm4SzeTc-Da5arnGD__pWzLF3ATlZIBleivq8LGZSFtDk5xJu3OCTIL75stVH4VF1iGI7-FQEpnq2EzjyEhrA3wHDphAYgAM_w5I_eKXE9h5PGZMw9kiGg-AMEoS7HU7LrOoSzEQu9ONCYnt6BujLWXFg6Ozczy_sb--FFx0LrAcrkByPH75tV19rDte2N9ZNCZ7w-NBhfCwYSGvPxV-JSE8mC2DN_9g4vkiiAMm4vn-ry9w5xueEmZrdbW8jvHyMGPZc9o0zgAUHyzffF-JTiAU713uMIn0AYjnC6On8AoZQSTLLppFbEHPL8XGJDJm7SotqjmITf3_T9A2jwN9hAgU1lO2TRyZ0zi5-1W5t-upOzIv8YXDMMlqYSmD48-a4hoZ5zinzLhGn2-_t3uxEF2tv53a8ixRcSe6piuP4QM1UVSZ0TZFch9j9PoesiUZuIwd4qm6jBiF7QxqdWo0VJuL15FJIgg57gb9arWLm7eah1NAdqUoHVTP5mQOx2PtftcE11AE9EPOb6NergNYV-YFmJLHi3XNDC_vCqTWYeKWs0sZTKts3nEwogOoT7xqogVmSKoSzqJqIOoC1l_-O1zwgJB3FUte4uuGV6Vgr2A8zpDdSlAx9xWadq-R4lGplRrXzDHEmIl24ODdE8J_f_cBwRDiDElgBCY6crkWiNf1wAUxl5ckABOJqYVs4eNTmGHZxBu1WpH1y7NVSImSjkzgtbXv7IjMStOPy1EwKojVaJkQYudkLyAuVxfRVub6w5KZ6ngnDRe0qQDWhBbw5DYwg8qkIM5JR-I5NpnS-_Of7SCNA16VmlPX4aQdqJB7ZwLtrYFGAlQH9HayWIQ6Gh_ylxWF96YLHcOc=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "Every player who has tried Minecraft remembers the moments when the game slows down and the user begins to see through the blocks. At such moments, everyone tried to examine and find diamonds underground, but it did not work. X-Ray textures offer a similar feature, but players will now be able to control the visibility of the blocks themselves. The user can easily select the visibility of diamonds or other underground blocks to easily reach desired ores.",
+            "ru": "Каждый игрок, который пробовал Майнкрафт, помнит моменты, когда игра тормозит и пользователь начинает видеть сквозь блоки. В такие моменты каждый пытался рассмотреть и найти алмазы под землей, но не получалось. Текстуры X-Ray предлагают аналогичную функцию, но теперь игроки будут сами регулировать видимость блоков. Пользователь может легко выбрать видимость алмазов или других блоков под землей, чтобы легко добраться до желанных руд.\n"
+          }
+        }
+      ]
+    },
+    {
+      "name": "99% X-Ray",
+      "versionTxt": "v1.14+",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1D0nktc4IqfzJecTuuUvJc0CC_607vrMy&export=download",
+          "name": "xray99_1.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypCVJRqKSfwKtfteLfzlwAVn73q6KKabv0s1m7UmqqeavxQBKa1E9r6bz5lwA4ai9BHPQdH42Ijt9yWiUeNdMc4h3uhY308K74mDnrp8PYmf0WvVTismLWlYpY2Fv0J4cbkpZUmAE4O_dIOa93q-DXrvKasQUCApkW50xfjlJkA-Fpy3W7-rxwXwQaaEOjiB4_yyXii9exhF6KpHFtuBm3w9mqlBsxtq8N3MXmwCUJ_mybQRPxvKTcYLtoyEY49TcVA8pv732pJFBmj_CaU-4ebFKKOXHedev-9xnMuQNOPgXPtvc7dniYlS7SqgzFdmHq7MZp9z8DV7wCZQJRFM9xskaMj25h-vd-FD0UCkEY422Zc2T5S1fpuQ9QSVSatGnd8sTNeip1jWhF6I0M8iSaSzwOzm7ObX2z_QZMeWfrWGBAWUyChls517_pNMAZVuAH7POR3tL3JDxhxYs5rOT7V2H7tfpw4rkhRo44sd92TyNqfwo7-7x6MAYB3CIer3Bij-l4DSlBnnQKdWWY664F_IAgnc85_zcrad3hSQ90w4HhQei6W68BpbMzm26WRUkJhJvBsT-yl-tAGHrQW_EpKCnRpBojBTeG4BHC-dMa6uPTrXZuBAv2J-79djlCJ62ERR88_VWt8w3wxhn2q4vzr9MxrHekGt1m9t237dbxx2PPkxtzASbJj6ITkk6BvpxBhYiY7Sxls7A_wrf8Ujv3xYSrWl_7GHJd8XV-lxY_5UDGYgJjDOlsRc3Ghr4n6jw4vAcbKgSlPIZqXUE3acne8p_xbcVQ3a3N3vy9e4W-AcPcTPNvjjPbS-y5eZ_vOuJwutPXncHqACdnr91lZlHj5AI2O8QLfRkbSZACycnTwh9Jxjux1P5OSdWzezqsigOjIHJDh86K_07atSxyvdiYbCC-EGRAnXNEy4yHv1jfkk65NPe7qmfF51RT4mVNMfYo7Zs3qlU4MgTwMEzaxWcSsjN1azDi_iIbysRdFEQ13Iacr9ywJKpQauPXwzTSIlDNAdxP_B9magkC_pzMTp7COQGBF784mTfDFok0oWgarSJU9t-Fgb38zSvU3Sy-LOvDdPIu6Eg7w8D0zzHhVcm7xToGxsGX7uoJqEMD88PB_XXwn1Jw9ObanBsRmdkSKCTGzGi1HjO-dAhjZFo9fkn_7GbaL8GgmJoVwtrc7uldd9s_U1oD7BpQr6AFsB1ihOvqWHhh56N2Ta210IxiXi9mOtqftbKBzSJ5MDcvqpDfyvAXjbx5BpwdUNBQkt7ZdHklfO418F67sUWvqWlfPVduXcz5-LtSNLCdGvWRcs0NgBsk98kECV21FTnVK-cyCLTWO312PCER5SRETtjomBzLyGaPTHZnGaLXdFL0QS-jMqBzREQp2Eexc8fPS04VW0-65NHRDiYoh6m3CfoHXqTtJi5q3zRZC9THPpv-bESGfmQFvRh9sXf5II48VSpId6R_b-_GJSRHOheANNFBuucHX9UnCX69JkJX8zlb1hK47CHccTS5B00srtABlBqoKsAThL7dUXU5W6wuN0I0r96yzLMc-nkoFjufE=w1920-h1007",
+        "https://lh3.googleusercontent.com/fife/AAbDypBFrSwO1kLkGn5S1Zcdge3R_e9MYsIsChO5NL1tzh-o2fAV3800KKNIh_wa66BO3NVOKD_zSa2_fkKitKCgXA5ZMisp_LM4DBIeKQlH05c0rJ74bEL7HFkilgR16jl7FwJvbVMl8BHykCkDXlOxluuyRhS7UDrq-UzxzY9of-pALBmUvcao0XLozPQ2clOGXE407dSKvDzxNuUCC-XeDUGseuHiyisVwS-ubmktI3MNDc6wkeJ2e1zkf13xmVhgXi50IpMY51tdUGDImgK9QWhyjbISp5Tt1JGycs3YQGCnR-4WnbjxsTm_OkAw8Fvffijy-_GRUF6kjJc4mllB8EIztYNejbarT-w-enD7xlc-3ts12ioP3T6B6xFrD_3wdF4m375gM4xYhKhIILDHKlo-R5W0bpuWoj1zqedPCiHUcUxT1phzxflwTcZw6qcSgfpEo1vlGai55wvF7ayGeDsdUZ7DNYu1Bdr2nrQZaUBbMZT_kAXlTr1-gk-oK8oyZnP1skBWdWWL2iyNoUQyDVDFlU0hCtb1qYqpeHjBPtCAjuxvlpjjs_TCCuM-MA4sijj_cyNGzUa-NqNn0rJ-vzDDz-2szwWJzg10rqKmw2F_F9IbLJw-gra6bLnHas7GWInJtfSZgpYM2fP5mCuu2BbFPHeGlk1z3USawKwPFy0kUiByOpf5-E0w-yHHM9JU-KFWzH3xllGnlAemsv7BZHloWU5i4mfc58HZQWeNqMFBQ0lzyuUosIXyReS7-gO1wqxp8OmO0UJEBNcynG0H5kNzpltx_QxCvDwWe7yPlc7eb3gxx9YLfdEUN72Z7DiAGjbvBiAHSC0JrDFJHDAUCtkS3f7aBPTUyuyrx-Xw10o8a4uTlIQZO03Krnl7BP5eu-yidwO4jGGRKXUpJSPDfwqrl5D8o8cmilRBFf-zcKR73VuPGodtMjUV3BtAsHCP_c_L78ashGbOIzixgaaVzciHuPRdfqpmjuN5yo137m7CNaioX98lxij1gNqULmaAwlNZ6aDYz0edq8FhWhRvYPImrVl0HJrsdGMiKqQlHzd9Di7cvVou0R-D1hhGhbyEDIfh55Bp4gh9Y3VCzmtE707zDvCkNqTHHfBqgYtz8R_nc9uONnCosxGrgJqj-DJBAoHBgxWrQ2vKCAPT_Cb3JnlJI1FGQXLEXuOwzQ-cN-TOl5zK_tbbYxyVbbe1l30OdaGQfKuIh57ZNoKsf_ZTAMX-n81upHAssM-a2L5qF2gsNBdmZhsW_IxH1DUzZBQUbbDoci7sUER5pktunaf9tj-aeeqyZMCXsxxVyGxqKdM76_r3tLIRxNfSAAaWyyHVoObgp7uuZt0428qEBiEjq-adLvAqAf0926ujp1t354B2jLkh4eG7tKfOZIrpOUMOXNKSx-bkHenidvyMhwo0DeSrzWCz85VhVzVbcgy2_sU2pEpF-CLvTW_BxiIyKnz5moEyaV2iCKXKDvlbZv_XaUCHn1rmT-Q7YxlnWUZovqQ_1OwtmkykHb7wGNx82LtzIs-TnFbpMdGUC228WNPPWunaLeSSVYi3Byc=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "Textures 99% X-Ray is another kind of block scanner that will allow you to easily find the desired types of ore. As a rule, for this feature to work, builds make some blocks disappear, giving us an overview of other blocks. A feature of this assembly for Minecraft will be that the gravel will become visible. What does this mean? Let's find out more.",
+            "ru": "Текстуры 99% X-Ray - это еще один вид сканера блоков, который позволит с легкостью находить желаемые виды руды. Как правило, для работы этой функции, сборки заставляют некоторые блоки исчезнуть, открывая нам обзор других блоков. Особенностью данной сборки для Майнкрафт станет то, что гравий станет видимым. Что же это значит? Узнаем подробнее."
+          }
+        }
+      ]
+    },
+    {
+      "name": "X-Ray for Netherite",
+      "versionTxt": "v1.16+",
+      "files": [
+        {
+          "url": "https://drive.google.com/u/8/uc?id=1v3km4Krzv8GFvrBFvvnGh0-6fMLFWxNj&export=download",
+          "name": "xraynethe01.mcpack"
+        }
+      ],
+      "carouselImages": [
+        "https://lh3.googleusercontent.com/fife/AAbDypA9y8yJC44_xZmJ1t5BLJu7Ay0b_UxTr0Q8et5noTMglcjUc78OR2gJRKs7fI-_BpDasV4H1wgvTkGrFktSWvVuZKLvMubHzkamp-W38xvilDercYDgfcbQiWbUgNmJCjdpkbiWknZZh-v2KxRTOmFvWoexERGGsCKZMS2WheBg5mxg8lbKe89rSGOtPhmdxIvWVIP6rnU5DRRicG0SzVS5JVUByJ5t1xqLhTal6E-NkzLenyBmFYZVe3Yf7vsVn9gVjTFV6q3sMFIE-JhwMrHQROTe6qDQjTkogt5ixUT3FSxEihQDejHpMMBmoDT2KIInXrO6kL5ROCtLNa1rT0UBKCfAhSaxAxAqcwJ3gF_F1LkUYfs1QEJhUHmOQCfkwsopQm2VCdze-GJDPHIHisg7_2VSm7RFtsUpumX_JA5tUyCK_V6Luc4fDqGU0PjG8TBoDCdarkCmOAhRmrEPD8gkqQ2WpgrLcBMHC4zyJxt1CIiw-YfShPADSRl2hY6T0jmLZtVUp74XGUwJe7OF-dCqEcOyZxIJm_xiCIGLwJvWfeCU3BjTYHzr8uOIA08ownyqqr3I-eS1a0s0gnnbz1zpjsdtq4bQahosVpbIqEWLNhKAP0doxbPp1cJHiQ97rht8zCq8zpPXi7PJSlTaC5xKs6qGMlEtfIe4eHCCZKfBnZd8BnH7qJVljL3Rp9GzqONQCszTYOYjasO9Jc2l2M-ZY_hDC4tO_a4g6uHhHSauSALB1FrEtjAC0hO2fvMZbJ_ewBBKnwgpeBuuOxKbixpsvJ8wvPC_C4HzQxUA9uYbyUzR4rORRBLnf0NwnarlRZQNUmh4lezl84bmwSpa5J4Z7pGjRKtd4YvtEzlOe8epJdtHpmifa4KxvR3xevLjPhzWu4X4ehDGUU7pwYQwaUooDPxMqsHTHZS6LEcMrk2MsOskFUofw-RSeWKdpOkYqg2ncQsElUxPn5bDaYZCIsNnxs8EGeABGiXohXfO2-0Hsdqit__V2hdyrz-_Z0jklktjdo3uHcPzZphmXkvd0W9-BT9RzxPhHFDaHCgULVjTRoQ9vh8VgxEqvslzDihW5J5tyg6ML3-HZdWnFaAlUcMjOJeMzqt4grP8dTBG3DdKcKUxpmRbIrDcazK2pL1M1RBQ-06s80GGe3rWIOPsSGH5OFi222WrSqHlOhk-Fnj9zolncwYPrvLH9hNkg3K5OdvW6ogdNhVnzlQJTwT6yAcDC8UT5ywui2nIFq_UHBGguOfemeW-Y-CqCudWGDUY7ZYN3F13vQ1Hdy8321eXXUG4NOhMV799glkK7U6SsJtkzlwEkkxk6d2Dha-XQgE2uqv3knZC3YlLpmQScYFOrzkjV3UU0XZXRioaT77k-esgSThlkeP1kqHyHH_ZIwIULQeyMgPZA31a_iZoUBEaKRBENzV6EZFHMADWDrTuEUG-YT90-1X2fJXCNUB95A4kNlaUYSD6jc9PY8hDs3AWFbZWFfRiWwq9B5s-rXW_sBVmUYkg8X6deJ989rt2PShSXop3CmaOAx4YNNqiUFzjJvi9uGA-LeC_EGU=w1920-h1007"
+      ],
+      "content": [
+        {
+          "h": {
+            "en": "Description",
+            "ru": "Описание"
+          }
+        },
+        {
+          "p": {
+            "en": "Mining netherite in the Nether is a very difficult test, because for this you will have to not only build a portal and equip yourself with strong armor, but also go through a bunch of dangers and find valuable material. Pigmen, piglins, hoglins, gasts and even ifrits with wither skeletons will appear on your way. In such conditions, the search for netherite becomes a living hell. Fortunately, the Netherrack X-Ray textures will help you cope with at least the last part of the challenge - finding netherite in the game. You will still have to fight enemies, but the netherite itself and other materials will be easy to find.",
+            "ru": "Добыча незерита в Нижнем Мире - очень сложное испытание, поскольку для этого придется не только построить портал и снарядиться прочной броней, но и пройти через кучу опасностей и найти ценный материал. На Вашем пути будут появляться свинолюди, пиглины, хоглины, гасты и даже ифриты со скелетами-иссушителями. В таких условиях поиск незерита становится сущим адом. К счастью, текстуры Netherrack X-Ray помогут справиться хотя бы с последней частью испытания - поиском незерита в игре. Вам по-прежнему придется сражаться с врагами, но сам незерит и прочие материалы можно будет легко отыскать."
+          }
+        }
+      ]
+    }
+  ],
+  "posters": [
+    {
+      "img": "https://play-lh.googleusercontent.com/f1dvTGoZXStzEzghbc8oBpYo0BRkMWY8apJcpaLc3T2_meWqTLf7jo_CjgKrm0RzBoSO=w10000-h10000-rw",
+      "packageName": "modern.furniture.mod.modern.house.mcpe"
+    }
+  ]
+}
