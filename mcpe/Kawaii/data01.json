@@ -3,7 +3,6 @@
   "debug": false,
   "invalidAdLocales": [
     "ru",
-    "en"
   ],
   "pages": [
     {
